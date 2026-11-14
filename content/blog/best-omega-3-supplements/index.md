@@ -19,6 +19,8 @@ Omega-3 supplements are one of the most bought — and most confusing — catego
 Amazon and iHerb. Labels shout "1000 mg!" while the EPA + DHA you actually want can be a
 fraction of that. Here is what we recommend after comparing labels, doses, and price.
 
+![Three label checks that matter when buying omega-3](image-check-label.jpg)
+
 ## Quick comparison
 
 | Pick | Where to buy | EPA + DHA per serving | Best for |
@@ -49,6 +51,8 @@ If your doctor recommends a higher dose, a concentrated formula with 2,000 mg+ E
 serving is more practical than swallowing four standard capsules.
 
 [Check price on iHerb](https://www.iherb.com/search?kw=omega-3&rcode=RZK388)
+
+![Our three omega-3 picks by use case](image-comparison.jpg)
 
 ## How we picked
 

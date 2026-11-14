@@ -2,8 +2,8 @@
 # Guide: https://docs.hugoblox.com/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/
 
-title: ''
-baseURL: 'https://example.com/'
+title: 'zhangxijun'
+baseURL: 'https://zhangxijun.github.io/'
 
 ############################
 ## LANGUAGE

@@ -1,5 +1,5 @@
 ---
-title: 'Best Omega-3 Supplements in 2026: Amazon vs. iHerb Picks'
+title: 'Best Omega-3 Supplements in 2026: 10 Picks Ranked by EPA & DHA'
 summary: We compared EPA and DHA doses, label transparency, and cost per gram across ten
   popular omega-3 fish oils for adults, kids, and seniors on Amazon and iHerb.
 date: 2026-11-14

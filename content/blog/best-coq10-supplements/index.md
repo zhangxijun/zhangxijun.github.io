@@ -1,5 +1,5 @@
 ---
-title: 'Best CoQ10 Supplements in 2026: Amazon vs. iHerb Picks'
+title: 'Best CoQ10 Supplements in 2026: 10 Picks Ranked by Dose & Cost'
 summary: We compared ubiquinone and ubiquinol doses, absorption forms, and cost per 100 mg
   across ten popular CoQ10 supplements sold on Amazon and iHerb.
 date: 2026-11-14

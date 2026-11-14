@@ -1,0 +1,46 @@
+{{- /*
+  单张促销卡片（55海淘 风格）：左侧方形缩略图，右侧红色折扣标签 + 标题 + 灰色简介
+  + 优惠码/倒计时 + 底部「更新时间 · 店铺」和橙色胶囊按钮。
+  用法：{{ partial "deal_card.html" (dict "url" "..." "title" "..." "image" "..." ...) }}
+  可用字段（都可选）：badge, desc, price, was, code, ends, products, meta, cta, external
+*/ -}}
+{{- $d := . -}}
+<article class="dl-card">
+  <a class="dl-thumb" href="{{ $d.url }}"{{ if $d.external }} target="_blank" rel="sponsored nofollow noopener"{{ end }}>
+    {{- with $d.image }}<img src="{{ . }}" alt="{{ $d.title }}" loading="lazy" referrerpolicy="no-referrer">{{ end -}}
+  </a>
+  <div class="dl-body">
+    <div class="dl-head">
+      {{- with $d.badge }}<span class="dl-badge">{{ . }}</span>{{ end }}
+      <h3 class="dl-title"><a href="{{ $d.url }}"{{ if $d.external }} target="_blank" rel="sponsored nofollow noopener"{{ end }}>{{ $d.title }}</a></h3>
+    </div>
+    {{- with $d.desc }}<p class="dl-desc">{{ . }}</p>{{ end }}
+    {{- if or $d.price $d.was }}
+    <div class="dl-price">
+      {{- with $d.price }}<span class="dl-now">{{ . }}</span>{{ end }}
+      {{- with $d.was }}<span class="dl-was">{{ . }}</span>{{ end }}
+    </div>
+    {{- end }}
+    {{- if or $d.code $d.ends }}
+    <div class="dl-chips">
+      {{- with $d.code }}<span class="dl-code"><em>Code</em>{{ . }}</span>{{ end }}
+      {{- with $d.ends }}<span class="dl-timer"><em>Ends in</em><b data-ends="{{ . }}">--</b></span>{{ end }}
+    </div>
+    {{- end }}
+    {{- with $d.products }}
+    <div class="dl-products">
+      {{- range . }}
+      <a class="dl-prod" href="{{ .url }}" target="_blank" rel="sponsored nofollow noopener">
+        <span class="dl-prod-img"><img src="{{ .image }}" alt="{{ .name }}" loading="lazy" referrerpolicy="no-referrer"></span>
+        <span class="dl-prod-name">{{ .name }}</span>
+        <span class="dl-prod-price">{{ .price }}</span>
+      </a>
+      {{- end }}
+    </div>
+    {{- end }}
+    <div class="dl-foot">
+      <span class="dl-meta">{{ with $d.meta }}{{ . }}{{ end }}</span>
+      <a class="dl-cta" href="{{ $d.url }}"{{ if $d.external }} target="_blank" rel="sponsored nofollow noopener"{{ end }}>{{ $d.cta | default "Shop the deal" }} &rarr;</a>
+    </div>
+  </div>
+</article>

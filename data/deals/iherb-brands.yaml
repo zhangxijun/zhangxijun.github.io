@@ -1,0 +1,10 @@
+# One store promotion per post — rendered by {{< deal-feed data="iherb-brands" >}}
+# Only claim a discount, code or end date that the retailer itself displays.
+- badge: Up to 30% off
+  title: Up to 30% Off iHerb Brands
+  desc: California Gold Nutrition, Lake Avenue Nutrition and LactoBif are marked down storewide. How much comes off depends on the bottle, and the code is applied at checkout.
+  code: NOV26HB
+  retailer: iHerb
+  updated: Nov 14
+  image: /deals/iherb-brands-30-off/thumb-iherb-brands.jpg
+  url: 'https://www.iherb.com/c/iherb-brands?soa=true&pcode=NOV26HB&rcode=RZK388'

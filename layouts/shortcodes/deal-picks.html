@@ -1,0 +1,22 @@
+{{- /*
+  Deal picks 短代码 —— 3 列商品推荐格子（仿 55海淘 的文章内推荐商品区）。
+  用法：{{< deal-picks data="iherb-brands-picks" >}}
+  数据：data/deals/<data>.yaml
+  必填：name / image / url / price / store；选填：was / note
+  整张卡片都可点击，链接带联盟参数并加 rel="sponsored"。
+*/ -}}
+{{- $key := .Get "data" -}}
+{{- $items := index hugo.Data.deals $key -}}
+{{- if not $items -}}
+  {{- errorf "deal-picks: no data found for key %q" $key -}}
+{{- end -}}
+<div class="dp-grid">
+  {{- range $items }}
+  <a class="dp-card" href="{{ .url }}" target="_blank" rel="sponsored nofollow noopener">
+    <span class="dp-img"><img src="{{ .image }}" alt="{{ .name }}" loading="lazy" referrerpolicy="no-referrer"></span>
+    <span class="dp-price">{{ .price }}{{ with .was }}<s>{{ . }}</s>{{ end }}</span>
+    <span class="dp-name">{{ .name }}</span>
+    <span class="dp-meta">{{ .store }}{{ with .note }} · {{ . }}{{ end }}</span>
+  </a>
+  {{- end }}
+</div>

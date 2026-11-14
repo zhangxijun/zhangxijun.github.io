@@ -1,0 +1,53 @@
+{{ define "main" }}
+{{- /* 促销文章正文页：左侧目录 + 正文 + 右侧边栏，外观与博客文章页保持一致 */ -}}
+<div class="mx-auto flex max-w-screen-2xl">
+  {{ partial "components/toc.html" . }}
+  <article class="w-full break-words flex min-h-[calc(100vh-var(--navbar-height))] min-w-0 justify-center pb-8 pr-[calc(env(safe-area-inset-right)-1.5rem)]">
+    <main class="w-full min-w-0 max-w-6xl px-6 pt-4 md:px-12">
+
+      <p class="dl-back"><a href="{{ "/deals/" | relURL }}">&larr; All deals</a></p>
+
+      <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100" data-pagefind-meta="title" data-pagefind-body>{{ .Title }}</h1>
+
+      <div class="mt-4 mb-10 text-gray-500 dark:text-gray-300 text-sm flex items-center flex-wrap gap-y-2">
+        <span class="mr-1">{{ .Date | time.Format (site.Params.hugoblox.locale.date_format | default ":date_long") }}</span>
+        {{- range .Params.authors }}
+          {{- $profile := partial "functions/get_author_profile" . }}
+          <span class="mx-1">·</span>
+          <span class="inline-flex items-center gap-x-1.5 mr-1">
+            {{ with $profile.avatar }}
+              {{ $avatar := .Process "Fill 32x32 Center webp" }}
+              <img src="{{ $avatar.RelPermalink }}" width="16" height="16" alt="{{ $profile.title }}" class="inline-block h-4 w-4 rounded-full border border-current" loading="lazy">
+            {{ end }}
+            <span>{{ $profile.title }}</span>
+          </span>
+        {{- end }}
+        {{ if ne .Params.reading_time false }}
+        <span class="mx-1">·</span>
+        <span class="mx-1">{{ .ReadingTime }} {{ i18n "minute_read" }}</span>
+        {{ end }}
+        {{ partial "components/view_count.html" . }}
+      </div>
+
+      <div class="prose prose-slate lg:prose-xl dark:prose-invert" data-pagefind-body>
+        {{ .Content }}
+      </div>
+
+      {{ partial "components/last-edited.html" . }}
+
+      <div class="container mx-auto prose prose-slate lg:prose-xl dark:prose-invert mt-5">
+        {{ .Scratch.Set "invert_pager" true }}
+        {{ partial "page_footer" . }}
+      </div>
+
+    </main>
+  </article>
+  {{ partial "blog_sidebar.html" . }}
+</div>
+
+<style>
+  .dl-back{margin:0;font-size:13px}
+  .dl-back a{color:#059669;text-decoration:none;font-weight:600}
+  .dl-back a:hover{color:#047857}
+</style>
+{{ end }}

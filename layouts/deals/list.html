@@ -1,0 +1,58 @@
+{{ define "main" }}
+{{- /* /deals/ 促销列表页：左侧是一个带边框的白色面板（一行一个促销卡），右侧是与 reviews 相同的侧边栏 */ -}}
+<div class="mx-auto flex max-w-screen-2xl">
+  <div class="min-w-0 flex-1 px-4 py-6 md:px-8 md:py-8">
+    <div class="dl-panel">
+      <header class="dl-page-head">
+        <h1>{{ .Title }}</h1>
+      </header>
+
+      {{- $paginator := .Paginate .Pages.ByDate.Reverse }}
+      <div class="deal-feed">
+        {{- range $paginator.Pages }}
+        {{- $p := . -}}
+        {{- /* 底部小字：「Updated Nov 14 · iHerb」 */ -}}
+        {{- $meta := "" -}}
+        {{- with $p.Params.updated }}{{ $meta = printf "Updated %s" . }}{{ end -}}
+        {{- with $p.Params.retailer }}{{ $meta = trim (printf "%s · %s" $meta .) " ·" }}{{ end -}}
+        {{- /* 列表缩略图：优先用 front matter 里的 thumb，没有就退回文章特色图 */ -}}
+        {{- $thumb := "" -}}
+        {{- with $p.Params.thumb }}{{ with $p.Resources.GetMatch . }}{{ $thumb = .RelPermalink }}{{ end }}{{ end -}}
+        {{- if not $thumb }}{{ with partial "functions/get_featured_image.html" $p }}{{ $thumb = .RelPermalink }}{{ end }}{{ end -}}
+        {{ partial "deal_card.html" (dict
+          "url" $p.RelPermalink
+          "title" $p.LinkTitle
+          "image" $thumb
+          "badge" ($p.Params.badge | default "Deal")
+          "desc" ($p.Params.summary | default $p.Summary)
+          "code" $p.Params.code
+          "ends" $p.Params.ends
+          "price" $p.Params.price
+          "was" $p.Params.was
+          "meta" $meta
+          "cta" "View the deal"
+        ) }}
+        {{- end }}
+      </div>
+
+      {{ partial "components/paginator" . }}
+    </div>
+  </div>
+
+  {{ partial "blog_sidebar.html" . }}
+</div>
+
+<style>
+  /* 文章区外框：和 reviews 列表里的白卡片一致，用来和右侧边栏区分开 */
+  .dl-panel{background:#fff;border:1px solid #e5e7eb;border-radius:16px;padding:24px 24px 4px;box-shadow:0 10px 15px -3px rgba(17,24,39,.08)}
+  .dl-page-head h1{margin:0;font-size:2rem;font-weight:800;letter-spacing:-.02em;color:#111827}
+  .dl-panel .deal-feed{margin-top:18px}
+  .dark .dl-panel{background:#1f2937;border-color:#374151;box-shadow:none}
+  .dark .dl-page-head h1{color:#f1f5f9}
+  .dark .dl-card{border-color:#374151}
+  @media (max-width:640px){
+    .dl-panel{padding:16px 14px 0;border-radius:12px}
+    .dl-page-head h1{font-size:1.65rem}
+  }
+</style>
+{{ end }}

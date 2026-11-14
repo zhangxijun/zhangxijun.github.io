@@ -1,0 +1,35 @@
+{{- /*
+  Deal feed 短代码 —— 在一篇文章里按顺序列出多条店铺促销（55海淘 风格卡片）。
+  用法：{{< deal-feed data="weekly" >}}
+  数据：data/deals/<data>.yaml
+  每条的必填字段：title / desc / image / url / retailer / updated
+  每条的选填字段：badge / code / ends（ISO 时间，不写就不显示倒计时）/ products（3 个小商品）
+*/ -}}
+{{- $key := .Get "data" -}}
+{{- $items := index hugo.Data.deals $key -}}
+{{- if not $items -}}
+  {{- errorf "deal-feed: no data found for key %q" $key -}}
+{{- end -}}
+<div class="deal-feed">
+  {{- range $items }}
+  {{- /* 拼出底部那行小字：「Updated Nov 14 · iHerb」，缺哪项就省哪项 */ -}}
+  {{- $meta := "" -}}
+  {{- with .updated }}{{ $meta = printf "Updated %s" . }}{{ end -}}
+  {{- with .retailer }}{{ $meta = trim (printf "%s · %s" $meta .) " ·" }}{{ end -}}
+  {{ partial "deal_card.html" (dict
+    "url" .url
+    "title" .title
+    "image" .image
+    "badge" .badge
+    "desc" .desc
+    "price" .price
+    "was" .was
+    "code" .code
+    "ends" .ends
+    "products" .products
+    "meta" $meta
+    "cta" "Shop the deal"
+    "external" true
+  ) }}
+  {{- end }}
+</div>

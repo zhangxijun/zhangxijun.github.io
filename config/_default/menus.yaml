@@ -8,6 +8,9 @@ main:
   - name: Reviews
     url: blog/
     weight: 20
+  - name: Deals
+    url: deals/
+    weight: 25
   - name: Categories
     url: tags/
     weight: 30

@@ -1,0 +1,9 @@
+{{- define "main" -}}
+<div class="mx-auto flex max-w-screen-2xl">
+  <div class="min-w-0 flex-1">
+    {{ partial "home_slider.html" . }}
+    {{ partial "landing_page.html" . }}
+  </div>
+  {{ partial "blog_sidebar.html" . }}
+</div>
+{{- end -}}

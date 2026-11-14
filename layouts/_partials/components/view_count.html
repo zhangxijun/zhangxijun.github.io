@@ -1,0 +1,20 @@
+{{- /* GoatCounter per-page view count. Hidden until a site code is configured. */ -}}
+{{- with site.Params.ibetterlife.goatcounter }}
+<span class="mx-1">·</span>
+<span class="wc-views" data-site="{{ . }}" data-path="{{ $.RelPermalink }}" hidden></span>
+<script>
+  (function () {
+    var el = document.currentScript.previousElementSibling;
+    if (!el || !el.dataset.site) return;
+    var url = "https://" + el.dataset.site + ".goatcounter.com/counter/" + encodeURIComponent(el.dataset.path) + ".json";
+    fetch(url)
+      .then(function (r) { return r.json(); })
+      .then(function (d) {
+        if (!d || !d.count) return;
+        el.textContent = d.count + " views";
+        el.hidden = false;
+      })
+      .catch(function () {});
+  })();
+</script>
+{{- end }}

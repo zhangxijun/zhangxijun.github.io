@@ -2,6 +2,7 @@
 title: 'Home'
 date: 2026-11-14
 type: landing
+sidebar_products: omega-3
 sections:
   - block: hero
     content:
@@ -17,8 +18,9 @@ sections:
         text: 'Shop by Category'
         url: '/tags/'
     design:
+      no_padding: true
       spacing:
-        padding: ['5rem', 0, '3rem', 0]
+        padding: ['2rem', 0, '2rem', 0]
   - block: collection
     content:
       title: 'Latest Reviews'

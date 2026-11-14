@@ -6,10 +6,12 @@ date: 2026-11-14
 authors:
   - me
 tags:
-  - Amazon
-  - iHerb
-  - Supplements
-  - Buying Guides
+  - Fish Oil
+  - Omega-3
+  - Nordic Naturals
+  - Sports Research
+  - NOW Foods
+sidebar_products: omega-3
 ---
 
 *This post contains affiliate links. If you buy through them, we may earn a commission at

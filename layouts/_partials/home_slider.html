@@ -1,0 +1,76 @@
+{{- $slides := slice -}}
+{{- with hugo.Data.sliders.home -}}{{- $slides = .slides | default slice -}}{{- end -}}
+{{- with $slides }}
+<section class="hs-wrap" aria-label="Featured guides">
+  <div class="hs-track" id="hs-track">
+    {{- range $index, $slide := . }}
+    <a class="hs-slide{{ if eq $index 0 }} is-active{{ end }}" href="{{ $slide.url }}">
+      <img src="{{ $slide.image }}" alt="{{ $slide.alt | default $slide.title }}" loading="{{ if eq $index 0 }}eager{{ else }}lazy{{ end }}">
+    </a>
+    {{- end }}
+  </div>
+
+  {{- if gt (len .) 1 }}
+  <button class="hs-nav hs-prev" type="button" aria-label="Previous slide">&#8249;</button>
+  <button class="hs-nav hs-next" type="button" aria-label="Next slide">&#8250;</button>
+  <div class="hs-dots" role="tablist">
+    {{- range $index, $slide := . }}
+    <button class="hs-dot{{ if eq $index 0 }} is-active{{ end }}" type="button" data-index="{{ $index }}" aria-label="Slide {{ add $index 1 }}"></button>
+    {{- end }}
+  </div>
+  {{- end }}
+</section>
+
+<style>
+  .hs-wrap{position:relative;margin:1.25rem auto 0;max-width:48rem;padding:0 1rem}
+  .hs-track{position:relative;overflow:hidden;border-radius:12px;background:#064e3b;aspect-ratio:16/9;box-shadow:0 8px 24px rgba(6,78,59,.15)}
+  .hs-slide{position:absolute;inset:0;opacity:0;transition:opacity .6s ease;text-decoration:none;color:#fff}
+  .hs-slide.is-active{opacity:1;z-index:1}
+  .hs-slide img{width:100%;height:100%;object-fit:cover;display:block}
+  #section-hero .hero-block-container > div{padding-top:0!important}
+  .hs-nav{position:absolute;top:50%;transform:translateY(-50%);z-index:2;width:34px;height:34px;border-radius:999px;border:0;background:rgba(255,255,255,.85);color:#064e3b;font-size:20px;line-height:1;cursor:pointer}
+  .hs-prev{left:1.6rem}
+  .hs-next{right:1.6rem}
+  .hs-dots{position:absolute;right:1.6rem;bottom:1.1rem;z-index:2;display:flex;gap:6px}
+  .hs-dot{width:8px;height:8px;border-radius:999px;border:0;background:rgba(255,255,255,.5);cursor:pointer;padding:0}
+  .hs-dot.is-active{background:#fff;width:20px}
+  @media (max-width:640px){
+    .hs-nav{display:none}
+  }
+</style>
+
+<script>
+  (function () {
+    var track = document.getElementById('hs-track');
+    if (!track) return;
+    var slides = [].slice.call(track.querySelectorAll('.hs-slide'));
+    if (slides.length < 2) return;
+    var dots = [].slice.call(document.querySelectorAll('.hs-dot'));
+    var index = 0;
+    var timer = null;
+
+    function show(next) {
+      index = (next + slides.length) % slides.length;
+      slides.forEach(function (s, i) { s.classList.toggle('is-active', i === index); });
+      dots.forEach(function (d, i) { d.classList.toggle('is-active', i === index); });
+    }
+    function start() {
+      if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+      stop();
+      timer = setInterval(function () { show(index + 1); }, 6000);
+    }
+    function stop() { if (timer) { clearInterval(timer); timer = null; } }
+
+    dots.forEach(function (d) {
+      d.addEventListener('click', function () { show(parseInt(d.dataset.index, 10)); start(); });
+    });
+    var prev = document.querySelector('.hs-prev');
+    var next = document.querySelector('.hs-next');
+    if (prev) prev.addEventListener('click', function () { show(index - 1); start(); });
+    if (next) next.addEventListener('click', function () { show(index + 1); start(); });
+    track.parentElement.addEventListener('mouseenter', stop);
+    track.parentElement.addEventListener('mouseleave', start);
+    start();
+  })();
+</script>
+{{- end }}

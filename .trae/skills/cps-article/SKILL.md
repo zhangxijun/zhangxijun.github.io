@@ -26,12 +26,16 @@ date: 2026-11-14
 authors:
   - me
 tags:
-  - Amazon
-  - iHerb
-  - <Category>
-  - Buying Guides
+  - <Product category, e.g. Fish Oil>
+  - <Second category, e.g. Omega-3>
+  - <Brand A, e.g. Nordic Naturals>
+  - <Brand B, e.g. Sports Research>
 ---
 ```
+
+Use 4-5 tags per post. Lead with the product category, then the brands covered. Never tag
+retailers or domains (Amazon, iHerb, ibetterlife), and never use "Buying Guides", "Supplements",
+or other generic filler as a tag.
 
 Keep `title` under 60 characters when possible. Never use a future date.
 

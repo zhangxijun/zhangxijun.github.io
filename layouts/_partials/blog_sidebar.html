@@ -1,0 +1,108 @@
+{{- $current := .RelPermalink -}}
+{{- $picks := slice -}}
+{{- with .Params.sidebar_products -}}{{- $picks = index hugo.Data.products . | default slice -}}{{- end -}}
+<aside class="bs-aside hidden xl:block">
+  <div class="bs-inner">
+    {{- with $picks }}
+    <div class="bs-card">
+      <div class="bs-h">Top picks</div>
+      {{- range first 3 . }}
+      <a class="bs-pick" href="{{ .url }}" target="_blank" rel="sponsored nofollow noopener">
+        <img src="{{ .image }}" alt="{{ .name }}" loading="lazy" referrerpolicy="no-referrer">
+        <span>
+          <span class="name">{{ .name }}</span>
+          <span class="price">{{ index .meta 0 }} · {{ index .meta 1 }}</span>
+        </span>
+      </a>
+      {{- end }}
+    </div>
+    {{- end }}
+
+    <div class="bs-card">
+      <div class="bs-h">Browse topics</div>
+      <div class="bs-tags">
+        {{- range first 8 site.Taxonomies.tags.ByCount }}
+        <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }} <span>{{ .Count }}</span></a>
+        {{- end }}
+      </div>
+    </div>
+
+    <div class="bs-card">
+      <div class="bs-h">Latest reviews</div>
+      <ul class="bs-list">
+        {{- range first 5 ((where site.RegularPages "Section" "blog").ByDate.Reverse) }}
+        {{- if ne .RelPermalink $current }}
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+        {{- end }}
+        {{- end }}
+      </ul>
+    </div>
+  </div>
+</aside>
+
+<style>
+  nav.hb-toc{order:-1}
+  .bs-aside{width:300px;flex:0 0 300px;padding:0 1.25rem 2rem 0}
+  .bs-inner{position:sticky;top:calc(var(--navbar-height,4rem) + 1rem);max-height:calc(100vh - var(--navbar-height,4rem) - 2rem);overflow:auto;display:flex;flex-direction:column;gap:14px}
+  .bs-card{background:#fff;border:1px solid #e5e7eb;border-radius:14px;padding:14px}
+  .bs-h{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:#64748b;font-weight:700;margin-bottom:8px}
+  .hb-toc a.active{color:#047857;font-weight:700}
+  .bs-list{list-style:none;margin:0;padding:0;font-size:13px;line-height:1.5}
+  .bs-list li+li{margin-top:8px}
+  .bs-list a{color:#1f2937;text-decoration:none}
+  .bs-list a:hover{color:#059669}
+  .bs-tags{display:flex;flex-wrap:wrap;gap:6px}
+  .bs-tags a{display:inline-flex;align-items:center;gap:4px;font-size:12px;color:#065f46;background:#ecfdf5;border-radius:999px;padding:3px 9px;text-decoration:none}
+  .bs-tags a:hover{background:#d1fae5}
+  .bs-tags a span{color:#059669;font-weight:700}
+  .bs-pick{display:flex;gap:10px;align-items:center;padding:8px 0;text-decoration:none}
+  .bs-pick+.bs-pick{border-top:1px solid #f1f5f9}
+  .bs-pick img{width:52px;height:52px;object-fit:contain;flex:none;background:#fff;border:1px solid #ecfdf5;border-radius:8px}
+  .bs-pick .name{display:block;font-size:13px;font-weight:600;color:#064e3b;line-height:1.3}
+  .bs-pick .price{display:block;font-size:12px;color:#475569;margin-top:2px}
+  .bs-pick:hover .name{color:#059669}
+  .dark .bs-card{background:#1f2937;border-color:#374151}
+  .dark .bs-list a{color:#e5e7eb}
+  .dark .hb-toc a.active{color:#34d399}
+</style>
+
+<script>
+  (function () {
+    var links = [].slice.call(document.querySelectorAll('.hb-toc a[href^="#"]'));
+    if (!links.length) return;
+    var items = links.map(function (a) {
+      var id = decodeURIComponent(a.getAttribute('href').slice(1));
+      var heading = document.getElementById(id);
+      return heading ? { a: a, h: heading } : null;
+    }).filter(Boolean);
+    if (!items.length) return;
+
+    var offset = 140;
+    var ticking = false;
+
+    function update() {
+      ticking = false;
+      var pos = window.scrollY + offset;
+      var active = items[0];
+      for (var i = 0; i < items.length; i++) {
+        if (items[i].h.getBoundingClientRect().top + window.scrollY <= pos) {
+          active = items[i];
+        } else {
+          break;
+        }
+      }
+      items.forEach(function (it) {
+        it.a.classList.toggle('active', it === active);
+      });
+    }
+
+    window.addEventListener('scroll', function () {
+      if (!ticking) {
+        ticking = true;
+        requestAnimationFrame(update);
+      }
+    }, { passive: true });
+    window.addEventListener('resize', update);
+    update();
+  })();
+</script>

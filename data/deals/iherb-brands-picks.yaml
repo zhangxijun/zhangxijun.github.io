@@ -1,7 +1,7 @@
 # Product picks under one promotion — rendered by {{< deal-picks data="iherb-brands-picks" >}}
 # Prices were read off the iHerb Brands sale page on Nov 14, 2026.
-# iHerb only shows a struck original price for some bottles, so for the rest `was` is the
-# pre-code list price implied by the advertised discount (price / (1 - discount)).
+# `price` = what you pay once the code is applied, `was` = the price iHerb shows today.
+# The five bottles below are 30% off (D3 + K2 is 20%), so price = listed price x 0.7 (or x 0.8).
 # Required: name / image / url / price / store. Optional: was / note.
 - name: California Gold Nutrition, Omega 800, 30 Fish Gelatin Softgels (1,000 mg per Softgel)
   price: $8.56
@@ -12,40 +12,40 @@
   url: 'https://www.iherb.com/pr/california-gold-nutrition-omega-800-30-fish-gelatin-softgels-1-000-mg-per-softgel/82845?rcode=RZK388'
 
 - name: California Gold Nutrition, CollagenUP, Hydrolyzed Marine Collagen Peptides with Hyaluronic Acid, Unflavored, 7.26 oz (206 g)
-  price: $19.21
-  was: $27.44
+  price: $13.45
+  was: $19.21
   note: 30% off with code
   store: iHerb
   image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01033/l/478.jpg
   url: 'https://www.iherb.com/pr/california-gold-nutrition-collagenup-hydrolyzed-marine-collagen-peptides-with-hyaluronic-acid-unflavored-7-26-oz-206-g/64903?rcode=RZK388'
 
 - name: California Gold Nutrition, Gold C, USP Grade Vitamin C, 1,000 mg, 240 Veggie Capsules
-  price: $16.96
-  was: $24.23
+  price: $11.87
+  was: $16.96
   note: 30% off with code
   store: iHerb
   image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00932/l/298.jpg
   url: 'https://www.iherb.com/pr/california-gold-nutrition-gold-c-usp-grade-vitamin-c-1-000-mg-240-veggie-capsules/61865?rcode=RZK388'
 
 - name: California Gold Nutrition, LactoBif 30 Probiotics, 60 Veggie Capsules
-  price: $25.82
-  was: $36.89
+  price: $18.07
+  was: $25.82
   note: 30% off with code
   store: iHerb
   image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00965/l/302.jpg
   url: 'https://www.iherb.com/pr/california-gold-nutrition-lactobif-30-probiotics-60-veggie-capsules/64009?rcode=RZK388'
 
 - name: California Gold Nutrition, Sport, Pure Creatine Monohydrate, Unflavored, 1 lb (454 g)
-  price: $19.15
-  was: $27.36
+  price: $13.41
+  was: $19.15
   note: 30% off with code
   store: iHerb
   image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01059/l/380.jpg
   url: 'https://www.iherb.com/pr/california-gold-nutrition-sport-pure-creatine-monohydrate-unflavored-1-lb-454-g/71026?rcode=RZK388'
 
 - name: California Gold Nutrition, Vitamin D3 + K2 as MK-7, 180 Veggie Capsules
-  price: $16.20
-  was: $20.25
+  price: $12.96
+  was: $16.20
   note: 20% off with code
   store: iHerb
   image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02333/l/63.jpg

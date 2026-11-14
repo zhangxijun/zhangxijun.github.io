@@ -216,8 +216,8 @@ $rows = @()
 for ($i = 1; $i -le $Products; $i++) {
     $rows += @"
 - name: TODO product $i name (copy the exact title from the store)
-  price: TODO price
-  was: TODO old price
+  price: TODO price after the code is applied
+  was: TODO the price the store shows today
   note: TODO discount label
   store: $Retailer
   image: /deals/$Slug/thumb-$Key.jpg

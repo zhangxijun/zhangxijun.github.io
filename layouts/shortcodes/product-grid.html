@@ -36,8 +36,13 @@
   .pg-tip{font-size:12px;color:#047857;background:#ecfdf5;border-left:3px solid #10b981;padding:4px 8px;border-radius:6px;margin:2px 0}
   .pg-meta{list-style:none;margin:0;padding:0;font-size:14px;color:#475569;line-height:1.6}
   .pg-note{font-size:13px;color:#334155;margin:2px 0 8px}
-  .pg-btn{margin-top:auto;display:inline-block;text-align:center;background:#059669;color:#fff;font-weight:700;font-size:15px;padding:10px 18px;border-radius:999px;text-decoration:none}
+  .pg-actions{margin-top:auto;display:flex;flex-wrap:wrap;gap:9px}
+  .pg-btn{display:inline-flex;align-items:center;justify-content:center;gap:7px;text-align:center;background:#059669;color:#fff;font-weight:700;font-size:15px;padding:10px 18px;border-radius:999px;text-decoration:none;line-height:1.1}
+  .pg-btn svg{width:16px;height:16px;flex:none}
   .pg-btn:hover{background:#047857;color:#fff}
+  .pg-btn-amazon{background:#232f3e}
+  .pg-btn-amazon:hover{background:#131a22}
+  .pg-btn-iherb{background:#059669}
 </style>
 {{- end -}}
 <div class="pg-grid">
@@ -64,7 +69,22 @@
       </ul>
       {{- with $item.tip }}<p class="pg-tip">{{ . }}</p>{{ end }}
       {{- with $item.note }}<p class="pg-note">{{ . }}</p>{{ end }}
-      <a class="pg-btn" href="{{ $item.url }}" target="_blank" rel="sponsored nofollow noopener">Check price on {{ $item.retailer }}</a>
+      <div class="pg-actions">
+        {{- with $item.links }}
+          {{- range . }}
+          <a class="pg-btn pg-btn-{{ .store | lower }}" href="{{ .url }}" target="_blank" rel="sponsored nofollow noopener">
+            {{- if eq .store "Amazon" -}}
+            <svg viewBox="0 0 24 24" aria-hidden="true"><text x="12" y="15.5" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="currentColor">a</text><path d="M4.6 17.6c4.4 2.9 10.4 2.9 14.8 0" fill="none" stroke="#ff9900" stroke-width="1.8" stroke-linecap="round"/></svg>
+            {{- else if eq .store "iHerb" -}}
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19.6 4.2c-9.8.2-15.2 5-15.2 12.4 0 1.5.4 2.9.4 2.9s5.9-1.5 9.5-5.1c3.6-3.6 5.3-10.2 5.3-10.2z" fill="currentColor"/><path d="M6 19.5c1.9-5.7 5.6-8.7 10.4-10.6" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"/></svg>
+            {{- end -}}
+            <span>Buy on {{ .store }}</span>
+          </a>
+          {{- end }}
+        {{- else }}
+        <a class="pg-btn" href="{{ $item.url }}" target="_blank" rel="sponsored nofollow noopener">Check price on {{ $item.retailer }}</a>
+        {{- end }}
+      </div>
     </div>
   </article>
   {{- end }}

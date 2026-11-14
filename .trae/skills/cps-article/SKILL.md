@@ -20,7 +20,7 @@ Follow the steps in order. Do not skip the image and build checks.
 
 ```yaml
 ---
-title: 'Best <Category> in <Year>: Amazon vs. iHerb Picks'
+title: 'Best <Category> in <Year>: <N> Picks Ranked by <Dimension>'
 summary: One or two sentences, 150-160 characters, states the comparison and the payoff.
 date: 2026-11-14
 authors:
@@ -37,7 +37,15 @@ Use 4-5 tags per post. Lead with the product category, then the brands covered. 
 retailers or domains (Amazon, iHerb, ibetterlife), and never use "Buying Guides", "Supplements",
 or other generic filler as a tag.
 
-Keep `title` under 60 characters when possible. Never use a future date.
+Title rules:
+
+- Open with the head keyword, e.g. `Best CoQ10 Supplements`, then the year. Search traffic goes
+  to that phrase, so never replace it with something clever.
+- After the colon, promise something concrete: how many picks and what they are ranked by —
+  e.g. `10 Picks Ranked by Dose & Cost`, `10 Picks Ranked by EPA & DHA`. Skip vague endings
+  like "Amazon vs. iHerb Picks"; the retailer names live in the body and tags.
+- Aim for 60-65 characters so Google does not truncate it.
+- Never use a future date.
 
 ## 2. Depth standard
 
@@ -96,7 +104,7 @@ The user prefers drawn brand graphics over AI photos. Generate them locally, no 
 - Featured image: `featured.jpg`, 1600x900.
 
 ```powershell
-powershell -ExecutionPolicy Bypass -File .trae/skills/cps-article/assets/cover-template.ps1 -Title "Omega-3 Buying Guide" -Subtitle "Amazon vs. iHerb picks for 2026" -OutFile "content/blog/<slug>/featured.jpg"
+powershell -ExecutionPolicy Bypass -File .trae/skills/cps-article/assets/cover-template.ps1 -Title "10 Best Omega-3 Supplements" -Subtitle "Ranked by EPA & DHA for 2026" -OutFile "content/blog/<slug>/featured.jpg"
 ```
 
 - Inline graphics: `image-<topic>.jpg`, 1200x900, one of these patterns:
@@ -185,3 +193,6 @@ If no verified photo exists, fall back to a drawn illustration and say so in the
 - No income claims, fake urgency, or copied manufacturer copy.
 - Health content stays informational and includes an "ask your doctor" line.
 - Do not state live Amazon prices in static text; link out instead.
+- Escape every dollar sign with a backslash (`\$19.33`). Two unescaped `$` in one paragraph make
+  Hugo read the text between them as inline math, which silently turns `**bold**` and links
+  inside that span into plain text.

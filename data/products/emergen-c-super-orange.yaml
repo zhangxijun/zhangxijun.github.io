@@ -1,0 +1,25 @@
+# Single-product data for the Emergen-C review.
+# Rendered by the product-grid shortcode: {{< product-grid data="emergen-c-super-orange" item="1" >}}
+# stars = editor score (1-5); rating = store rating on the iHerb listing (Nov 14, 2026).
+# Price: $15.43 for 30 packets on iHerb, i.e. about $0.51 per serving.
+- name: Emergen-C, Vitamin C, Super Orange, 1,000 mg, 30 Packets (0.32 oz / 9.1 g Each)
+  badge: 1,000 mg + B vitamins
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ala/ala30203/l/49.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 1,000 mg vitamin C per packet
+    - 30 packets per box
+    - $0.51 per serving (iHerb, Nov 14, 2026)
+    - 6 g of sugar per packet
+  tip: Best for travel, and for anyone who would rather drink a vitamin than swallow one.
+  note: Six grams of sugar per packet and a sweet fizzy taste. Great if you like it, a dealbreaker if you do not.
+  url: 'https://www.iherb.com/pr/emergen-c-vitamin-c-super-orange-1-000-mg-30-packets-0-32-oz-9-1-g-each/18057?rcode=RZK388'
+  # Two buy buttons with their own icons. Swap the Amazon search link for a /dp/<ASIN>
+  # product page once the exact listing is confirmed.
+  links:
+    - store: Amazon
+      url: 'https://www.amazon.com/s?k=Emergen-C+Super+Orange+1000mg+30+packets&tag=ibetterlife-20'
+    - store: iHerb
+      url: 'https://www.iherb.com/pr/emergen-c-vitamin-c-super-orange-1-000-mg-30-packets-0-32-oz-9-1-g-each/18057?rcode=RZK388'

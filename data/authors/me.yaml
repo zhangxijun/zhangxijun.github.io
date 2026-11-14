@@ -2,19 +2,11 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Your Name
-role: ''
-bio: ''
-
-affiliations:
-  - name: ''
-    url: ''
-
+  display: iBetterLife Editorial
+role: Reviews & Buying Guides
+bio: We test health, wellness, and everyday products sold on Amazon and iHerb, then
+  publish plain-English buying guides for US shoppers.
 links:
-  - icon: at-symbol
-    url: mailto:hello@example.com
-    label: Email
-  - icon: brands/github
-    url: https://github.com/
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+  - icon: rss
+    url: ./blog/index.xml
+    label: Subscribe via RSS

@@ -1,9 +1,34 @@
 # Configuration of Hugo
-# Guide: https://docs.hugoblox.com/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/
+# Guide: https://docs.hugoblox.com/tutorial/
+# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'zhangxijun'
-baseURL: 'https://zhangxijun.github.io/'
+# Website name (set in params.yaml under hugoblox.identity.name)
+title: 'iBetterLife'
+baseURL: 'https://ibetterlife.com/' # Website URL
+
+############################
+## PAGE OPTIONS
+############################
+
+cascade:
+  # Blog post options
+  - target:
+      path: /blog/**
+      kind: page
+    pager: true
+    editable: true
+    show_date: true
+    show_date_updated: true
+    reading_time: true
+    commentable: true
+    show_related: true
+    share: true
+    # Just use Breadcrumb for navigation on blog post pages?
+    show_breadcrumb: false
+    header:
+      navbar:
+        enable: true
 
 ############################
 ## LANGUAGE
@@ -13,83 +38,6 @@ defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
-
-############################
-## PAGE OPTIONS
-############################
-
-cascade:
-  # Blog posts
-  - target:
-      path: /blog/**
-      kind: page
-    pager: true
-    show_date: true
-    show_date_updated: true
-    reading_time: true
-    commentable: true
-    show_related: true
-    share: true
-    show_breadcrumb: false
-
-  # Publications
-  - target:
-      path: /publications/**
-      kind: page
-    show_date: true
-    share: true
-    pager: true
-
-  # Events
-  - target:
-      path: /events/**
-      kind: page
-    show_date: true
-    share: true
-    pager: true
-
-  # Projects
-  - target:
-      path: /projects/**
-      kind: page
-    show_date: false
-    share: true
-
-  # Datasets
-  - target:
-      path: /datasets/**
-      kind: page
-    show_date: true
-    share: true
-
-  # Case Studies
-  - target:
-      path: /case-studies/**
-      kind: page
-    show_date: true
-    share: true
-
-  # Changelog
-  - target:
-      path: /changelog/**
-      kind: page
-    show_date: true
-    pager: false
-
-  # Courses
-  - target:
-      path: /courses/**
-      kind: page
-    show_breadcrumb: true
-    pager: true
-
-############################
-## OUTPUTS
-############################
-
-outputs:
-  home: [HTML, RSS, backlinks]
-  section: [HTML, RSS]
 
 ############################
 ## ADVANCED
@@ -106,6 +54,9 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 disableAliases: true
+outputs:
+  home: [HTML, RSS, backlinks]
+  section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
   quality: 90
@@ -113,9 +64,9 @@ imaging:
   hint: picture
 timeout: 600000
 taxonomies:
-  author: authors
   tag: tags
   category: categories
+  author: authors
 markup:
   _merge: deep
 related:
@@ -139,4 +90,6 @@ security:
       - ^postcss$
       - ^tailwindcss$
 sitemap:
+  _merge: deep
+minify:
   _merge: deep

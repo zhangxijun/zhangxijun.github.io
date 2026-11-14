@@ -30,4 +30,4 @@ additional cost to you.
 ## Questions
 
 If anything here is unclear, contact us at
-[hello@ibetterlife.com](mailto:hello@ibetterlife.com).
+[xijun168@163.com](mailto:xijun168@163.com).

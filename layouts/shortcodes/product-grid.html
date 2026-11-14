@@ -1,0 +1,71 @@
+{{- /*
+  Product grid shortcode.
+  Usage:
+    {{< product-grid data="omega-3" >}}            renders every product
+    {{< product-grid data="omega-3" item="2" >}}   renders only the 2nd product
+  Data comes from data/products/<data>.yaml
+*/ -}}
+{{- $key := .Get "data" -}}
+{{- $page := .Page -}}
+{{- $items := index hugo.Data.products $key -}}
+{{- if not $items -}}
+  {{- errorf "product-grid: no data found for key %q" $key -}}
+{{- end -}}
+{{- $list := $items -}}
+{{- with .Get "item" -}}
+  {{- $pos := int . -}}
+  {{- if or (lt $pos 1) (gt $pos (len $items)) -}}
+    {{- errorf "product-grid: item %v is out of range for %q" $pos $key -}}
+  {{- end -}}
+  {{- $list = slice (index $items (sub $pos 1)) -}}
+{{- end -}}
+{{- if not (.Page.Scratch.Get "productGridCss") -}}
+{{- .Page.Scratch.Set "productGridCss" true -}}
+<style>
+  .pg-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(420px,1fr));gap:18px;margin:1.5rem 0}
+  @media(max-width:640px){.pg-grid{grid-template-columns:1fr}.pg-card{flex-direction:column}.pg-media{width:100%;height:240px;flex:none}}
+  .pg-card{display:flex;gap:18px;background:#fff;border:1px solid #d1fae5;border-radius:18px;padding:16px;box-shadow:0 2px 10px rgba(6,78,59,.06)}
+  .pg-media{flex:0 0 170px;width:170px;height:170px;border-radius:14px;overflow:hidden;background:#fff;border:1px solid #ecfdf5;display:flex;align-items:center;justify-content:center}
+  .pg-media img{width:100%;height:100%;object-fit:contain;padding:8px;display:block}
+  .pg-body{flex:1;min-width:0;display:flex;flex-direction:column;gap:6px}
+  .pg-badge{align-self:flex-start;font-size:12px;font-weight:700;color:#065f46;background:#d1fae5;padding:2px 10px;border-radius:999px}
+  .pg-title{margin:0;font-size:18px;font-weight:700;color:#064e3b;line-height:1.3}
+  .pg-stars{display:flex;align-items:center;gap:6px;font-size:15px;line-height:1;color:#f59e0b}
+  .pg-star-off{color:#d1d5db}
+  .pg-rating{font-size:13px;font-weight:700;color:#065f46}
+  .pg-tip{font-size:12px;color:#047857;background:#ecfdf5;border-left:3px solid #10b981;padding:4px 8px;border-radius:6px;margin:2px 0}
+  .pg-meta{list-style:none;margin:0;padding:0;font-size:14px;color:#475569;line-height:1.6}
+  .pg-note{font-size:13px;color:#334155;margin:2px 0 8px}
+  .pg-btn{margin-top:auto;display:inline-block;text-align:center;background:#059669;color:#fff;font-weight:700;font-size:15px;padding:10px 18px;border-radius:999px;text-decoration:none}
+  .pg-btn:hover{background:#047857;color:#fff}
+</style>
+{{- end -}}
+<div class="pg-grid">
+  {{- range $list }}
+  {{- $src := .image -}}
+  {{- with $page.Resources.GetMatch .image -}}{{- $src = .RelPermalink -}}{{- end -}}
+  <article class="pg-card">
+    <a class="pg-media" href="{{ .url }}" target="_blank" rel="sponsored nofollow noopener">
+      <img src="{{ $src }}" alt="{{ .name }}" loading="lazy" width="340" height="340" referrerpolicy="no-referrer">
+    </a>
+    <div class="pg-body">
+      {{- $item := . -}}
+      {{- with $item.badge }}<span class="pg-badge">{{ . }}</span>{{ end }}
+      <h3 class="pg-title">{{ $item.name }}</h3>
+      {{- with $item.stars }}
+      {{- $n := int . }}
+      <div class="pg-stars" aria-label="{{ $n }} out of 5 stars">
+        {{- range seq 1 5 }}<span class="pg-star{{ if gt . $n }} pg-star-off{{ end }}">★</span>{{ end }}
+        {{- with $item.rating }}<span class="pg-rating">{{ . }}</span>{{ end }}
+      </div>
+      {{- end }}
+      <ul class="pg-meta">
+        {{- range $item.meta }}<li>{{ . }}</li>{{ end }}
+      </ul>
+      {{- with $item.tip }}<p class="pg-tip">{{ . }}</p>{{ end }}
+      {{- with $item.note }}<p class="pg-note">{{ . }}</p>{{ end }}
+      <a class="pg-btn" href="{{ $item.url }}" target="_blank" rel="sponsored nofollow noopener">Check price on {{ $item.retailer }}</a>
+    </div>
+  </article>
+  {{- end }}
+</div>

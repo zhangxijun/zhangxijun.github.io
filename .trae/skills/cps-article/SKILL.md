@@ -20,7 +20,7 @@ Follow the steps in order. Do not skip the image and build checks.
 
 ```yaml
 ---
-title: 'Best <Category> in <Year>: <N> Picks Ranked by <Dimension>'
+title: 'The <N> Best <Category> of <Year>, Ranked by <Dimension A> and <Dimension B>'
 summary: One or two sentences, 150-160 characters, states the comparison and the payoff.
 date: 2026-11-14
 authors:
@@ -37,15 +37,22 @@ Use 4-5 tags per post. Lead with the product category, then the brands covered. 
 retailers or domains (Amazon, iHerb, ibetterlife), and never use "Buying Guides", "Supplements",
 or other generic filler as a tag.
 
-Title rules:
+Title rules (current standard — use this pattern for every new list post):
 
-- Open with the head keyword, e.g. `Best CoQ10 Supplements`, then the year. Search traffic goes
-  to that phrase, so never replace it with something clever.
-- After the colon, promise something concrete: how many picks and what they are ranked by —
-  e.g. `10 Picks Ranked by Dose & Cost`, `10 Picks Ranked by EPA & DHA`. Skip vague endings
-  like "Amazon vs. iHerb Picks"; the retailer names live in the body and tags.
-- Aim for 60-65 characters so Google does not truncate it.
-- Never use a future date.
+- Use the number-first formula:
+  `The <N> Best <Category> of <Year>, Ranked by <Dimension A> and <Dimension B>`
+  e.g. `The 10 Best Multivitamins of 2026, Ranked by Value and Real Reviews`,
+  `The 10 Best CoQ10 Supplements of 2026, Ranked by Dose and Cost`.
+- Leading with "The 10 Best" beats "Best <Category> in <Year>:" because the number and the word
+  "Best" both survive mobile truncation, and the comma keeps the category phrase intact for
+  search matching. Keep the head keyword ("Multivitamins", "CoQ10 Supplements") right after the
+  number and never bury it at the end.
+- Name the two dimensions that actually decided the ranking, using the buyer's words: Value +
+  Reviews, Dose + Cost, EPA + DHA, Potency + Price. Two concrete dimensions beat one vague one,
+  and never end with "Amazon vs. iHerb Picks" — retailers belong in the body and tags.
+- Length: 60-70 characters. The pattern above lands around 65-67; if a category name is long,
+  trim the year wording or drop to one dimension rather than letting Google cut the ending.
+- Never use a future date, and never add a trailing brand or site name — the theme appends it.
 
 ## 2. Depth standard
 

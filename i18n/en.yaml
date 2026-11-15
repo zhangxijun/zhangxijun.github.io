@@ -1,0 +1,38 @@
+- id: top_picks
+  translation: Top picks
+- id: browse_topics
+  translation: Browse topics
+- id: latest_reviews
+  translation: Latest reviews
+- id: featured_guides
+  translation: Featured guides
+- id: previous_slide
+  translation: Previous slide
+- id: next_slide
+  translation: Next slide
+- id: slide_number
+  translation: Slide {{ . }}
+- id: buy_on
+  translation: Buy on {{ . }}
+- id: check_price_on
+  translation: Check price on {{ . }}
+- id: stars_out_of
+  translation: '{{ . }} out of 5 stars'
+- id: view_count
+  translation: '{{ . }} views'
+- id: read_more
+  translation: Read more
+- id: deal_code
+  translation: Code
+- id: deal_ends_in
+  translation: Ends in
+- id: shop_deal
+  translation: Shop the deal
+- id: view_deal
+  translation: View the deal
+- id: all_deals
+  translation: All deals
+- id: deal_badge
+  translation: Deal
+- id: updated_on
+  translation: Updated {{ . }}

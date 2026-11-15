@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: me
+name:
+  display: iBetterLife 편집부
+role: 리뷰 및 구매 가이드
+bio: Amazon과 iHerb의 건강·영양제·생활용품을 직접 확인하고 한국어 구매 가이드를 제공합니다.
+links:
+  - icon: rss
+    url: ./blog/index.xml
+    label: RSS 구독

@@ -8,7 +8,7 @@ sections:
     content:
       title: 'iBetterLife'
       text: 'Honest, hands-on reviews of health, wellness, and everyday products from
-        **Amazon** and **iHerb** — so US shoppers can buy better and waste less money.'
+        Amazon and iHerb — so US shoppers can buy better and waste less money.'
       announcement:
         text: 'New reviews every week — no sponsored hype, just what actually works.'
       primary_action:

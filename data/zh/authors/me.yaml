@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: me
+name:
+  display: iBetterLife 编辑部
+role: 测评与选购指南
+bio: 我们测评 Amazon 和 iHerb 上的健康、保健与日常产品，并用通俗易懂的中文整理选购指南。
+links:
+  - icon: rss
+    url: ./blog/index.xml
+    label: 订阅 RSS

@@ -1,0 +1,187 @@
+# Omega-3 中文购买指南的商品卡片数据。
+# 由 product-grid 短代码渲染：{{< product-grid data="omega-3" >}}
+# 使用 item="N" 在产品章节中渲染单个卡片。
+# stars = 编辑评分（1-5），rating = 已核实的商店评分（如有）。
+- name: Nordic Naturals Ultimate Omega 鱼油
+  badge: 综合最佳
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/51+IwxYqQSL._AC_SL1000_.jpg
+  stars: 5
+  meta:
+    - 180粒软胶囊（90份）
+    - 约$59-65
+    - 约47,000条 Amazon 评价
+  tip: "编辑5星推荐：经核实的剂量最高，并采用天然甘油三酯形式。"
+  note: 每2粒软胶囊含 EPA + DHA 合计1,100毫克，采用甘油三酯形式。
+  url: https://www.amazon.com/dp/B002CQU564?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B002CQU564?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Nordic%20Naturals%20Ultimate%20Omega&rcode=RZK388
+
+- name: Sports Research Omega-3 鱼油
+  badge: 每天1粒
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/61j3BBi8AFL._AC_SL1500_.jpg
+  stars: 5
+  meta:
+    - 180粒软胶囊（180份）
+    - 约$54
+    - 约60,000条 Amazon 评价
+  tip: "便利性5星推荐：1粒软胶囊含950毫克 EPA + DHA。"
+  note: IFOS 5星纯度评级，MSC 可持续来源认证。
+  url: https://www.amazon.com/dp/B01BTBZWBU?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B01BTBZWBU?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Sports%20Research%20Omega-3&rcode=RZK388
+
+- name: Nature Made 鱼油
+  badge: 药房经济之选
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71SnilzIRwL._AC_SL1500_.jpg
+  stars: 4
+  meta:
+    - 150粒软胶囊（75份）
+    - 约$18-21
+    - USP 认证
+  tip: "经济型4星推荐：通过 USP 认证，价格低于$20。"
+  note: 每2粒软胶囊含 EPA + DHA 合计约600毫克。
+  url: https://www.amazon.com/dp/B010OV9N0W?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B010OV9N0W?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Nature%20Made%20Fish%20Oil&rcode=RZK388
+
+- name: Kirkland Signature 鱼油
+  badge: 每克成本最低
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/61ajlWpkkrL._AC_SL1200_.jpg
+  stars: 5
+  meta:
+    - 400粒软胶囊（200份）
+    - 约$25-35
+    - 每克 EPA + DHA 约$0.23
+  tip: "性价比5星推荐：本清单中每克 EPA + DHA 成本最低。"
+  note: 每2粒软胶囊含 EPA + DHA 合计600毫克，通过 USP 认证。
+  url: https://www.amazon.com/dp/B002VLZHLS?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B002VLZHLS?tag=ibetterlife-20
+
+- name: California Gold Nutrition Omega-3 鱼油
+  badge: iHerb 排名第1
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mli/mli00952/l/392.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 100粒软胶囊（50份）
+    - $12.20
+    - 约492,000条 iHerb 评价
+  tip: "畅销5星推荐：iHerb Omega-3 排名第1，492,000名买家给出4.8分。"
+  note: 每2粒软胶囊含 EPA + DHA 合计600毫克，采用鱼明胶外壳。
+  url: https://www.iherb.com/pr/california-gold-nutrition-omega-3-premium-fish-oil-100-fish-gelatin-softgels-1-100-mg-per-softgel/62118?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=California%20Gold%20Nutrition%20Omega-3&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/california-gold-nutrition-omega-3-premium-fish-oil-100-fish-gelatin-softgels-1-100-mg-per-softgel/62118?rcode=RZK388
+
+- name: Nordic Naturals Kids DHA Mini Chewables 儿童咀嚼软胶囊
+  badge: 最适合儿童
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/61GIcOvmhwL._AC_SL1000_.jpg
+  stars: 5
+  rating: 4.5
+  meta:
+    - 180粒迷你软胶囊（45份）
+    - $24.61
+    - 4,500+条评价，评分4.5
+  tip: "儿童款5星推荐：草莓味可咀嚼迷你软胶囊，4,500+位家长给出4.5分。"
+  note: 每4粒迷你软胶囊含 EPA + DHA 合计200毫克，采用鳕鱼肝油，非转基因。
+  url: https://www.amazon.com/dp/B01N2XZTGL?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B01N2XZTGL?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Nordic%20Naturals%20Kids%20DHA%20Mini%20Chewables&rcode=RZK388
+
+- name: NOW DHA-1000 Extra Strength
+  badge: DHA 含量最高
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/713f67ax6iL._AC_SL1500_.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 90粒软胶囊（90份）
+    - $24.99
+    - 1,200+条评价，评分4.7
+  tip: "DHA 5星推荐：1粒软胶囊含1,000毫克 DHA，支持大脑和眼睛健康。"
+  note: 以 DHA 为主的配方，通过 GMP 认证，非转基因且不含大豆。
+  url: https://www.amazon.com/dp/B081T378YX?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B081T378YX?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=NOW%20DHA-1000%20Extra%20Strength&rcode=RZK388
+
+- name: Life Extension Super Omega-3 鱼油
+  badge: 最适合老年人
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71L5QbyFD+L._AC_SL1500_.jpg
+  stars: 5
+  rating: 4.5
+  meta:
+    - 240粒软胶囊（120份）
+    - $23.59
+    - 5,900+条评价，评分4.5
+  tip: "老年人5星推荐：软胶囊较小，每份 EPA + DHA 合计1,200毫克。"
+  note: 经 IFOS 认证的鱼油，含橄榄多酚，易于吞咽。
+  url: https://www.amazon.com/dp/B006P4B43W?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B006P4B43W?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Life%20Extension%20Super%20Omega-3&rcode=RZK388
+
+- name: Viva Naturals Triple Strength Omega-3 鱼油
+  badge: 无鱼腥味余味
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/81zjmc7hY3L._AC_SL1500_.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 180粒软胶囊（90份）
+    - $55.96
+    - 14,500+条评价，评分4.7
+  tip: "无鱼腥味打嗝5星推荐：rTG 形式，经 IFOS 检测，每份2,070毫克。"
+  note: 每2粒软胶囊含1,500毫克 EPA + 570毫克 DHA，适合鱼素食者。
+  url: https://www.amazon.com/dp/B014LDT0ZM?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B014LDT0ZM?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Viva%20Naturals%20Triple%20Strength%20Omega-3&rcode=RZK388
+
+- name: Sports Research Omega-3 Minis 迷你软胶囊
+  badge: 最小软胶囊
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/61z2SPmiOkL._AC_SL1500_.jpg
+  stars: 4
+  rating: 4.8
+  meta:
+    - 120粒迷你软胶囊（120份）
+    - $26.60
+    - 每粒迷你软胶囊含475毫克
+  tip: "4.8星迷你软胶囊：通过 MSC 认证和 IFOS 5星检测，适合难以吞服药片的人。"
+  note: 每粒迷你软胶囊含345毫克 EPA + 130毫克 DHA，大小如米粒。
+  url: https://www.amazon.com/dp/B0CHN9X9S2?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0CHN9X9S2?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Sports%20Research%20Omega-3%20Minis&rcode=RZK388

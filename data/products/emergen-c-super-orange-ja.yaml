@@ -1,0 +1,23 @@
+# Emergen-C 日本語レビュー用の商品カードデータ。
+# 英語データと同じ実画像・提携リンクを使用し、表示文言のみ翻訳。
+- name: Emergen-C, ビタミンC, スーパーオレンジ, 1,000mg, 30包（1包あたり0.32オンス / 9.1g）
+  badge: 1,000mg + B群ビタミン
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ala/ala30203/l/49.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 1包あたり1,000mgのビタミンC
+    - 1箱30包
+    - 1食あたり約$0.51（iHerb、2026年11月14日）
+    - 1包あたり糖質6g
+  tip: 旅行に最適。錠剤を飲み込むより、ビタミンを飲み物として摂りたい人にも。
+  note: 1包につき糖質6gと、甘く発泡性のある味わいが特徴です。好みに合えば最適ですが、甘いのが苦手な人は注意が必要です。
+  url: 'https://www.iherb.com/pr/emergen-c-vitamin-c-super-orange-1-000-mg-30-packets-0-32-oz-9-1-g-each/18057?rcode=RZK388'
+  # 2つの購入ボタンとそれぞれのアイコン。
+  # Amazon の検索リンクは、正確な商品ページが確認できたら /dp/<ASIN> に差し替える。
+  links:
+    - store: Amazon
+      url: 'https://www.amazon.com/s?k=Emergen-C+Super+Orange+1000mg+30+packets&tag=ibetterlife-20'
+    - store: iHerb
+      url: 'https://www.iherb.com/pr/emergen-c-vitamin-c-super-orange-1-000-mg-30-packets-0-32-oz-9-1-g-each/18057?rcode=RZK388'

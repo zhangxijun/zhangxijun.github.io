@@ -1,11 +1,19 @@
 {{- $current := .RelPermalink -}}
 {{- $picks := slice -}}
-{{- with .Params.sidebar_products -}}{{- $picks = index hugo.Data.products . | default slice -}}{{- end -}}
+{{- with .Params.sidebar_products -}}
+  {{- $key := . -}}
+  {{- /* 与商品卡片一致：优先使用当前语言的数据，缺失时回退到英文。 */ -}}
+  {{- if ne $.Lang "en" -}}
+    {{- $localizedKey := printf "%s-%s" $key $.Lang -}}
+    {{- if index hugo.Data.products $localizedKey -}}{{- $key = $localizedKey -}}{{- end -}}
+  {{- end -}}
+  {{- $picks = index hugo.Data.products $key | default slice -}}
+{{- end -}}
 <aside class="bs-aside hidden xl:block">
   <div class="bs-inner">
     {{- with $picks }}
     <div class="bs-card">
-      <div class="bs-h">Top picks</div>
+      <div class="bs-h">{{ i18n "top_picks" }}</div>
       {{- range first 3 . }}
       <a class="bs-pick" href="{{ .url }}" target="_blank" rel="sponsored nofollow noopener">
         <img src="{{ .image }}" alt="{{ .name }}" loading="lazy" referrerpolicy="no-referrer">
@@ -19,7 +27,7 @@
     {{- end }}
 
     <div class="bs-card">
-      <div class="bs-h">Browse topics</div>
+      <div class="bs-h">{{ i18n "browse_topics" }}</div>
       <div class="bs-tags">
         {{- range first 8 site.Taxonomies.tags.ByCount }}
         <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }} <span>{{ .Count }}</span></a>
@@ -28,7 +36,7 @@
     </div>
 
     <div class="bs-card">
-      <div class="bs-h">Latest reviews</div>
+      <div class="bs-h">{{ i18n "latest_reviews" }}</div>
       <ul class="bs-list">
         {{- range first 5 ((where site.RegularPages "Section" "blog").ByDate.Reverse) }}
         {{- if ne .RelPermalink $current }}

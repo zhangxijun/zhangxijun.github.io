@@ -23,8 +23,8 @@
     {{- end }}
     {{- if or $d.code $d.ends }}
     <div class="dl-chips">
-      {{- with $d.code }}<span class="dl-code"><em>Code</em>{{ . }}</span>{{ end }}
-      {{- with $d.ends }}<span class="dl-timer"><em>Ends in</em><b data-ends="{{ . }}">--</b></span>{{ end }}
+      {{- with $d.code }}<span class="dl-code"><em>{{ i18n "deal_code" }}</em>{{ . }}</span>{{ end }}
+      {{- with $d.ends }}<span class="dl-timer"><em>{{ i18n "deal_ends_in" }}</em><b data-ends="{{ . }}">--</b></span>{{ end }}
     </div>
     {{- end }}
     {{- with $d.products }}
@@ -40,7 +40,7 @@
     {{- end }}
     <div class="dl-foot">
       <span class="dl-meta">{{ with $d.meta }}{{ . }}{{ end }}</span>
-      <a class="dl-cta" href="{{ $d.url }}"{{ if $d.external }} target="_blank" rel="sponsored nofollow noopener"{{ end }}>{{ $d.cta | default "Shop the deal" }} &rarr;</a>
+      <a class="dl-cta" href="{{ $d.url }}"{{ if $d.external }} target="_blank" rel="sponsored nofollow noopener"{{ end }}>{{ $d.cta | default (i18n "shop_deal") }} &rarr;</a>
     </div>
   </div>
 </article>

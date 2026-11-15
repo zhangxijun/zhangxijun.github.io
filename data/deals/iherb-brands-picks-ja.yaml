@@ -1,0 +1,52 @@
+# 同一プロモーション内のおすすめ商品——{{< deal-picks data="iherb-brands-picks" >}} でレンダリング
+# 価格は2026年11月14日の iHerb ブランドセールページの表示価格。
+# `price` = コード適用後の支払い価格、`was` = iHerb が本日表示している価格。
+# 以下の5本は30%オフ（D3 + K2 は20%オフ）。price = 表示価格 x 0.7（または x 0.8）。
+# 必須：name / image / url / price / store。任意：was / note。
+- name: California Gold Nutrition, Omega 800、30粒 魚ゼラチンソフトジェル（1粒あたり1,000mg）
+  price: $8.56
+  was: $11.41
+  note: コード適用で30%オフ
+  store: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01251/l/307.jpg
+  url: 'https://www.iherb.com/pr/california-gold-nutrition-omega-800-30-fish-gelatin-softgels-1-000-mg-per-softgel/82845?rcode=RZK388'
+
+- name: California Gold Nutrition, CollagenUP、加水分解海洋コラーゲンペプチド（ヒアルロン酸配合）、無香料、7.26オンス（206g）
+  price: $13.45
+  was: $19.21
+  note: コード適用で30%オフ
+  store: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01033/l/478.jpg
+  url: 'https://www.iherb.com/pr/california-gold-nutrition-collagenup-hydrolyzed-marine-collagen-peptides-with-hyaluronic-acid-unflavored-7-26-oz-206-g/64903?rcode=RZK388'
+
+- name: California Gold Nutrition, Gold C、USPグレード ビタミンC、1,000mg、240粒 ベジタリアンカプセル
+  price: $11.87
+  was: $16.96
+  note: コード適用で30%オフ
+  store: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00932/l/298.jpg
+  url: 'https://www.iherb.com/pr/california-gold-nutrition-gold-c-usp-grade-vitamin-c-1-000-mg-240-veggie-capsules/61865?rcode=RZK388'
+
+- name: California Gold Nutrition, LactoBif 30 プロバイオティクス、60粒 ベジタリアンカプセル
+  price: $18.07
+  was: $25.82
+  note: コード適用で30%オフ
+  store: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00965/l/302.jpg
+  url: 'https://www.iherb.com/pr/california-gold-nutrition-lactobif-30-probiotics-60-veggie-capsules/64009?rcode=RZK388'
+
+- name: California Gold Nutrition, Sport、純粋クレアチンモノハイドレート、無香料、1ポンド（454g）
+  price: $13.41
+  was: $19.15
+  note: コード適用で30%オフ
+  store: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01059/l/380.jpg
+  url: 'https://www.iherb.com/pr/california-gold-nutrition-sport-pure-creatine-monohydrate-unflavored-1-lb-454-g/71026?rcode=RZK388'
+
+- name: California Gold Nutrition, ビタミンD3 + K2（MK-7形）、180粒 ベジタリアンカプセル
+  price: $12.96
+  was: $16.20
+  note: コード適用で20%オフ
+  store: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02333/l/63.jpg
+  url: 'https://www.iherb.com/pr/california-gold-nutrition-vitamin-d3-k2-as-mk-7-180-veggie-capsules/124745?rcode=RZK388'

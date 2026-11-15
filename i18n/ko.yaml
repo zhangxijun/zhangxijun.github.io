@@ -1,0 +1,44 @@
+- id: top_picks
+  translation: 추천 상품
+- id: browse_topics
+  translation: 카테고리 둘러보기
+- id: latest_reviews
+  translation: 최신 리뷰
+- id: featured_guides
+  translation: 추천 가이드
+- id: previous_slide
+  translation: 이전 슬라이드
+- id: next_slide
+  translation: 다음 슬라이드
+- id: slide_number
+  translation: 슬라이드 {{ . }}
+- id: buy_on
+  translation: '{{ . }}에서 구매'
+- id: check_price_on
+  translation: '{{ . }}에서 가격 보기'
+- id: stars_out_of
+  translation: '별점 5점 중 {{ . }}점'
+- id: view_count
+  translation: '조회 {{ . }}회'
+- id: read_more
+  translation: 더 읽기
+- id: deal_code
+  translation: 쿠폰 코드
+- id: deal_ends_in
+  translation: 종료까지
+- id: shop_deal
+  translation: 할인 보기
+- id: view_deal
+  translation: 할인 상세 보기
+- id: all_deals
+  translation: 모든 할인
+- id: deal_badge
+  translation: 할인
+- id: updated_on
+  translation: '{{ . }} 업데이트'
+- id: home
+  translation: 홈
+- id: close
+  translation: 닫기
+- id: theme_selector
+  translation: 화면 설정

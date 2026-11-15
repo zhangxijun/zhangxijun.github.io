@@ -1,0 +1,44 @@
+- id: top_picks
+  translation: 精选推荐
+- id: browse_topics
+  translation: 浏览分类
+- id: latest_reviews
+  translation: 最新测评
+- id: featured_guides
+  translation: 精选指南
+- id: previous_slide
+  translation: 上一张幻灯片
+- id: next_slide
+  translation: 下一张幻灯片
+- id: slide_number
+  translation: 第 {{ . }} 张幻灯片
+- id: buy_on
+  translation: 前往 {{ . }} 购买
+- id: check_price_on
+  translation: 查看 {{ . }} 最新价格
+- id: stars_out_of
+  translation: 五星评分中的 {{ . }} 星
+- id: view_count
+  translation: '{{ . }} 次浏览'
+- id: read_more
+  translation: 阅读全文
+- id: deal_code
+  translation: 优惠码
+- id: deal_ends_in
+  translation: 距离结束
+- id: shop_deal
+  translation: 前往查看促销
+- id: view_deal
+  translation: 查看促销详情
+- id: all_deals
+  translation: 所有促销
+- id: deal_badge
+  translation: 促销
+- id: updated_on
+  translation: 更新于 {{ . }}
+- id: home
+  translation: 首页
+- id: close
+  translation: 关闭
+- id: theme_selector
+  translation: 显示偏好

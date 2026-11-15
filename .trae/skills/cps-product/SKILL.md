@@ -181,6 +181,11 @@ Article rules:
 - Escape every dollar sign with a backslash (`\$15.43`). Two unescaped `$` in one paragraph make
   Hugo read the text between them as inline math, which silently turns `**bold**`, `_italic_`
   and links inside that span into plain text. Safest habit: always write `\$` for prices.
+- In Chinese/Japanese text, never leave a punctuation mark on the inside edge of `**` when CJK
+  characters follow immediately. Write `**适合的人**：经常旅行的人` and `**向いている人**：旅行が多い人`,
+  not `**适合的人：**经常旅行的人` or `**向いている人：**旅行が多い人`. Otherwise Hugo prints `**` literally.
+- In translation files (`index.zh.md`, `index.ja.md`), reference bundle images with the absolute
+  default-language path (`/blog/<slug>/<image>.jpg`); relative names 404 on `/zh/` and `/ja/`.
 
 ## 6. Draw the graphics
 

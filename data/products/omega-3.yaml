@@ -14,6 +14,11 @@
   tip: "Editor's 5-star pick: highest verified dose and natural triglyceride form."
   note: 1,100 mg combined EPA + DHA per 2 softgels, triglyceride form.
   url: https://www.amazon.com/dp/B002CQU564?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B002CQU564?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Nordic%20Naturals%20Ultimate%20Omega&rcode=RZK388
 
 - name: Sports Research Omega-3
   badge: One pill a day
@@ -27,6 +32,11 @@
   tip: "5 stars for convenience: 950 mg EPA + DHA in a single softgel."
   note: IFOS 5-star purity and MSC sustainable sourcing.
   url: https://www.amazon.com/dp/B01BTBZWBU?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B01BTBZWBU?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Sports%20Research%20Omega-3&rcode=RZK388
 
 - name: Nature Made Fish Oil
   badge: Budget pharmacy pick
@@ -40,6 +50,11 @@
   tip: "4-star budget buy: USP Verified for under $20."
   note: About 600 mg combined EPA + DHA per 2 softgels.
   url: https://www.amazon.com/dp/B010OV9N0W?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B010OV9N0W?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Nature%20Made%20Fish%20Oil&rcode=RZK388
 
 - name: Kirkland Signature Fish Oil
   badge: Lowest cost per gram
@@ -53,6 +68,9 @@
   tip: "5 stars for value: cheapest EPA + DHA per gram on this list."
   note: 600 mg combined EPA + DHA per 2 softgels, USP Verified.
   url: https://www.amazon.com/dp/B002VLZHLS?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B002VLZHLS?tag=ibetterlife-20
 
 - name: California Gold Nutrition Omega-3
   badge: "#1 on iHerb"
@@ -67,6 +85,11 @@
   tip: "5-star best seller: #1 in iHerb omega-3 with 4.8 from 492,000 buyers."
   note: 600 mg combined EPA + DHA per 2 softgels, fish gelatin shell.
   url: https://www.iherb.com/pr/california-gold-nutrition-omega-3-premium-fish-oil-100-fish-gelatin-softgels-1-100-mg-per-softgel/62118?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=California%20Gold%20Nutrition%20Omega-3&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/california-gold-nutrition-omega-3-premium-fish-oil-100-fish-gelatin-softgels-1-100-mg-per-softgel/62118?rcode=RZK388
 
 - name: Nordic Naturals Kids DHA Mini Chewables
   badge: Best for kids
@@ -81,6 +104,11 @@
   tip: "5 stars for kids: strawberry chewable minis, 4.5 from 4,500+ parents."
   note: 200 mg EPA + DHA per 4 minis, cod liver oil, non-GMO.
   url: https://www.amazon.com/dp/B01N2XZTGL?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B01N2XZTGL?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Nordic%20Naturals%20Kids%20DHA%20Mini%20Chewables&rcode=RZK388
 
 - name: NOW DHA-1000 Extra Strength
   badge: Highest DHA
@@ -95,6 +123,11 @@
   tip: "5 stars for DHA: 1,000 mg DHA in one softgel for brain and eye support."
   note: DHA-dominant formula, GMP certified, non-GMO and soy-free.
   url: https://www.amazon.com/dp/B081T378YX?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B081T378YX?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=NOW%20DHA-1000%20Extra%20Strength&rcode=RZK388
 
 - name: Life Extension Super Omega-3
   badge: Best for seniors
@@ -109,6 +142,11 @@
   tip: "5 stars for older adults: smaller softgels with 1,200 mg per serving."
   note: IFOS certified fish oil with olive polyphenols, easy to swallow.
   url: https://www.amazon.com/dp/B006P4B43W?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B006P4B43W?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Life%20Extension%20Super%20Omega-3&rcode=RZK388
 
 - name: Viva Naturals Triple Strength Omega-3
   badge: No fishy aftertaste
@@ -123,6 +161,11 @@
   tip: "5 stars for no fishy burps: rTG form, IFOS tested, 2,070 mg per serving."
   note: 1,500 mg EPA + 570 mg DHA per 2 softgels, pescatarian-friendly.
   url: https://www.amazon.com/dp/B014LDT0ZM?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B014LDT0ZM?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Viva%20Naturals%20Triple%20Strength%20Omega-3&rcode=RZK388
 
 - name: Sports Research Omega-3 Minis
   badge: Smallest softgel
@@ -137,3 +180,8 @@
   tip: "4.8-star mini pill: MSC and IFOS 5-star, easy for pill-averse users."
   note: 345 mg EPA + 130 mg DHA per mini softgel, rice-grain size.
   url: https://www.amazon.com/dp/B0CHN9X9S2?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0CHN9X9S2?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Sports%20Research%20Omega-3%20Minis&rcode=RZK388

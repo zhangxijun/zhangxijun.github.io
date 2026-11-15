@@ -7,6 +7,12 @@
 */ -}}
 {{- $key := .Get "data" -}}
 {{- $items := index hugo.Data.deals $key -}}
+{{- /* 中文页面优先读取“数据键-zh”，没有翻译时继续使用英文。 */ -}}
+{{- if ne .Page.Lang "en" -}}
+  {{- $localizedKey := printf "%s-%s" $key .Page.Lang -}}
+  {{- $localizedItems := index hugo.Data.deals $localizedKey -}}
+  {{- if $localizedItems -}}{{- $items = $localizedItems -}}{{- end -}}
+{{- end -}}
 {{- if not $items -}}
   {{- errorf "deal-picks: no data found for key %q" $key -}}
 {{- end -}}

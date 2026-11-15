@@ -5,7 +5,7 @@
   <article class="w-full break-words flex min-h-[calc(100vh-var(--navbar-height))] min-w-0 justify-center pb-8 pr-[calc(env(safe-area-inset-right)-1.5rem)]">
     <main class="w-full min-w-0 max-w-6xl px-6 pt-4 md:px-12">
 
-      <p class="dl-back"><a href="{{ "/deals/" | relURL }}">&larr; All deals</a></p>
+      <p class="dl-back"><a href="{{ "/deals/" | relLangURL }}">&larr; {{ i18n "all_deals" }}</a></p>
 
       <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100" data-pagefind-meta="title" data-pagefind-body>{{ .Title }}</h1>
 

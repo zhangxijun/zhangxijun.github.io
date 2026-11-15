@@ -1,22 +1,115 @@
-# Languages
-#   Create a section for each of your site's languages.
-#   Documentation: https://docs.hugoblox.com/reference/language/
-
-# Default language
+# 英文保持默认语言，现有英文网址不变；中文统一生成到 /zh/。
 en:
   locale: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  label: English
+  weight: 1
 
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  locale: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+zh:
+  locale: zh-Hans
+  label: 简体中文
+  title: iBetterLife
+  weight: 2
+  params:
+    hugoblox:
+      identity:
+        tagline: 独立测评，聪明选购
+        description: 面向中文读者的健康、保健与日常产品独立测评，精选 Amazon 和 iHerb 商品。
+      locale:
+        date_format: "2006年1月2日"
+      copyright:
+        license:
+          label: 联盟链接声明
+  menu:
+    main:
+      - name: 首页
+        url: /
+        weight: 10
+      - name: 测评
+        url: blog/
+        weight: 20
+      - name: 促销
+        url: deals/
+        weight: 25
+      - name: 分类
+        url: tags/
+        weight: 30
+      - name: 关于我们
+        url: about/
+        weight: 40
+      - name: 联盟声明
+        url: affiliate-disclosure/
+        weight: 50
+
+# 日文统一生成到 /ja/，复用与中文相同的多语言回退机制。
+ja:
+  locale: ja
+  label: 日本語
+  title: iBetterLife
+  weight: 3
+  params:
+    hugoblox:
+      identity:
+        tagline: 独立したレビューで、賢い買い物を
+        description: Amazon と iHerb で販売されている健康・サプリ・日用品を、日本語で分かりやすくレビューします。
+      locale:
+        date_format: "2006年1月2日"
+      copyright:
+        license:
+          label: 提携リンクについて
+  menu:
+    main:
+      - name: ホーム
+        url: /
+        weight: 10
+      - name: レビュー
+        url: blog/
+        weight: 20
+      - name: セール
+        url: deals/
+        weight: 25
+      - name: カテゴリー
+        url: tags/
+        weight: 30
+      - name: 私たちについて
+        url: about/
+        weight: 40
+      - name: 提携リンク
+        url: affiliate-disclosure/
+        weight: 50
+
+# 韩文统一生成到 /ko/，同样复用多语言回退机制。
+ko:
+  locale: ko
+  label: 한국어
+  title: iBetterLife
+  weight: 4
+  params:
+    hugoblox:
+      identity:
+        tagline: 독립 리뷰로 현명하게 고르기
+        description: Amazon과 iHerb에서 판매하는 건강·영양제·생활용품을 한국어로 알기 쉽게 리뷰합니다.
+      locale:
+        date_format: "2006년 1월 2일"
+      copyright:
+        license:
+          label: 제휴 링크 안내
+  menu:
+    main:
+      - name: 홈
+        url: /
+        weight: 10
+      - name: 리뷰
+        url: blog/
+        weight: 20
+      - name: 특가
+        url: deals/
+        weight: 25
+      - name: 카테고리
+        url: tags/
+        weight: 30
+      - name: 소개
+        url: about/
+        weight: 40
+      - name: 제휴 안내
+        url: affiliate-disclosure/
+        weight: 50

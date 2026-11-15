@@ -1,0 +1,23 @@
+# Emergen-C 한국어 리뷰용 상품 카드 데이터.
+# 영어 데이터와 같은 실제 이미지·제휴 링크를 사용하고 표시 문구만 번역했습니다.
+- name: Emergen-C, 비타민C, 슈퍼 오렌지, 1,000mg, 30포(포당 0.32oz / 9.1g)
+  badge: 1,000mg + B군 비타민
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ala/ala30203/l/49.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 포당 비타민C 1,000mg
+    - 상자당 30포
+    - 1회 약 $0.51(iHerb, 2026년 11월 14일)
+    - 포당 당류 6g
+  tip: "여행에 적합합니다. 알약을 삼키기보다 비타민을 음료로 마시고 싶은 분께도 좋습니다."
+  note: "한 포에 당류 6g과 달콤하고 탄산감 있는 맛이 특징입니다. 입맛에 맞으면 좋지만 단맛이 부담스러운 분은 주의하세요."
+  url: 'https://www.iherb.com/pr/emergen-c-vitamin-c-super-orange-1-000-mg-30-packets-0-32-oz-9-1-g-each/18057?rcode=RZK388'
+  # 두 개의 구매 버튼과 각 아이콘.
+  # Amazon 검색 링크는 정확한 상품 페이지를 확인하면 /dp/<ASIN>으로 교체하세요.
+  links:
+    - store: Amazon
+      url: 'https://www.amazon.com/s?k=Emergen-C+Super+Orange+1000mg+30+packets&tag=ibetterlife-20'
+    - store: iHerb
+      url: 'https://www.iherb.com/pr/emergen-c-vitamin-c-super-orange-1-000-mg-30-packets-0-32-oz-9-1-g-each/18057?rcode=RZK388'

@@ -1,0 +1,187 @@
+# Omega-3 日本語購入ガイドの商品カードデータ。
+# product-grid ショートコードで描画：{{< product-grid data="omega-3" >}}
+# item="N" で商品セクション内に単一カードを描画します。
+# stars = 編集スコア（1-5）、rating = 確認済みのストア評価（判明時）。
+- name: Nordic Naturals Ultimate Omega
+  badge: 総合的に最優秀
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/51+IwxYqQSL._AC_SL1000_.jpg
+  stars: 5
+  meta:
+    - 180ソフトジェル（90回分）
+    - 約$59-65
+    - 約47,000件のAmazonレビュー
+  tip: "編集部5星推薦：確認済みの配合量が最も高く、天然のトリグリセリド型。"
+  note: ソフトジェル2粒あたりEPA + DHA合計1,100mg、トリグリセリド型。
+  url: https://www.amazon.com/dp/B002CQU564?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B002CQU564?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Nordic%20Naturals%20Ultimate%20Omega&rcode=RZK388
+
+- name: Sports Research Omega-3
+  badge: 1日1粒
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/61j3BBi8AFL._AC_SL1500_.jpg
+  stars: 5
+  meta:
+    - 180ソフトジェル（180回分）
+    - 約$54
+    - 約60,000件のAmazonレビュー
+  tip: "利便性5星：ソフトジェル1粒にEPA + DHA 950mg。"
+  note: IFOS 5スターの純度評価とMSCの持続可能な原料調達。
+  url: https://www.amazon.com/dp/B01BTBZWBU?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B01BTBZWBU?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Sports%20Research%20Omega-3&rcode=RZK388
+
+- name: Nature Made Fish Oil
+  badge: 薬局のお得な選択肢
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71SnilzIRwL._AC_SL1500_.jpg
+  stars: 4
+  meta:
+    - 150ソフトジェル（75回分）
+    - 約$18-21
+    - USP認証取得
+  tip: "お買い得4星：USP認証取得で$20以下。"
+  note: ソフトジェル2粒あたりEPA + DHA合計約600mg。
+  url: https://www.amazon.com/dp/B010OV9N0W?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B010OV9N0W?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Nature%20Made%20Fish%20Oil&rcode=RZK388
+
+- name: Kirkland Signature Fish Oil
+  badge: 1グラムあたりコスト最低
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/61ajlWpkkrL._AC_SL1200_.jpg
+  stars: 5
+  meta:
+    - 400ソフトジェル（200回分）
+    - 約$25-35
+    - EPA + DHA 1グラムあたり約$0.23
+  tip: "コスパ5星：このリストでEPA + DHAの1グラムあたりコストが最低。"
+  note: ソフトジェル2粒あたりEPA + DHA合計600mg、USP認証取得。
+  url: https://www.amazon.com/dp/B002VLZHLS?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B002VLZHLS?tag=ibetterlife-20
+
+- name: California Gold Nutrition Omega-3
+  badge: "iHerbで1位"
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mli/mli00952/l/392.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 100ソフトジェル（50回分）
+    - $12.20
+    - 約492,000件のiHerbレビュー
+  tip: "ベストセラー5星：iHerbオメガ3で1位、492,000人の購入者から4.8。"
+  note: ソフトジェル2粒あたりEPA + DHA合計600mg、フィッシュゼラチンカプセル。
+  url: https://www.iherb.com/pr/california-gold-nutrition-omega-3-premium-fish-oil-100-fish-gelatin-softgels-1-100-mg-per-softgel/62118?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=California%20Gold%20Nutrition%20Omega-3&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/california-gold-nutrition-omega-3-premium-fish-oil-100-fish-gelatin-softgels-1-100-mg-per-softgel/62118?rcode=RZK388
+
+- name: Nordic Naturals Kids DHA Mini Chewables
+  badge: 子どもに最適
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/61GIcOvmhwL._AC_SL1000_.jpg
+  stars: 5
+  rating: 4.5
+  meta:
+    - 180ミニソフトジェル（45回分）
+    - $24.61
+    - 4,500件以上のレビューで4.5
+  tip: "子ども向け5星：イチゴ風味の噛めるミニ、4,500人以上の保護者から4.5。"
+  note: ミニ4粒あたりEPA + DHA合計200mg、タラ肝油由来、非GMO。
+  url: https://www.amazon.com/dp/B01N2XZTGL?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B01N2XZTGL?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Nordic%20Naturals%20Kids%20DHA%20Mini%20Chewables&rcode=RZK388
+
+- name: NOW DHA-1000 Extra Strength
+  badge: DHA配合量最多
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/713f67ax6iL._AC_SL1500_.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 90ソフトジェル（90回分）
+    - $24.99
+    - 1,200件以上のレビューで4.7
+  tip: "DHA 5星：ソフトジェル1粒にDHA 1,000mg、脳と目の健康をサポート。"
+  note: DHA主体の処方、GMP認証取得、非GMOで大豆不使用。
+  url: https://www.amazon.com/dp/B081T378YX?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B081T378YX?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=NOW%20DHA-1000%20Extra%20Strength&rcode=RZK388
+
+- name: Life Extension Super Omega-3
+  badge: 高齢者に最適
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71L5QbyFD+L._AC_SL1500_.jpg
+  stars: 5
+  rating: 4.5
+  meta:
+    - 240ソフトジェル（120回分）
+    - $23.59
+    - 5,900件以上のレビューで4.5
+  tip: "高齢者向け5星：小さめのソフトジェルで1回分1,200mg。"
+  note: IFOS認証取得の魚油にオリーブポリフェノール配合、飲み込みやすい。
+  url: https://www.amazon.com/dp/B006P4B43W?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B006P4B43W?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Life%20Extension%20Super%20Omega-3&rcode=RZK388
+
+- name: Viva Naturals Triple Strength Omega-3
+  badge: 魚の後味なし
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/81zjmc7hY3L._AC_SL1500_.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 180ソフトジェル（90回分）
+    - $55.96
+    - 14,500件以上のレビューで4.7
+  tip: "魚の生臭いげっぷなし5星：rTG型、IFOS検査済み、1回分2,070mg。"
+  note: ソフトジェル2粒あたりEPA 1,500mg + DHA 570mg、ペスカタリアン対応。
+  url: https://www.amazon.com/dp/B014LDT0ZM?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B014LDT0ZM?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Viva%20Naturals%20Triple%20Strength%20Omega-3&rcode=RZK388
+
+- name: Sports Research Omega-3 Minis
+  badge: 最も小さいソフトジェル
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/61z2SPmiOkL._AC_SL1500_.jpg
+  stars: 4
+  rating: 4.8
+  meta:
+    - 120ミニソフトジェル（120回分）
+    - $26.60
+    - ミニソフトジェル1粒あたり475mg
+  tip: "4.8星のミニ錠：MSC認証とIFOS 5スター取得、錠剤が苦手な人にも飲みやすい。"
+  note: ミニソフトジェル1粒あたりEPA 345mg + DHA 130mg、米粒大。
+  url: https://www.amazon.com/dp/B0CHN9X9S2?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0CHN9X9S2?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Sports%20Research%20Omega-3%20Minis&rcode=RZK388

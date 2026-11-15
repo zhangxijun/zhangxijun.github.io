@@ -1,7 +1,13 @@
 {{- $slides := slice -}}
-{{- with hugo.Data.sliders.home -}}{{- $slides = .slides | default slice -}}{{- end -}}
+{{- $dataKey := "home" -}}
+{{- /* 其他语言有独立轮播数据时使用翻译版本，否则回退到英文。 */ -}}
+{{- if ne .Lang "en" -}}
+  {{- $localizedKey := printf "home_%s" .Lang -}}
+  {{- if index hugo.Data.sliders $localizedKey -}}{{- $dataKey = $localizedKey -}}{{- end -}}
+{{- end -}}
+{{- with index hugo.Data.sliders $dataKey -}}{{- $slides = .slides | default slice -}}{{- end -}}
 {{- with $slides }}
-<section class="hs-wrap" aria-label="Featured guides">
+<section class="hs-wrap" aria-label="{{ i18n "featured_guides" }}">
   <div class="hs-track" id="hs-track">
     {{- range $index, $slide := . }}
     <a class="hs-slide{{ if eq $index 0 }} is-active{{ end }}" href="{{ $slide.url }}">
@@ -11,11 +17,11 @@
   </div>
 
   {{- if gt (len .) 1 }}
-  <button class="hs-nav hs-prev" type="button" aria-label="Previous slide">&#8249;</button>
-  <button class="hs-nav hs-next" type="button" aria-label="Next slide">&#8250;</button>
+  <button class="hs-nav hs-prev" type="button" aria-label="{{ i18n "previous_slide" }}">&#8249;</button>
+  <button class="hs-nav hs-next" type="button" aria-label="{{ i18n "next_slide" }}">&#8250;</button>
   <div class="hs-dots" role="tablist">
     {{- range $index, $slide := . }}
-    <button class="hs-dot{{ if eq $index 0 }} is-active{{ end }}" type="button" data-index="{{ $index }}" aria-label="Slide {{ add $index 1 }}"></button>
+    <button class="hs-dot{{ if eq $index 0 }} is-active{{ end }}" type="button" data-index="{{ $index }}" aria-label="{{ i18n "slide_number" (add $index 1) }}"></button>
     {{- end }}
   </div>
   {{- end }}

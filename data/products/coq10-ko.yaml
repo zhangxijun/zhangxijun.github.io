@@ -1,0 +1,191 @@
+# CoQ10 구매 가이드의 한국어 상품 카드 데이터.
+# product-grid 숏코드로 렌더링: {{< product-grid data="coq10" item="N" >}}
+# stars = 편집자 점수(1-5), rating = 상품 페이지에 표시되는 스토어 평가.
+- name: Doctor's Best High Absorption CoQ10 (BioPerine 함유)
+  badge: 종합 베스트
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/61Ct0Gx72OL._AC_SL1500_.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 베지터블 캡슐 120정(120회분)
+    - ~$19
+    - CoQ10 100mg + BioPerine
+  tip: "5점 만능형: 비건 캡슐, 하루 1정, 20달러 이하."
+  note: 자연 발효 CoQ10에 흡수를 돕는 후추 추출물을 더했습니다.
+  url: https://www.amazon.com/dp/B0019GW38G?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0019GW38G?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Doctor%27s%20Best%20High%20Absorption%20CoQ10%20with%20BioPerine&rcode=RZK388
+
+- name: Jarrow Formulas QH-Absorb Ubiquinol 100 mg
+  badge: 활성형 유비퀴놀
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71ldQnCtJ2L._AC_SL1500_.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 소프트젤 120정(120회분)
+    - ~$63
+    - 소프트젤당 유비퀴놀 100mg
+  tip: "흡수력에서 5점: CoQ10의 환원형 활성 형태."
+  note: 브랜드 보고에 따르면 임상 연구에서 하루 100mg 섭취 시 CoQ10 수치가 222% 상승했습니다.
+  url: https://www.amazon.com/dp/B004VCOOUU?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B004VCOOUU?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Jarrow%20Formulas%20QH-Absorb%20Ubiquinol%20100%20mg&rcode=RZK388
+
+- name: Qunol Ultra CoQ10 100 mg
+  badge: 베스트셀러
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71X9DAChHRL._AC_SL1500_.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 소프트젤 120정(120회분)
+    - ~$30
+    - 수용성·지용성
+  tip: "처음 사는 분께 5점: 많은 사람이 가장 먼저 선택하는 병."
+  note: 브랜드 임상 연구에서 일반 CoQ10 분말보다 흡수가 3배라고 밝혔습니다.
+  url: https://www.amazon.com/dp/B0055OUOQQ?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0055OUOQQ?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Qunol%20Ultra%20CoQ10%20100%20mg&rcode=RZK388
+
+- name: Puritan's Pride CoQ10 100 mg
+  badge: 1정당 최저가
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71ZGDSd5hzL._AC_SL1500_.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 소프트젤 240정(120회분)
+    - ~$28
+    - 100mg당 약 $0.12
+  tip: "4점 가성비: 이 가이드에서 100mg당 가격이 가장 낮음."
+  note: 속방형 소프트젤, 하루 2회 식사와 함께 복용.
+  url: https://www.amazon.com/dp/B004R61NCW?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B004R61NCW?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Puritan%27s%20Pride%20CoQ10%20100%20mg&rcode=RZK388
+
+- name: NOW CoQ10 400 mg
+  badge: 최고 함량
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71FKaRy2s8L._AC_SL1500_.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 소프트젤 60정(60회분)
+    - ~$34
+    - 소프트젤당 400mg
+  tip: "고함량이 필요한 분께 5점: 소프트젤 한 알에 400mg."
+  note: 비타민E와 해바라기 레시틴을 더한 제약 등급, GMP 인증.
+  url: https://www.amazon.com/dp/B0013OSM34?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0013OSM34?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=NOW%20CoQ10%20400%20mg&rcode=RZK388
+
+- name: Life Extension Super Ubiquinol CoQ10 with PQQ
+  badge: 중장년층에 적합
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71pK1iahqlL._AC_SL1500_.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 소프트젤 30정(30회분)
+    - ~$34
+    - 유비퀴놀 + PQQ + 실라짓
+  tip: "중장년층에 5점: 소프트젤 한 알에 유비퀴놀과 PQQ."
+  note: 모든 로트의 성분 분석서를 공개합니다.
+  url: https://www.amazon.com/dp/B00DBYI6RQ?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B00DBYI6RQ?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Life%20Extension%20Super%20Ubiquinol%20CoQ10%20with%20PQQ&rcode=RZK388
+
+- name: California Gold Nutrition CoQ10 100 mg
+  badge: iHerb 최고 가성비
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00944/l/198.jpg
+  stars: 5
+  meta:
+    - 베지터블 소프트젤 120정(120회분)
+    - $19.33
+    - iHerb 평가 41,772건
+  tip: "iHerb 5점 인기 상품: 120회분이 20달러 이하."
+  note: 하루 1정 베지터블 소프트젤, 제3자 검사, 비유전자변형.
+  url: https://www.iherb.com/pr/california-gold-nutrition-coq10-100-mg-120-veggie-softgels/61074?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=California%20Gold%20Nutrition%20CoQ10%20100%20mg&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/california-gold-nutrition-coq10-100-mg-120-veggie-softgels/61074?rcode=RZK388
+
+- name: Sports Research CoQ10 with BioPerine
+  badge: 하루 1정 비건
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/61NebFbE4bL._AC_SL1500_.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - Plantgel 120정(120회분)
+    - ~$28
+    - CoQ10 100mg(USP 등급)
+  tip: "4.7점 Plantgel: 카라기난과 동물성 부산물 무첨가."
+  note: 흡수를 돕는 BioPerine 함유, 하루 1정 베지터블 소프트젤.
+  url: https://www.amazon.com/dp/B07LC4VQTH?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B07LC4VQTH?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Sports%20Research%20CoQ10%20with%20BioPerine&rcode=RZK388
+
+- name: Nature Made CoQ10 200 mg
+  badge: USP 인증
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/717LKUs8ejL._AC_SL1500_.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 소프트젤 105정(105회분)
+    - ~$28
+    - 소프트젤당 200mg
+  tip: "라벨 신뢰도 5점: USP가 함량과 순도를 검증."
+  note: 물과 식사와 함께 하루 1정, 105일분.
+  url: https://www.amazon.com/dp/B07CDXRBVJ?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B07CDXRBVJ?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Nature%20Made%20CoQ10%20200%20mg&rcode=RZK388
+
+- name: Qunol CoQ10 100 mg Gummies
+  badge: 정제 불필요
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71g1lfHowjL._AC_SL1500_.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 구미 120정(120회분)
+    - ~$24
+    - 구미당 100mg
+  tip: "정제가 부담스러운 분께 4점: 오렌지 맛 씹는 구미."
+  note: 하루 구미 1개를 씹어 복용. 녹지 않도록 열을 피해 보관.
+  url: https://www.amazon.com/dp/B0914VSCJ1?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0914VSCJ1?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Qunol%20CoQ10%20100%20mg%20Gummies&rcode=RZK388

@@ -1,0 +1,187 @@
+# Omega-3 한국어 구매 가이드의 상품 카드 데이터.
+# product-grid 숏코드로 렌더링: {{< product-grid data="omega-3" >}}
+# item="N"으로 상품 섹션 안에 단일 카드를 렌더링합니다.
+# stars = 편집자 점수(1-5), rating = 확인된 스토어 평가(확인 가능한 경우).
+- name: Nordic Naturals Ultimate Omega
+  badge: 종합 최고
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/51+IwxYqQSL._AC_SL1000_.jpg
+  stars: 5
+  meta:
+    - 소프트젤 180정(90회분)
+    - 약 $59-65
+    - Amazon 리뷰 약 47,000건
+  tip: "편집자 5점 추천: 검증된 함량이 가장 높고 천연 트리글리세리드 형태."
+  note: 소프트젤 2정당 EPA + DHA 합계 1,100mg, 트리글리세리드 형태.
+  url: https://www.amazon.com/dp/B002CQU564?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B002CQU564?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Nordic%20Naturals%20Ultimate%20Omega&rcode=RZK388
+
+- name: Sports Research Omega-3
+  badge: 하루 1정
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/61j3BBi8AFL._AC_SL1500_.jpg
+  stars: 5
+  meta:
+    - 소프트젤 180정(180회분)
+    - 약 $54
+    - Amazon 리뷰 약 60,000건
+  tip: "편의성 5점: 소프트젤 한 알에 EPA + DHA 950mg."
+  note: IFOS 5스타 순도 평가와 MSC 지속가능 원료 조달.
+  url: https://www.amazon.com/dp/B01BTBZWBU?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B01BTBZWBU?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Sports%20Research%20Omega-3&rcode=RZK388
+
+- name: Nature Made Fish Oil
+  badge: 약국 가성비
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71SnilzIRwL._AC_SL1500_.jpg
+  stars: 4
+  meta:
+    - 소프트젤 150정(75회분)
+    - 약 $18-21
+    - USP 인증
+  tip: "가성비 4점: USP 인증에 20달러 이하."
+  note: 소프트젤 2정당 EPA + DHA 합계 약 600mg.
+  url: https://www.amazon.com/dp/B010OV9N0W?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B010OV9N0W?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Nature%20Made%20Fish%20Oil&rcode=RZK388
+
+- name: Kirkland Signature Fish Oil
+  badge: 1g당 최저가
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/61ajlWpkkrL._AC_SL1200_.jpg
+  stars: 5
+  meta:
+    - 소프트젤 400정(200회분)
+    - 약 $25-35
+    - EPA + DHA 1g당 약 $0.23
+  tip: "가성비 5점: 이 목록에서 EPA + DHA 1g당 가격이 최저."
+  note: 소프트젤 2정당 EPA + DHA 합계 600mg, USP 인증.
+  url: https://www.amazon.com/dp/B002VLZHLS?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B002VLZHLS?tag=ibetterlife-20
+
+- name: California Gold Nutrition Omega-3
+  badge: "iHerb 1위"
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mli/mli00952/l/392.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 소프트젤 100정(50회분)
+    - $12.20
+    - iHerb 리뷰 약 492,000건
+  tip: "베스트셀러 5점: iHerb 오메가3 1위, 492,000명 구매자에게 4.8."
+  note: 소프트젤 2정당 EPA + DHA 합계 600mg, 어류 젤라틴 캡슐.
+  url: https://www.iherb.com/pr/california-gold-nutrition-omega-3-premium-fish-oil-100-fish-gelatin-softgels-1-100-mg-per-softgel/62118?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=California%20Gold%20Nutrition%20Omega-3&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/california-gold-nutrition-omega-3-premium-fish-oil-100-fish-gelatin-softgels-1-100-mg-per-softgel/62118?rcode=RZK388
+
+- name: Nordic Naturals Kids DHA Mini Chewables
+  badge: 어린이용 최고
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/61GIcOvmhwL._AC_SL1000_.jpg
+  stars: 5
+  rating: 4.5
+  meta:
+    - 미니 소프트젤 180정(45회분)
+    - $24.61
+    - 리뷰 4,500건 이상 평균 4.5
+  tip: "어린이용 5점: 딸기 맛 씹는 미니, 4,500명 이상 보호자에게 4.5."
+  note: 미니 4정당 EPA + DHA 합계 200mg, 대구 간유 유래, 비유전자변형.
+  url: https://www.amazon.com/dp/B01N2XZTGL?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B01N2XZTGL?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Nordic%20Naturals%20Kids%20DHA%20Mini%20Chewables&rcode=RZK388
+
+- name: NOW DHA-1000 Extra Strength
+  badge: DHA 최고 함량
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/713f67ax6iL._AC_SL1500_.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 소프트젤 90정(90회분)
+    - $24.99
+    - 리뷰 1,200건 이상 평균 4.7
+  tip: "DHA 5점: 소프트젤 한 알에 DHA 1,000mg, 뇌와 눈 건강 지원."
+  note: DHA 중심 제형, GMP 인증, 비유전자변형 및 대두 무첨가.
+  url: https://www.amazon.com/dp/B081T378YX?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B081T378YX?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=NOW%20DHA-1000%20Extra%20Strength&rcode=RZK388
+
+- name: Life Extension Super Omega-3
+  badge: 중장년층에 적합
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71L5QbyFD+L._AC_SL1500_.jpg
+  stars: 5
+  rating: 4.5
+  meta:
+    - 소프트젤 240정(120회분)
+    - $23.59
+    - 리뷰 5,900건 이상 평균 4.5
+  tip: "중장년층 5점: 작은 소프트젤로 1회 1,200mg."
+  note: IFOS 인증 생선유에 올리브 폴리페놀 함유, 삼키기 쉬움.
+  url: https://www.amazon.com/dp/B006P4B43W?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B006P4B43W?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Life%20Extension%20Super%20Omega-3&rcode=RZK388
+
+- name: Viva Naturals Triple Strength Omega-3
+  badge: 비린 맛 없음
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/81zjmc7hY3L._AC_SL1500_.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 소프트젤 180정(90회분)
+    - $55.96
+    - 리뷰 14,500건 이상 평균 4.7
+  tip: "비린 트림 없음 5점: rTG 형태, IFOS 검사, 1회 2,070mg."
+  note: 소프트젤 2정당 EPA 1,500mg + DHA 570mg, 페스카테리언 가능.
+  url: https://www.amazon.com/dp/B014LDT0ZM?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B014LDT0ZM?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Viva%20Naturals%20Triple%20Strength%20Omega-3&rcode=RZK388
+
+- name: Sports Research Omega-3 Minis
+  badge: 가장 작은 소프트젤
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/61z2SPmiOkL._AC_SL1500_.jpg
+  stars: 4
+  rating: 4.8
+  meta:
+    - 미니 소프트젤 120정(120회분)
+    - $26.60
+    - 미니 소프트젤당 475mg
+  tip: "4.8점 미니: MSC 인증과 IFOS 5스타, 알약이 힘든 사람도 부담 없음."
+  note: 미니 소프트젤 한 알당 EPA 345mg + DHA 130mg, 쌀알 크기.
+  url: https://www.amazon.com/dp/B0CHN9X9S2?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0CHN9X9S2?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Sports%20Research%20Omega-3%20Minis&rcode=RZK388

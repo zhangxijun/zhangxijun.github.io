@@ -1,0 +1,191 @@
+# CoQ10 选购指南的中文商品卡片数据。
+# 由 product-grid 短代码渲染：{{< product-grid data="coq10" item="N" >}}
+# stars = 编辑评分（1-5），rating = 商品页面显示的店铺评分。
+- name: Doctor's Best High Absorption 辅酶Q10（含 BioPerine）
+  badge: 综合最佳
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/61Ct0Gx72OL._AC_SL1500_.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 120粒素食胶囊（120份）
+    - ~$19
+    - 100毫克辅酶Q10 + BioPerine
+  tip: "5星全能之选：素食胶囊，每天一粒，价格低于$20。"
+  note: 天然发酵辅酶Q10，搭配黑胡椒提取物以帮助吸收。
+  url: https://www.amazon.com/dp/B0019GW38G?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0019GW38G?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Doctor%27s%20Best%20High%20Absorption%20CoQ10%20with%20BioPerine&rcode=RZK388
+
+- name: Jarrow Formulas QH-Absorb Ubiquinol（泛醇）100 mg
+  badge: 活性泛醇
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71ldQnCtJ2L._AC_SL1500_.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 120粒软胶囊（120份）
+    - ~$63
+    - 每粒软胶囊含100毫克泛醇
+  tip: "吸收方面5星：辅酶Q10的还原型活性形式。"
+  note: 品牌报告称，在临床研究中，每天服用100毫克可使辅酶Q10水平提高222%。
+  url: https://www.amazon.com/dp/B004VCOOUU?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B004VCOOUU?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Jarrow%20Formulas%20QH-Absorb%20Ubiquinol%20100%20mg&rcode=RZK388
+
+- name: Qunol Ultra 辅酶Q10 100 mg
+  badge: 畅销款
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71X9DAChHRL._AC_SL1500_.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 120粒软胶囊（120份）
+    - ~$30
+    - 水溶和脂溶配方
+  tip: "首次购买者5星推荐：多数消费者会从这一瓶开始。"
+  note: 品牌临床研究宣称，其吸收率为普通辅酶Q10粉末的3倍。
+  url: https://www.amazon.com/dp/B0055OUOQQ?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0055OUOQQ?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Qunol%20Ultra%20CoQ10%20100%20mg&rcode=RZK388
+
+- name: Puritan's Pride 辅酶Q10 100 mg
+  badge: 单粒成本最低
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71ZGDSd5hzL._AC_SL1500_.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 240粒软胶囊（120份）
+    - ~$28
+    - 每100毫克约$0.12
+  tip: "4星省钱之选：本指南中每100毫克成本最低。"
+  note: 速释软胶囊，每日两次，随餐服用。
+  url: https://www.amazon.com/dp/B004R61NCW?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B004R61NCW?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Puritan%27s%20Pride%20CoQ10%20100%20mg&rcode=RZK388
+
+- name: NOW 辅酶Q10 400 mg
+  badge: 最高剂量
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71FKaRy2s8L._AC_SL1500_.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 60粒软胶囊（60份）
+    - ~$34
+    - 每粒软胶囊400毫克
+  tip: "高剂量需求者5星推荐：单粒软胶囊含400毫克。"
+  note: 药用级配方，含维生素E和向日葵卵磷脂，通过 GMP 认证。
+  url: https://www.amazon.com/dp/B0013OSM34?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0013OSM34?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=NOW%20CoQ10%20400%20mg&rcode=RZK388
+
+- name: Life Extension Super Ubiquinol 辅酶Q10（含 PQQ）
+  badge: 最适合老年人
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71pK1iahqlL._AC_SL1500_.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 30粒软胶囊（30份）
+    - ~$34
+    - 泛醇 + PQQ + 喜来芝
+  tip: "老年人5星推荐：一粒软胶囊同时含泛醇和 PQQ。"
+  note: 每个批次均公布分析证书。
+  url: https://www.amazon.com/dp/B00DBYI6RQ?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B00DBYI6RQ?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Life%20Extension%20Super%20Ubiquinol%20CoQ10%20with%20PQQ&rcode=RZK388
+
+- name: California Gold Nutrition 辅酶Q10 100 mg
+  badge: iHerb 最具性价比
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00944/l/198.jpg
+  stars: 5
+  meta:
+    - 120粒素食软胶囊（120份）
+    - $19.33
+    - 41,772条 iHerb 评价
+  tip: "iHerb 5星热门之选：120份售价低于$20。"
+  note: 每天一粒素食软胶囊，经第三方检测，非转基因配方。
+  url: https://www.iherb.com/pr/california-gold-nutrition-coq10-100-mg-120-veggie-softgels/61074?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=California%20Gold%20Nutrition%20CoQ10%20100%20mg&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/california-gold-nutrition-coq10-100-mg-120-veggie-softgels/61074?rcode=RZK388
+
+- name: Sports Research 辅酶Q10（含 BioPerine）
+  badge: 每日一粒纯素配方
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/61NebFbE4bL._AC_SL1500_.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 120粒 Plantgel（120份）
+    - ~$28
+    - 100毫克辅酶Q10（USP 级）
+  tip: "4.7星 Plantgel：不含角叉菜胶和动物副产品。"
+  note: 每天一粒素食软胶囊，添加 BioPerine 以帮助吸收。
+  url: https://www.amazon.com/dp/B07LC4VQTH?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B07LC4VQTH?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Sports%20Research%20CoQ10%20with%20BioPerine&rcode=RZK388
+
+- name: Nature Made 辅酶Q10 200 mg
+  badge: USP Verified 认证
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/717LKUs8ejL._AC_SL1500_.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 105粒软胶囊（105份）
+    - ~$28
+    - 每粒软胶囊200毫克
+  tip: "标签可信度5星：USP 已验证其效力和纯度。"
+  note: 每天随餐用水服用一粒软胶囊，一瓶为105天用量。
+  url: https://www.amazon.com/dp/B07CDXRBVJ?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B07CDXRBVJ?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Nature%20Made%20CoQ10%20200%20mg&rcode=RZK388
+
+- name: Qunol 辅酶Q10 100 mg 软糖
+  badge: 无需吞服胶囊
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71g1lfHowjL._AC_SL1500_.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 120颗软糖（120份）
+    - ~$24
+    - 每颗软糖100毫克
+  tip: "怕吞胶囊者4星推荐：橙子味咀嚼软糖。"
+  note: 每天咀嚼一颗软糖；远离热源，以免融化。
+  url: https://www.amazon.com/dp/B0914VSCJ1?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0914VSCJ1?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Qunol%20CoQ10%20100%20mg%20Gummies&rcode=RZK388

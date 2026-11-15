@@ -7,6 +7,12 @@
 */ -}}
 {{- $key := .Get "data" -}}
 {{- $items := index hugo.Data.deals $key -}}
+{{- /* 中文页面优先读取“数据键-zh”，没有翻译时继续使用英文。 */ -}}
+{{- if ne .Page.Lang "en" -}}
+  {{- $localizedKey := printf "%s-%s" $key .Page.Lang -}}
+  {{- $localizedItems := index hugo.Data.deals $localizedKey -}}
+  {{- if $localizedItems -}}{{- $items = $localizedItems -}}{{- end -}}
+{{- end -}}
 {{- if not $items -}}
   {{- errorf "deal-feed: no data found for key %q" $key -}}
 {{- end -}}
@@ -14,7 +20,7 @@
   {{- range $items }}
   {{- /* 拼出底部那行小字：「Updated Nov 14 · iHerb」，缺哪项就省哪项 */ -}}
   {{- $meta := "" -}}
-  {{- with .updated }}{{ $meta = printf "Updated %s" . }}{{ end -}}
+  {{- with .updated }}{{ $meta = i18n "updated_on" . }}{{ end -}}
   {{- with .retailer }}{{ $meta = trim (printf "%s · %s" $meta .) " ·" }}{{ end -}}
   {{ partial "deal_card.html" (dict
     "url" .url
@@ -28,7 +34,7 @@
     "ends" .ends
     "products" .products
     "meta" $meta
-    "cta" "Shop the deal"
+    "cta" (i18n "shop_deal")
     "external" true
   ) }}
   {{- end }}

@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: me
+name:
+  display: iBetterLife編集部
+role: レビュー・購入ガイド
+bio: Amazon と iHerb の健康・サプリ・日用品をテストし、日本語で分かりやすい購入ガイドを公開しています。
+links:
+  - icon: rss
+    url: ./blog/index.xml
+    label: RSSを購読

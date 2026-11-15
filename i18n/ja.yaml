@@ -1,0 +1,44 @@
+- id: top_picks
+  translation: おすすめ商品
+- id: browse_topics
+  translation: カテゴリーを見る
+- id: latest_reviews
+  translation: 最新レビュー
+- id: featured_guides
+  translation: 注目ガイド
+- id: previous_slide
+  translation: 前のスライド
+- id: next_slide
+  translation: 次のスライド
+- id: slide_number
+  translation: スライド {{ . }}
+- id: buy_on
+  translation: '{{ . }}で購入'
+- id: check_price_on
+  translation: '{{ . }}の価格を見る'
+- id: stars_out_of
+  translation: '5つ星中の{{ . }}つ星'
+- id: view_count
+  translation: '{{ . }}回閲覧'
+- id: read_more
+  translation: 続きを読む
+- id: deal_code
+  translation: クーポンコード
+- id: deal_ends_in
+  translation: 終了まで
+- id: shop_deal
+  translation: セールを見る
+- id: view_deal
+  translation: セール詳細を見る
+- id: all_deals
+  translation: すべてのセール
+- id: deal_badge
+  translation: セール
+- id: updated_on
+  translation: '{{ . }}更新'
+- id: home
+  translation: ホーム
+- id: close
+  translation: 閉じる
+- id: theme_selector
+  translation: 表示設定

@@ -13,7 +13,7 @@
         {{- $p := . -}}
         {{- /* 底部小字：「Updated Nov 14 · iHerb」 */ -}}
         {{- $meta := "" -}}
-        {{- with $p.Params.updated }}{{ $meta = printf "Updated %s" . }}{{ end -}}
+        {{- with $p.Params.updated }}{{ $meta = i18n "updated_on" . }}{{ end -}}
         {{- with $p.Params.retailer }}{{ $meta = trim (printf "%s · %s" $meta .) " ·" }}{{ end -}}
         {{- /* 列表缩略图：优先用 front matter 里的 thumb，没有就退回文章特色图 */ -}}
         {{- $thumb := "" -}}
@@ -23,14 +23,14 @@
           "url" $p.RelPermalink
           "title" $p.LinkTitle
           "image" $thumb
-          "badge" ($p.Params.badge | default "Deal")
+          "badge" ($p.Params.badge | default (i18n "deal_badge"))
           "desc" ($p.Params.summary | default $p.Summary)
           "code" $p.Params.code
           "ends" $p.Params.ends
           "price" $p.Params.price
           "was" $p.Params.was
           "meta" $meta
-          "cta" "View the deal"
+          "cta" (i18n "view_deal")
         ) }}
         {{- end }}
       </div>

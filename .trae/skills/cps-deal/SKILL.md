@@ -135,7 +135,7 @@ code: NOV26HB
 
 Body, in order — keep it short, 200-350 words:
 
-1. Italic FTC disclosure linking to `/affiliate-disclosure/`.
+1. No inline FTC disclosure line — `/affiliate-disclosure/` stays in the nav, not in the body.
 2. Two or three chatty lines with a few emoji (🛒 👇 🧾 ⚠️): what is on sale, which brands are
    included, and the code in bold. Emoji are expected here; do not overdo it (max ~6).
 3. `{{< deal-feed data="<key>" >}}` — the single promo card with the code chip and shop button.
@@ -151,6 +151,12 @@ Rules:
   Deals, Coupons, Supplements or Buying Guides as a tag.
 - One retailer per post. Do not mix Amazon and iHerb in one deal post.
 - Use an evergreen-but-dated slug such as `iherb-brands-30-off`.
+- In Chinese/Japanese text, never leave a punctuation mark on the inside edge of `**` when CJK
+  characters follow immediately. Write `**优惠码**：NOV26HB` and `**クーポンコード**：NOV26HB`,
+  not `**优惠码：**NOV26HB` or `**クーポンコード：**NOV26HB`. Otherwise Hugo prints the `**` literally.
+- Translated deal posts keep the English `data` key in the shortcode and add localized data files
+  with a language suffix (`iherb-brands-zh.yaml`, `iherb-brands-ja.yaml`); the shortcode resolves
+  the suffix automatically. Bundle images in translations use absolute paths (`/deals/<slug>/...`).
 
 ## 5. Draw the squares
 
@@ -185,6 +191,6 @@ powershell -ExecutionPolicy Bypass -File .trae/skills/cps-deal/assets/deal-thumb
 
 - No fake countdowns, invented discounts, or "expired soon" copy.
 - Say "up to X%" when that is what the banner says.
-- Keep the affiliate disclosure line and the `/affiliate-disclosure/` link in every post.
+- Never add an inline affiliate disclosure line; `/affiliate-disclosure/` is linked from the nav.
 - Tell readers to confirm the price at checkout; promos rotate.
 - Apply the code only where the retailer says it applies — never imply it stacks with everything.

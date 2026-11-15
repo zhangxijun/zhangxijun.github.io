@@ -56,7 +56,8 @@ fishy aftertaste, smallest pill, best seller. Do not repeat the same angle twice
 
 Required sections, in order:
 
-1. Italic FTC disclosure paragraph linking to `/affiliate-disclosure/`.
+1. No inline FTC disclosure paragraph — the site keeps `/affiliate-disclosure/` in the nav, so
+   do not add a disclosure line to the article body.
 2. Intro that names the buyer problem and the selection criteria.
 3. `## Quick comparison` table with 4-5 rows: Pick | Where to buy | EPA + DHA per serving | Best for.
 4. One `###` section per product, numbered, containing:
@@ -141,6 +142,9 @@ Every buying guide puts one product card at the top of each product section, dir
 - Card fields: `name`, `badge`, `retailer`, `image`, `meta` (3 lines), `stars`, `rating`, `tip`, `note`, `url`
 - `stars` is the editor score (1-5) and renders a gold star row; `rating` is optional and only
   filled with a verified store rating; `tip` is a short shopping hint such as "5 stars for kids"
+- Use `links` when a product is sold by more than one retailer, so the card renders multiple branded
+  CTA buttons. Each item needs `store` (`Amazon` or `iHerb`) and `url`. Keep the top-level `url`
+  for the image/primary link, and order the buttons `Amazon` then `iHerb`.
 - Quote any badge that starts with `#`, otherwise YAML treats it as a comment
 - Cards render with a green CTA and `rel="sponsored nofollow noopener"`
 - Images use `object-fit: contain` inside a white frame, so real bottle photos are never cropped
@@ -196,3 +200,10 @@ If no verified photo exists, fall back to a drawn illustration and say so in the
 - Escape every dollar sign with a backslash (`\$19.33`). Two unescaped `$` in one paragraph make
   Hugo read the text between them as inline math, which silently turns `**bold**` and links
   inside that span into plain text.
+- In Chinese/Japanese text, never leave a punctuation mark on the inside edge of `**` when CJK
+  characters follow immediately. Write `**B族维生素**：B1...` and `**ユビキノン**（ubiquinone）と...`,
+  not `**B族维生素：**B1...` or `**ユビキノン（ubiquinone）**と...`. CommonMark cannot close emphasis
+  when the closing run is preceded by punctuation and followed by a letter, so Hugo prints `**`.
+- In translation files (`index.zh.md`, `index.ja.md`), reference bundle images with the absolute
+  default-language path, e.g. `/blog/<slug>/image-check-label.jpg`. Hugo publishes page resources
+  only under the default language, so relative image names 404 on `/zh/` and `/ja/` pages.

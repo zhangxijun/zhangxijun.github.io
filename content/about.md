@@ -24,4 +24,4 @@ commission at **no extra cost to you**. Read our full
 ## Contact
 
 Questions, corrections, or product suggestions? Email us at
-[xijun168@163.com](mailto:xijun168@163.com).
+[ibetterlife@outlook.com](mailto:ibetterlife@outlook.com).

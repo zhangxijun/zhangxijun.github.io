@@ -14,9 +14,6 @@ tags:
 sidebar_products: omega-3
 ---
 
-*This post contains affiliate links. If you buy through them, we may earn a commission at
-no extra cost to you. See our [affiliate disclosure](/affiliate-disclosure/).*
-
 Most fish oil labels lead with a big "1,200 mg" number that says nothing about the part you
 actually want: **EPA and DHA**. We compared ten genuinely popular omega-3 products on Amazon
 and iHerb, checked what each label really delivers per serving, and worked out who each bottle

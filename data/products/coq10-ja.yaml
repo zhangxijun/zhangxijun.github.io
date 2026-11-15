@@ -1,0 +1,191 @@
+# CoQ10 購入ガイドの日本語商品カードデータ。
+# product-grid ショートコードで描画：{{< product-grid data="coq10" item="N" >}}
+# stars = 編集スコア（1-5）、rating = 商品ページに表示されるストア評価。
+- name: Doctor's Best High Absorption CoQ10（BioPerine配合）
+  badge: 総合ベスト
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/61Ct0Gx72OL._AC_SL1500_.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 120粒ベジタリアンカプセル（120食分）
+    - ~$19
+    - CoQ10 100mg + BioPerine
+  tip: "5星のオールラウンダー：ビーガンカプセル、1日1粒、$20以下。"
+  note: 天然発酵のCoQ10に、吸収を助ける黒コショウ抽出物を配合。
+  url: https://www.amazon.com/dp/B0019GW38G?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0019GW38G?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Doctor%27s%20Best%20High%20Absorption%20CoQ10%20with%20BioPerine&rcode=RZK388
+
+- name: Jarrow Formulas QH-Absorb Ubiquinol 100 mg
+  badge: 活性型ユビキノール
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71ldQnCtJ2L._AC_SL1500_.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 120粒ソフトジェル（120食分）
+    - ~$63
+    - 1ソフトジェルあたりユビキノール100mg
+  tip: "吸収面で5星：CoQ10の還元型・活性型。"
+  note: ブランドの報告では、臨床研究で1日100mgの服用によりCoQ10値が222%上昇。
+  url: https://www.amazon.com/dp/B004VCOOUU?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B004VCOOUU?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Jarrow%20Formulas%20QH-Absorb%20Ubiquinol%20100%20mg&rcode=RZK388
+
+- name: Qunol Ultra CoQ10 100 mg
+  badge: ベストセラー
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71X9DAChHRL._AC_SL1500_.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 120粒ソフトジェル（120食分）
+    - ~$30
+    - 水溶性・脂溶性
+  tip: "初めての方に5星：多くの方が最初に手にする1本。"
+  note: ブランドの臨床研究で、通常のCoQ10パウダーの3倍の吸収率を宣称。
+  url: https://www.amazon.com/dp/B0055OUOQQ?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0055OUOQQ?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Qunol%20Ultra%20CoQ10%20100%20mg&rcode=RZK388
+
+- name: Puritan's Pride CoQ10 100 mg
+  badge: 1粒あたり最安値
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71ZGDSd5hzL._AC_SL1500_.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 240粒ソフトジェル（120食分）
+    - ~$28
+    - 100mgあたり約$0.12
+  tip: "4星のお買い得品：本ガイドで100mgあたりのコストが最も低い。"
+  note: 速放性ソフトジェル、1日2回食事と共に服用。
+  url: https://www.amazon.com/dp/B004R61NCW?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B004R61NCW?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Puritan%27s%20Pride%20CoQ10%20100%20mg&rcode=RZK388
+
+- name: NOW CoQ10 400 mg
+  badge: 最高用量
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71FKaRy2s8L._AC_SL1500_.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 60粒ソフトジェル（60食分）
+    - ~$34
+    - 1ソフトジェルあたり400mg
+  tip: "高用量ユーザーに5星：1粒のソフトジェルに400mg。"
+  note: ビタミンEとヒマワリレシチンを含む薬局方グレード、GMP認証。
+  url: https://www.amazon.com/dp/B0013OSM34?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0013OSM34?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=NOW%20CoQ10%20400%20mg&rcode=RZK388
+
+- name: Life Extension Super Ubiquinol CoQ10 with PQQ
+  badge: シニアに最適
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71pK1iahqlL._AC_SL1500_.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 30粒ソフトジェル（30食分）
+    - ~$34
+    - ユビキノール + PQQ + シラジット
+  tip: "シニアに5星：1粒のソフトジェルにユビキノールとPQQ。"
+  note: すべてのロットで分析証明書を公開。
+  url: https://www.amazon.com/dp/B00DBYI6RQ?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B00DBYI6RQ?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Life%20Extension%20Super%20Ubiquinol%20CoQ10%20with%20PQQ&rcode=RZK388
+
+- name: California Gold Nutrition CoQ10 100 mg
+  badge: iHerbで最もコスパが良い
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00944/l/198.jpg
+  stars: 5
+  meta:
+    - 120粒ベジタリアンソフトジェル（120食分）
+    - $19.33
+    - iHerbで41,772件の評価
+  tip: "iHerbで5星の人気商品：120食分が$20以下。"
+  note: 1日1粒のベジタリアンソフトジェル、第三者機関検査済み、非遺伝子組み換え製剤。
+  url: https://www.iherb.com/pr/california-gold-nutrition-coq10-100-mg-120-veggie-softgels/61074?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=California%20Gold%20Nutrition%20CoQ10%20100%20mg&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/california-gold-nutrition-coq10-100-mg-120-veggie-softgels/61074?rcode=RZK388
+
+- name: Sports Research CoQ10 with BioPerine
+  badge: 1日1粒ビーガン
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/61NebFbE4bL._AC_SL1500_.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 120粒Plantgel（120食分）
+    - ~$28
+    - CoQ10 100mg（USPグレード）
+  tip: "4.7星のPlantgel：カラギーナンと動物性副産物不使用。"
+  note: 吸収を助けるBioPerine配合、1日1粒のベジタリアンソフトジェル。
+  url: https://www.amazon.com/dp/B07LC4VQTH?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B07LC4VQTH?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Sports%20Research%20CoQ10%20with%20BioPerine&rcode=RZK388
+
+- name: Nature Made CoQ10 200 mg
+  badge: USP Verified
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/717LKUs8ejL._AC_SL1500_.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 105粒ソフトジェル（105食分）
+    - ~$28
+    - 1ソフトジェルあたり200mg
+  tip: "ラベルの信頼性で5星：USPが力価と純度を検証済み。"
+  note: 水と食事と共に1日1粒のソフトジェル、105日分。
+  url: https://www.amazon.com/dp/B07CDXRBVJ?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B07CDXRBVJ?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Nature%20Made%20CoQ10%20200%20mg&rcode=RZK388
+
+- name: Qunol CoQ10 100 mg Gummies
+  badge: 錠剤不要
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71g1lfHowjL._AC_SL1500_.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 120粒グミ（120食分）
+    - ~$24
+    - 1グミあたり100mg
+  tip: "錠剤が苦手な方に4星：オレンジ風味の噛むグミ。"
+  note: 1日1粒グミを噛んで服用。溶けないように熱を避けて保管。
+  url: https://www.amazon.com/dp/B0914VSCJ1?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0914VSCJ1?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/search?kw=Qunol%20CoQ10%20100%20mg%20Gummies&rcode=RZK388

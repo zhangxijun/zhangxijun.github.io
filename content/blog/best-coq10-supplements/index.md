@@ -14,9 +14,6 @@ tags:
 sidebar_products: coq10
 ---
 
-*This post contains affiliate links. If you buy through them, we may earn a commission at
-no extra cost to you. See our [affiliate disclosure](/affiliate-disclosure/).*
-
 CoQ10 is one of those supplements where the bottle in front of you looks almost identical to
 the one next to it, yet the labels describe very different things. Some say **ubiquinone**,
 others say **ubiquinol**. Some put 100 mg in a softgel, others 400 mg. Some add black pepper

@@ -1,0 +1,10 @@
+# 每篇文章一个店铺促销——由 {{< deal-feed data="iherb-brands" >}} 渲染
+# 只声明零售商自己展示的折扣、优惠码或结束日期。
+- badge: 最高立减 30%
+  title: iHerb 自有品牌最高立减 30%
+  desc: California Gold Nutrition、Lake Avenue Nutrition 和 LactoBif 全场降价。具体立减幅度因产品而异，优惠码会在结账时应用。
+  code: NOV26HB
+  retailer: iHerb
+  updated: 11 月 14 日
+  image: /deals/iherb-brands-30-off/thumb-iherb-brands.jpg
+  url: 'https://www.iherb.com/c/iherb-brands?soa=true&pcode=NOV26HB&rcode=RZK388'

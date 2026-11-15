@@ -1,0 +1,21 @@
+# Emergen-C 中文测评使用的商品卡片数据。
+# 与英文数据使用相同的真实图片和联盟链接，仅翻译展示文字。
+- name: Emergen-C 维生素C，超级甜橙味，每包1,000毫克，30包（每包0.32盎司/9.1克）
+  badge: 1,000毫克 + B族维生素
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ala/ala30203/l/49.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 每包含1,000毫克维生素C
+    - 每盒30包
+    - 每份约$0.51（iHerb，2026年11月14日）
+    - 每包含糖6克
+  tip: 适合旅行携带，也适合不喜欢吞服药片、更愿意把维生素泡着喝的人。
+  note: 每包含6克糖，口感偏甜并带有气泡感。喜欢这种口感会很合适，不喜欢甜食的人需要慎重考虑。
+  url: 'https://www.iherb.com/pr/emergen-c-vitamin-c-super-orange-1-000-mg-30-packets-0-32-oz-9-1-g-each/18057?rcode=RZK388'
+  links:
+    - store: Amazon
+      url: 'https://www.amazon.com/s?k=Emergen-C+Super+Orange+1000mg+30+packets&tag=ibetterlife-20'
+    - store: iHerb
+      url: 'https://www.iherb.com/pr/emergen-c-vitamin-c-super-orange-1-000-mg-30-packets-0-32-oz-9-1-g-each/18057?rcode=RZK388'

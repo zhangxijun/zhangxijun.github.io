@@ -11,7 +11,8 @@
       .then(function (r) { return r.json(); })
       .then(function (d) {
         if (!d || !d.count) return;
-        el.textContent = d.count + " views";
+        var template = '{{ i18n "view_count" "__COUNT__" | safeJS }}';
+        el.textContent = template.replace("__COUNT__", d.count);
         el.hidden = false;
       })
       .catch(function () {});

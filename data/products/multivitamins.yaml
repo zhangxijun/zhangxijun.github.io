@@ -1,0 +1,190 @@
+# Multivitamin buying-guide product cards (English).
+# Rendered by {{< product-grid data="multivitamins" item="N" >}}
+# Prices and ratings were read on iHerb US on 2026-11-15 and are approximate.
+- name: Centrum Adults Multivitamin, 200 Tablets
+  badge: Best overall
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cem/cem45174/l/24.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 200 tablets (200 servings)
+    - ~$16.34 (about $0.08 per serving)
+    - 1 tablet daily, includes 18 mg iron
+  tip: "5 stars for a first bottle: RDA-level doses and more than 1,300 iHerb ratings."
+  note: The mainstream benchmark, with the standard daily vitamins and minerals including iron.
+  url: https://www.iherb.com/pr/centrum-adults-multivitamin-200-tablets/125279?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B09BVYY7XR?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/centrum-adults-multivitamin-200-tablets/125279?rcode=RZK388
+
+- name: 21st Century Sentry, Adults Multivitamin & Multimineral, 300 Tablets
+  badge: Best value
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen22702/l/118.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 300 tablets (300 servings)
+    - ~$17.50 (about $0.06 per serving)
+    - 1 tablet daily, includes iron
+  tip: "5 stars on cost: the lowest cost per serving in this guide, by a wide margin."
+  note: A plain RDA-style formula that trades premium ingredients for volume and price.
+  url: https://www.iherb.com/pr/21st-century-sentry-adults-multivitamin-multimineral-supplement-300-tablets/10525?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0007PLP0C?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/21st-century-sentry-adults-multivitamin-multimineral-supplement-300-tablets/10525?rcode=RZK388
+
+- name: Garden of Life Organics, Women's Once Daily Multi, 60 Vegan Tablets
+  badge: Best for women
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol11776/l/151.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 60 vegan tablets (60 servings)
+    - ~$39.89 (about $0.66 per serving)
+    - Certified organic, 25 mcg vitamin D
+  tip: "5 stars for a clean women's formula: organic, vegan and non-GMO."
+  note: Built from organic food ingredients, with iron-free dosing and methylated B12.
+  url: https://www.iherb.com/pr/garden-of-life-organics-women-s-once-daily-multi-60-vegan-tablets/58122?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B00K5NEMJM?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/garden-of-life-organics-women-s-once-daily-multi-60-vegan-tablets/58122?rcode=RZK388
+
+- name: One A Day, Men's Multi, 200 Tablets
+  badge: Best for men
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/oad/oad08014/l/102.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 200 tablets (200 servings)
+    - ~$20.38 (about $0.10 per serving)
+    - 1 tablet daily, iron-free
+  tip: "5 stars for men: 120 mg magnesium and no iron, which most men do not need."
+  note: A straightforward men's formula with more magnesium than the general adult picks.
+  url: https://www.iherb.com/pr/one-a-day-men-s-multi-200-tablets/31735?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B001F71XAI?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/one-a-day-men-s-multi-200-tablets/31735?rcode=RZK388
+
+- name: Nature's Way Alive! Women's 50+ Complete Multivitamin, 130 Tablets
+  badge: Best for 50+
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy14210/l/45.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 130 tablets (130 servings)
+    - ~$20.06 (about $0.15 per serving)
+    - 50 mcg vitamin D3, 40 mcg B12
+  tip: "5 stars for 50+ women: 2,000 IU vitamin D plus lutein for eye support."
+  note: Higher vitamin D and B12 than general formulas, aimed at bone, heart and eye support.
+  url: https://www.iherb.com/pr/nature-s-way-alive-women-s-50-complete-multivitamin-130-tablets/116138?rcode=RZK388
+  links:
+    - store: iHerb
+      url: https://www.iherb.com/pr/nature-s-way-alive-women-s-50-complete-multivitamin-130-tablets/116138?rcode=RZK388
+
+- name: SmartyPants, Women's Organic Multi & Omegas, 120 Gummies
+  badge: Best gummy
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sma/sma02081/l/61.jpg
+  stars: 4
+  rating: 4.6
+  meta:
+    - 120 gummies (30 servings)
+    - ~$26.99 (about $0.90 per serving)
+    - 4 gummies daily
+  tip: "4 stars for gummy fans: no pills, plus 171 mg omega-3 ALA per serving."
+  note: The only gummy pick here that pairs a multivitamin with omega-3s, at a higher cost per serving.
+  url: https://www.iherb.com/pr/smartypants-women-s-organic-multi-omegas-raspberries-lemon-lime-grape-120-gummies/85352?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0F5QS9RY3?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/smartypants-women-s-organic-multi-omegas-raspberries-lemon-lime-grape-120-gummies/85352?rcode=RZK388
+
+- name: MegaFood, One Daily Multivitamin, 90 Tablets
+  badge: Best food-based
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mgf/mgf10152/l/87.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 90 tablets (90 servings)
+    - ~$46.99 (about $0.52 per serving)
+    - 1 tablet daily, food-based
+  tip: "5 stars for food-based: gentle doses, chelated zinc and iron."
+  note: Made with real food and fermented ingredients, and deliberately below megadose levels.
+  url: https://www.iherb.com/pr/megafood-one-daily-multivitamin-90-tablets/4033?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B001AG675K?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/megafood-one-daily-multivitamin-90-tablets/4033?rcode=RZK388
+
+- name: Optimum Nutrition, Opti-Men, Multivitamin for Active Men, 150 Tablets
+  badge: Best for athletes
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/opn/opn05227/l/83.jpg
+  stars: 4
+  rating: 4.8
+  meta:
+    - 150 tablets (50 servings)
+    - ~$41.19 (about $0.82 per serving)
+    - 3 tablets daily
+  tip: "4.8 stars from 27,000+ buyers: higher vitamin C, zinc and B12 for training loads."
+  note: Dosed for active men, but it takes three tablets a day, which some buyers dislike.
+  url: https://www.iherb.com/pr/optimum-nutrition-opti-men-multivitamin-for-active-men-150-tablets/57069?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B00K2RJAR0?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/optimum-nutrition-opti-men-multivitamin-for-active-men-150-tablets/57069?rcode=RZK388
+
+- name: New Chapter, One Daily Every Woman's Multivitamin, 72 Vegetarian Tablets
+  badge: Best fermented
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr00308/l/99.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 72 vegetarian tablets (72 servings)
+    - ~$37.97 (about $0.53 per serving)
+    - 1 tablet daily, 3 mg iron
+  tip: "5 stars for sensitive stomachs: fermented, certified organic, one tablet a day."
+  note: Fermented whole-food ingredients; the Every Man's version costs the same and leaves iron out.
+  url: https://www.iherb.com/pr/new-chapter-one-daily-every-woman-s-multivitamin-72-vegetarian-tablets/23318?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B003DGZREM?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/new-chapter-one-daily-every-woman-s-multivitamin-72-vegetarian-tablets/23318?rcode=RZK388
+
+- name: Thorne, Basic Nutrients 2/Day, NSF Certified, 60 Capsules
+  badge: Best clean label
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/thr/thr00287/l/91.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 60 capsules (30 servings)
+    - ~$40.00 (about $1.33 per serving)
+    - 2 capsules daily, NSF Certified
+  tip: "5 stars for label quality: no dyes or coatings, third-party certified."
+  note: The most expensive pick per serving, built for buyers who want certification and methylated B vitamins.
+  url: https://www.iherb.com/pr/thorne-basic-nutrients-2-day-nsf-certified-60-capsules/52954?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B00FOTMGTU?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/thorne-basic-nutrients-2-day-nsf-certified-60-capsules/52954?rcode=RZK388

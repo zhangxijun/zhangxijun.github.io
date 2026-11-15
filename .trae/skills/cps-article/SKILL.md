@@ -49,26 +49,64 @@ Title rules:
 
 ## 2. Depth standard
 
-Aim for 1,800-2,500 words and 8-10 product picks. A post with fewer than 6 picks or under
+Aim for 2,000-2,800 words and 8-10 product picks. A post with fewer than 6 picks or under
 1,200 words is too thin, extend it before publishing. Each pick must answer a different buyer
 question: best overall, best value, one pill a day, budget, kids, seniors, highest DHA, no
 fishy aftertaste, smallest pill, best seller. Do not repeat the same angle twice.
+
+Selection criteria must cover, where the data allows: **sales heat** (review counts as the only
+public proxy), **star rating**, **who it suits**, and **price per serving**. Say which criteria you
+used in the intro and again in `## How we picked`.
 
 Required sections, in order:
 
 1. No inline FTC disclosure paragraph — the site keeps `/affiliate-disclosure/` in the nav, so
    do not add a disclosure line to the article body.
-2. Intro that names the buyer problem and the selection criteria.
-3. `## Quick comparison` table with 4-5 rows: Pick | Where to buy | EPA + DHA per serving | Best for.
-4. One `###` section per product, numbered, containing:
-   - product image (see section 3)
-   - 3-5 sentences on who it suits and what makes it stand out
-   - 2-3 bullet strengths with real, verifiable facts
-   - a spec line (combined EPA + DHA per serving, softgel count, form)
-   - one affiliate CTA link
-5. `## How we picked` with 4 criteria.
-6. `## FAQ` with 2-3 questions.
-7. Medical or safety note for supplements.
+2. Intro that names the buyer problem and the selection criteria (and, for supplement topics,
+   the fact that review counts are used as a sales proxy because neither retailer publishes units).
+3. `## Why take <product category> at all` — 2-4 short paragraphs that set up the category before
+   any product appears: what it does and does not do, who benefits most, what the government
+   recommendation actually is, and why cost per serving matters. Skip only when the category is
+   not a nutrient or a consumable with a health angle.
+4. `## What the main <nutrients> actually do` — one table of 6-10 rows:
+   `Nutrient | What it is for | What to look for on the label`. Plain-language purpose, then the
+   exact label figure a shopper can compare (IU, mcg, DFE, mg, form name). Add 1-2 short
+   paragraphs after the table for the two most common misreadings, e.g. "a multivitamin is not a
+   calcium supplement" or "over 100% is not automatically better".
+5. `## Quick comparison` table with 4-5 rows: Pick | Where to buy | Servings | Cost per serving | Best for.
+6. One `##` section per product, numbered `## 1.`, `## 2.` … (matching the existing posts and the
+   left TOC), containing:
+   - product card via `product-grid` (see section 6)
+   - 4-8 sentences on who it suits and what makes it stand out
+   - **Strengths** — 2-3 bullets with real, verifiable facts
+   - **What buyers say** — 2-3 real buyer reviews (see the rules below)
+   - a spec line (serving size, count, dose highlights)
+   - affiliate CTA link, one per retailer that actually sells it
+7. `## How we picked` with 4-5 criteria, including popularity proxy, cost per serving, nutrient
+   form and dose, buyer fit, and buyer experience.
+8. `## FAQ` with 3-4 questions.
+9. Medical or safety note for supplements.
+
+### Real buyer reviews (`What buyers say`)
+
+This block exists so the reader sees the product after real use, not just the label.
+
+- **2-3 quotes per product.** One short paragraph per quote plus the attribution, in a Markdown
+  blockquote so it renders as a pull quote.
+- **Copy them from the live product page.** iHerb reviews are public (fetch through
+  `https://r.jina.ai/<iherb-url>`); Amazon reviews sit behind a login and the `dp` page usually
+  shows none, so do not claim Amazon reviews you cannot see.
+- **Attribute what is actually shown:** a reviewer name when printed, otherwise
+  "iHerb verified buyer", followed by the month and year on the review.
+- **Keep one dissenting voice** per list where it is relevant — a complaint about size, taste,
+  B6 tingling, price. Reviews that are all praise read as advertising.
+- **Never invent, merge or "improve" a quote.** Do not fix a buyer's grammar into a marketing
+  sentence, do not attach a date you cannot see, and do not recycle a quote from another product.
+  If a product has no readable reviews, say so and omit the block for that pick.
+- **Translate faithfully on `/zh/`, `/ja/`, `/ko/` pages.** Keep the meaning and the criticism
+  intact; do not soften a negative line. Translation is fine, paraphrase-as-quote is not.
+- Keep each quote under about 30 words (in English) so the section does not turn into a wall of
+  quotes.
 
 Use only verifiable data. If a review count, price, or lab result cannot be confirmed, either
 omit it or label it clearly as approximate. Never invent certifications, sales ranks, or awards.
@@ -123,12 +161,30 @@ saving a fake image. Never publish a placeholder or a broken image.
 
 ## 5. Affiliate links
 
+**Always link the exact product page, never a search results page.**
+
 ```
 [Check price on Amazon](https://www.amazon.com/dp/<ASIN>?tag=ibetterlife-20)
-[Check price on Amazon](https://www.amazon.com/s?k=<urlencoded-keywords>&tag=ibetterlife-20)
 [Check price on iHerb](https://www.iherb.com/pr/<product-slug>/<id>?rcode=RZK388)
-[Check price on iHerb](https://www.iherb.com/search?kw=<urlencoded-keywords>&rcode=RZK388)
 ```
+
+Link rules:
+
+- **No `amazon.com/s?k=...` search URLs and no `iherb.com/search?kw=...` URLs** in a finished post.
+  A search page shows a wall of look-alike bottles and sends the reader to the wrong size, so it
+  loses the click. The only exception is a temporary draft marked `<!-- TODO direct link -->`.
+- **Amazon: prefer `Sold by Amazon.com`**, then the brand's official Amazon storefront (for some
+  brands this is operated by an agency such as Pattern., which still counts as the brand's channel).
+  Open the dp page and read the seller line before using it. If only unrelated third-party sellers
+  carry the item, drop the Amazon button and keep iHerb only.
+- **iHerb: always the `/pr/<slug>/<id>` page.** Verify the listing is the same brand, variant and
+  count that the card shows.
+- **One retailer that cannot be verified → one button.** Never keep a search link just to have two
+  buttons; a single correct iHerb button is better than a second link that lands on the wrong bottle.
+- **The card image and the buy link must point at the same product.** Do not pair an iHerb photo
+  with an Amazon link for a different count or formula.
+- Verify the seller/listing at writing time and note the date in the article ("prices and sellers
+  checked November 15, 2026"), because Amazon buy-box ownership changes.
 
 Never leave `<ASIN>`, `YOUR-TAG`, or `REPLACE` placeholders in a published post.
 

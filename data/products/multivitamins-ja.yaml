@@ -1,0 +1,191 @@
+# マルチビタミン購入ガイドの日本語商品カードデータ。
+# product-grid ショートコードで描画：{{< product-grid data="multivitamins" item="N" >}}
+# stars = 編集スコア（1-5）、rating = 商品ページに表示されるストア評価。
+# 価格とレビュー数は 2026年11月15日に iHerb 米国サイトで確認した概算です。
+- name: Centrum 大人用マルチビタミン, 200錠
+  badge: 総合ベスト
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cem/cem45174/l/24.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 200錠（200食分）
+    - ~$16.34（1食分あたり約$0.08）
+    - 1日1錠、鉄18 mg配合
+  tip: "最初の1本に5星：推奨量レベルの用量で、iHerb の評価は1,300件以上。"
+  note: 鉄を含む標準的な毎日のビタミンとミネラルを備えた、主流の基準となる製品です。
+  url: https://www.iherb.com/pr/centrum-adults-multivitamin-200-tablets/125279?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B09BVYY7XR?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/centrum-adults-multivitamin-200-tablets/125279?rcode=RZK388
+
+- name: 21st Century Sentry, Adults Multivitamin & Multimineral, 300錠
+  badge: コスパ最優秀
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen22702/l/118.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 300錠（300食分）
+    - ~$17.50（1食分あたり約$0.06）
+    - 1日1錠、鉄配合
+  tip: "コストで5星：本ガイドで1食分あたりのコストが最も低く、差は大きい。"
+  note: 高級な原料を容量と価格に置き換えた、素朴な推奨量タイプの処方です。
+  url: https://www.iherb.com/pr/21st-century-sentry-adults-multivitamin-multimineral-supplement-300-tablets/10525?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0007PLP0C?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/21st-century-sentry-adults-multivitamin-multimineral-supplement-300-tablets/10525?rcode=RZK388
+
+- name: Garden of Life Organics 女性用ワンスデイリー, 60粒ベジタブルタブレット
+  badge: 女性向け
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol11776/l/151.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 60錠のベジタブルタブレット（60食分）
+    - ~$39.89（1食分あたり約$0.66）
+    - 有機認証、ビタミンD 25 mcg
+  tip: "クリーンな女性向け処方に5星：オーガニック、ヴィーガン、非遺伝子組み換え。"
+  note: 有機食品由来の成分で作られ、鉄を含まない用量設計とメチル化B12を採用しています。
+  url: https://www.iherb.com/pr/garden-of-life-organics-women-s-once-daily-multi-60-vegan-tablets/58122?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B00K5NEMJM?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/garden-of-life-organics-women-s-once-daily-multi-60-vegan-tablets/58122?rcode=RZK388
+
+- name: One A Day メンズマルチ, 200錠
+  badge: 男性向け
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/oad/oad08014/l/102.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 200錠（200食分）
+    - ~$20.38（1食分あたり約$0.10）
+    - 1日1錠、鉄不使用
+  tip: "男性に5星：マグネシウム120 mg配合、多くの男性に不要な鉄はなし。"
+  note: 一般的な成人向け製品よりマグネシウムを多くした、シンプルな男性用処方です。
+  url: https://www.iherb.com/pr/one-a-day-men-s-multi-200-tablets/31735?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B001F71XAI?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/one-a-day-men-s-multi-200-tablets/31735?rcode=RZK388
+
+- name: Nature's Way Alive! 女性用50+ コンプリートマルチビタミン, 130錠
+  badge: 50歳以上向け
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy14210/l/45.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 130錠（130食分）
+    - ~$20.06（1食分あたり約$0.15）
+    - ビタミンD3 50 mcg、B12 40 mcg
+  tip: "50歳以上の女性に5星：ビタミンD 2,000 IUと目のサポート用ルテイン。"
+  note: 一般的な処方よりビタミンDとB12を多くし、骨・心臓・目のサポートを狙った製品です。
+  url: https://www.iherb.com/pr/nature-s-way-alive-women-s-50-complete-multivitamin-130-tablets/116138?rcode=RZK388
+  links:
+    - store: iHerb
+      url: https://www.iherb.com/pr/nature-s-way-alive-women-s-50-complete-multivitamin-130-tablets/116138?rcode=RZK388
+
+- name: SmartyPants 女性用オーガニックマルチ＆オメガ, 120粒グミ
+  badge: グミ最優秀
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sma/sma02081/l/61.jpg
+  stars: 4
+  rating: 4.6
+  meta:
+    - 120粒グミ（30食分）
+    - ~$26.99（1食分あたり約$0.90）
+    - 1日4粒
+  tip: "グミ好きに4星：錠剤不要で、1食分あたりオメガ3 ALA 171 mg。"
+  note: マルチビタミンとオメガ3を組み合わせた唯一のグミ製品で、1食分あたりのコストは高めです。
+  url: https://www.iherb.com/pr/smartypants-women-s-organic-multi-omegas-raspberries-lemon-lime-grape-120-gummies/85352?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0F5QS9RY3?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/smartypants-women-s-organic-multi-omegas-raspberries-lemon-lime-grape-120-gummies/85352?rcode=RZK388
+
+- name: MegaFood One Daily マルチビタミン, 90錠
+  badge: フードベース
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mgf/mgf10152/l/87.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 90錠（90食分）
+    - ~$46.99（1食分あたり約$0.52）
+    - 1日1錠、フードベース
+  tip: "フードベースに5星：やさしい用量、キレート亜鉛と鉄。"
+  note: 実際の食品と発酵原料で作られ、超高用量を意図的に避けた処方です。
+  url: https://www.iherb.com/pr/megafood-one-daily-multivitamin-90-tablets/4033?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B001AG675K?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/megafood-one-daily-multivitamin-90-tablets/4033?rcode=RZK388
+
+- name: Optimum Nutrition Opti-Men, アクティブな男性用マルチビタミン, 150錠
+  badge: アスリート向け
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/opn/opn05227/l/83.jpg
+  stars: 4
+  rating: 4.8
+  meta:
+    - 150錠（50食分）
+    - ~$41.19（1食分あたり約$0.82）
+    - 1日3錠
+  tip: "27,000人以上の購入者から4.8星：トレーニング量に合わせてビタミンC、亜鉛、B12を強化。"
+  note: アクティブな男性向けの用量設計ですが、1日3錠必要な点を好まない購入者もいます。
+  url: https://www.iherb.com/pr/optimum-nutrition-opti-men-multivitamin-for-active-men-150-tablets/57069?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B00K2RJAR0?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/optimum-nutrition-opti-men-multivitamin-for-active-men-150-tablets/57069?rcode=RZK388
+
+- name: New Chapter ワンデイリー・エブリウーマンズ, 72粒ベジタリアンタブレット
+  badge: 発酵処方
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr00308/l/99.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 72錠のベジタリアンタブレット（72食分）
+    - ~$37.97（1食分あたり約$0.53）
+    - 1日1錠、鉄3 mg
+  tip: "敏感な胃に5星：発酵処方、有機認証、1日1錠。"
+  note: 発酵させたホールフード原料を使用。エブリマンズ版も同価格で、鉄を含みません。
+  url: https://www.iherb.com/pr/new-chapter-one-daily-every-woman-s-multivitamin-72-vegetarian-tablets/23318?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B003DGZREM?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/new-chapter-one-daily-every-woman-s-multivitamin-72-vegetarian-tablets/23318?rcode=RZK388
+
+- name: Thorne Basic Nutrients 2/Day, NSF認証, 60カプセル
+  badge: クリーンラベル
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/thr/thr00287/l/91.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 60カプセル（30食分）
+    - ~$40.00（1食分あたり約$1.33）
+    - 1日2カプセル、NSF認証
+  tip: "ラベルの品質に5星：色素・コーティングなし、第三者認証済み。"
+  note: 1食分あたり最も高価な製品で、認証とメチル化B群を求める購入者向けです。
+  url: https://www.iherb.com/pr/thorne-basic-nutrients-2-day-nsf-certified-60-capsules/52954?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B00FOTMGTU?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/thorne-basic-nutrients-2-day-nsf-certified-60-capsules/52954?rcode=RZK388

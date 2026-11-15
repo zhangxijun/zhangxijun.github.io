@@ -78,6 +78,13 @@ without BOM.
   Use the `l/` size, never the `u/` thumbnail. Verify each returns 200 / `image/*` / >100 KB.
 - Every iHerb URL gets `rcode=RZK388`; every Amazon URL gets `tag=ibetterlife-20`. Quote URLs in
   YAML when they contain `&`.
+- **Product picks must link the exact product page, never a search page.** iHerb:
+  `/pr/<slug>/<id>`; Amazon: `/dp/<ASIN>`. Do not ship `iherb.com/search?kw=` or
+  `amazon.com/s?k=` links. A promo/category page (`/c/iherb-brands?...`) is fine for the deal card,
+  but the six product tiles each need their own product URL.
+- **Amazon: prefer `Sold by Amazon.com`**, then the brand's official Amazon storefront. If the exact
+  discounted item is only sold by an unrelated third party, keep the iHerb link only rather than
+  sending readers to a look-alike listing.
 - No published end date means no countdown. Never invent a deadline.
 
 ## 3. Data files

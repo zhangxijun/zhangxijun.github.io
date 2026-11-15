@@ -1,0 +1,190 @@
+# 종합비타민 구매 가이드의 한국어 상품 카드 데이터.
+# product-grid 숏코드로 렌더링: {{< product-grid data="multivitamins" item="N" >}}
+# stars = 편집자 점수(1-5), rating = 상품 페이지에 표시되는 스토어 평가.
+- name: Centrum 성인 종합비타민, 200정
+  badge: 종합 최고
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cem/cem45174/l/24.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 200정(200회분)
+    - ~$16.34(1회분당 약 $0.08)
+    - 하루 1정, 철분 18mg 함유
+  tip: "첫 병에 5점: 권장량 수준의 함량과 iHerb 평가 1,300건 이상."
+  note: 철분을 포함한 표준 비타민·미네랄을 갖춘 주류 기준 제품입니다.
+  url: https://www.iherb.com/pr/centrum-adults-multivitamin-200-tablets/125279?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B09BVYY7XR?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/centrum-adults-multivitamin-200-tablets/125279?rcode=RZK388
+
+- name: 21st Century Sentry 성인 종합비타민·종합미네랄, 300정
+  badge: 가성비 최고
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen22702/l/118.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 300정(300회분)
+    - ~$17.50(1회분당 약 $0.06)
+    - 하루 1정, 철분 함유
+  tip: "가격에 5점: 이 가이드에서 1회분당 가격이 가장 낮습니다."
+  note: 고급 원료 대신 양과 가격을 택한 담백한 권장량형 포뮬러입니다.
+  url: https://www.iherb.com/pr/21st-century-sentry-adults-multivitamin-multimineral-supplement-300-tablets/10525?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0007PLP0C?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/21st-century-sentry-adults-multivitamin-multimineral-supplement-300-tablets/10525?rcode=RZK388
+
+- name: Garden of Life Organics 여성 원스 데일리 멀티, 비건 정제 60정
+  badge: 여성 추천
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol11776/l/151.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 비건 정제 60정(60회분)
+    - ~$39.89(1회분당 약 $0.66)
+    - 유기농 인증, 비타민D 25mcg
+  tip: "깨끗한 여성용 포뮬러에 5점: 유기농, 비건, 비유전자변형."
+  note: 유기농 식품 원료로 만들었고, 철분 무첨가에 메틸화 B12를 담았습니다.
+  url: https://www.iherb.com/pr/garden-of-life-organics-women-s-once-daily-multi-60-vegan-tablets/58122?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B00K5NEMJM?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/garden-of-life-organics-women-s-once-daily-multi-60-vegan-tablets/58122?rcode=RZK388
+
+- name: One A Day 남성 멀티, 200정
+  badge: 남성 추천
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/oad/oad08014/l/102.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 200정(200회분)
+    - ~$20.38(1회분당 약 $0.10)
+    - 하루 1정, 철분 무첨가
+  tip: "남성에게 5점: 마그네슘 120mg과 대부분의 남성이 필요 없는 철분 무첨가."
+  note: 일반 성인용 제품보다 마그네슘이 많은, 단순한 남성용 포뮬러입니다.
+  url: https://www.iherb.com/pr/one-a-day-men-s-multi-200-tablets/31735?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B001F71XAI?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/one-a-day-men-s-multi-200-tablets/31735?rcode=RZK388
+
+- name: Nature's Way Alive! 여성 50+ 컴플리트 종합비타민, 130정
+  badge: 50세 이상
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy14210/l/45.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 130정(130회분)
+    - ~$20.06(1회분당 약 $0.15)
+    - 비타민D3 50mcg, B12 40mcg
+  tip: "50+ 여성에 5점: 비타민D 2,000 IU에 눈 건강용 루테인까지."
+  note: 일반 포뮬러보다 비타민D와 B12가 높고 뼈·심장·눈 건강을 겨냥했습니다.
+  url: https://www.iherb.com/pr/nature-s-way-alive-women-s-50-complete-multivitamin-130-tablets/116138?rcode=RZK388
+  links:
+    - store: iHerb
+      url: https://www.iherb.com/pr/nature-s-way-alive-women-s-50-complete-multivitamin-130-tablets/116138?rcode=RZK388
+
+- name: SmartyPants 여성 유기농 멀티 & 오메가, 구미 120정
+  badge: 구미 최고
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sma/sma02081/l/61.jpg
+  stars: 4
+  rating: 4.6
+  meta:
+    - 구미 120정(30회분)
+    - ~$26.99(1회분당 약 $0.90)
+    - 하루 구미 4개
+  tip: "구미 팬에게 4점: 알약 없이, 1회분당 오메가3 ALA 171mg."
+  note: 종합비타민과 오메가3를 함께 담은 유일한 구미 제품이며 1회분당 가격은 높은 편입니다.
+  url: https://www.iherb.com/pr/smartypants-women-s-organic-multi-omegas-raspberries-lemon-lime-grape-120-gummies/85352?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0F5QS9RY3?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/smartypants-women-s-organic-multi-omegas-raspberries-lemon-lime-grape-120-gummies/85352?rcode=RZK388
+
+- name: MegaFood One Daily 종합비타민, 90정
+  badge: 푸드 베이스
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mgf/mgf10152/l/87.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 90정(90회분)
+    - ~$46.99(1회분당 약 $0.52)
+    - 하루 1정, 푸드 베이스
+  tip: "푸드 베이스에 5점: 온화한 함량, 킬레이트 아연과 철분."
+  note: 실제 식품과 발효 원료로 만들었고, 의도적으로 과잉 용량 아래로 맞췄습니다.
+  url: https://www.iherb.com/pr/megafood-one-daily-multivitamin-90-tablets/4033?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B001AG675K?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/megafood-one-daily-multivitamin-90-tablets/4033?rcode=RZK388
+
+- name: Optimum Nutrition Opti-Men 활동적인 남성을 위한 종합비타민, 150정
+  badge: 운동하는 남성
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/opn/opn05227/l/83.jpg
+  stars: 4
+  rating: 4.8
+  meta:
+    - 150정(50회분)
+    - ~$41.19(1회분당 약 $0.82)
+    - 하루 3정
+  tip: "27,000명 이상 구매자가 4.8점: 훈련량에 맞춘 비타민C, 아연, B12."
+  note: 활동적인 남성을 위해 설계했지만 하루 세 정이라 불편해하는 구매자도 있습니다.
+  url: https://www.iherb.com/pr/optimum-nutrition-opti-men-multivitamin-for-active-men-150-tablets/57069?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B00K2RJAR0?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/optimum-nutrition-opti-men-multivitamin-for-active-men-150-tablets/57069?rcode=RZK388
+
+- name: New Chapter 원 데일리 에브리 우먼 종합비타민, 베지테리언 정제 72정
+  badge: 발효 포뮬러
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr00308/l/99.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 베지테리언 정제 72정(72회분)
+    - ~$37.97(1회분당 약 $0.53)
+    - 하루 1정, 철분 3mg
+  tip: "예민한 위에 5점: 발효, 유기농 인증, 하루 한 정."
+  note: 발효 통식품 원료를 사용하며, Every Man's 버전은 가격이 같고 철분을 뺐습니다.
+  url: https://www.iherb.com/pr/new-chapter-one-daily-every-woman-s-multivitamin-72-vegetarian-tablets/23318?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B003DGZREM?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/new-chapter-one-daily-every-woman-s-multivitamin-72-vegetarian-tablets/23318?rcode=RZK388
+
+- name: Thorne Basic Nutrients 2/Day NSF 인증, 60캡슐
+  badge: 클린 라벨
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/thr/thr00287/l/91.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 캡슐 60정(30회분)
+    - ~$40.00(1회분당 약 $1.33)
+    - 하루 2캡슐, NSF 인증
+  tip: "라벨 품질에 5점: 색소·코팅 없음, 제3자 인증."
+  note: 1회분당 가장 비싼 제품으로, 인증과 메틸화 B군을 원하는 구매자를 위한 것입니다.
+  url: https://www.iherb.com/pr/thorne-basic-nutrients-2-day-nsf-certified-60-capsules/52954?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B00FOTMGTU?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/thorne-basic-nutrients-2-day-nsf-certified-60-capsules/52954?rcode=RZK388

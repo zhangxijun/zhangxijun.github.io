@@ -45,6 +45,13 @@ post, use `cps-deal`.
   design card instead.
 - Every iHerb URL carries `rcode=RZK388`; every Amazon URL carries `tag=ibetterlife-20`.
   Quote URLs in YAML when they contain `&`.
+- **Link the exact product page, never a search page.** iHerb must be `/pr/<slug>/<id>`; Amazon must
+  be `/dp/<ASIN>`. Do not ship `iherb.com/search?kw=` or `amazon.com/s?k=` links.
+- **Amazon: prefer `Sold by Amazon.com`**, then the brand's official Amazon storefront (an agency
+  like Pattern. operating the brand store still counts). Open the dp page and read the seller line.
+  If only unrelated third-party sellers carry the exact size, drop the Amazon button and keep one
+  iHerb button — never keep a search link just to have two buttons.
+- The product image, the card title and both buy links must describe the same product and count.
 - Health language stays descriptive: "provides", "is marketed for", "some people use it for".
   Never "cures", "treats" or "replaces a doctor".
 
@@ -74,10 +81,10 @@ buying guide — that file holds 8-10 products.
   note: One line on the catch, e.g. "6 g of sugar per packet."
   url: 'https://www.iherb.com/pr/.../18057?rcode=RZK388'
   # Two buy buttons with store icons. Use a direct /dp/<ASIN> Amazon link once it is
-  # confirmed; a tagged Amazon search URL is acceptable until then.
+  # confirmed; if no Amazon listing can be verified, keep the iHerb button only.
   links:
     - store: Amazon
-      url: 'https://www.amazon.com/s?k=<product+query>&tag=ibetterlife-20'
+      url: 'https://www.amazon.com/dp/<ASIN>?tag=ibetterlife-20'
     - store: iHerb
       url: 'https://www.iherb.com/pr/.../18057?rcode=RZK388'
 ```
@@ -119,18 +126,40 @@ or form (Immune Support, Powder Packets). Never tag iHerb, Amazon, the domain, "
    makes it different from a plain vitamin C tablet.
 2. **The card** — `{{< product-grid data="<key>" item="1" >}}` right after the intro, so the
    price, image and shop button are above the fold.
-3. `## Quick verdict` — three bullets: **Best for**, **Skip if**, **What stands out**.
-4. `## What you actually get` — servings, dose, form, sugar/sodium, packet count. Bullets or a
+3. `## Why people take <nutrient>` — 1-2 short paragraphs before the verdict: what the nutrient
+   does in plain language, who is most likely to be short on it, and what the label dose should be
+   compared against. Skip only for non-nutrient products.
+4. `## Quick verdict` — three bullets: **Best for**, **Skip if**, **What stands out**.
+5. `## What you actually get` — servings, dose, form, sugar/sodium, packet count. Bullets or a
    small table; no marketing filler.
-5. `## What I like` — 4-6 points, each one concrete and traceable to the label
+6. `## What I like` — 4-6 points, each one concrete and traceable to the label
    (dose per packet, dissolves fast, travel-friendly, no pill to swallow, price per serving).
-6. `## Where it falls short` — 2-4 honest points (sugar per packet, taste, cost per dose versus
+7. `## What buyers say` — 3-5 real buyer reviews, rules below.
+8. `## Where it falls short` — 2-4 honest points (sugar per packet, taste, cost per dose versus
    a tub, foil waste). A review without caveats reads like an ad.
-7. `## How it compares` — a 2-3 competitor table; template and rules below.
-8. `## How to use it` — the label dose, when people take it, and what to check on the box.
-9. `## Who should skip it` — 2-3 lines; this is where the medical caution lives.
-10. `## FAQ` — 2-3 questions pulled from the page or the label.
-11. `## Bottom line` — 2-3 sentences repeating the verdict, then one affiliate link.
+9. `## How it compares` — a 2-3 competitor table; template and rules below.
+10. `## How to use it` — the label dose, when people take it, and what to check on the box.
+11. `## Who should skip it` — 2-3 lines; this is where the medical caution lives.
+12. `## FAQ` — 2-3 questions pulled from the page or the label.
+13. `## Bottom line` — 2-3 sentences repeating the verdict, then one affiliate link.
+
+### Real buyer reviews (`What buyers say`)
+
+- **3-5 quotes**, each a short blockquote plus the attribution, so the reader sees how the product
+  behaves after weeks of use rather than only what the label claims.
+- **Copy from the live product page.** iHerb reviews are public — fetch the page through
+  `https://r.jina.ai/<iherb-url>` and read the review block. Amazon reviews need a login and the
+  `dp` page normally shows none, so never present Amazon quotes you could not actually open.
+- **Attribute what the page shows:** reviewer name when printed, otherwise "iHerb verified buyer",
+  plus the month and year printed on the review.
+- **Include at least one critical quote** (taste, sweetness, price per serving, packaging). A
+  review page with only five-star praise reads like an ad and hurts trust.
+- **Never invent, merge or clean up a quote.** No fabricated dates, no "paraphrased" quotes, no
+  quotes borrowed from a similar product. Do not translate a quote into something warmer than the
+  original on `/zh/`, `/ja/`, `/ko/` pages — keep the complaint intact.
+- If the page shows too few readable reviews, say so in the change summary and use fewer quotes
+  instead of filling the gap.
+- Keep quotes short (roughly under 30 English words each) so the section stays scannable.
 
 ### Comparison table template
 

@@ -1,0 +1,191 @@
+# 多种维生素选购指南的中文商品卡片数据。
+# 由 product-grid 短代码渲染：{{< product-grid data="multivitamins" item="N" >}}
+# stars = 编辑评分（1-5），rating = 商品页面显示的店铺评分。
+# 价格与评价数量读取于 2026年11月15日的 iHerb 美国站，属于约数。
+- name: Centrum Adults 成人多种维生素，200片
+  badge: 综合最佳
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cem/cem45174/l/24.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 200片（200份）
+    - ~$16.34（每份约$0.08）
+    - 每天1片，含18毫克铁
+  tip: "5星入门之选：剂量贴近每日推荐量，iHerb 评价超过1,300条。"
+  note: 主流基准款，包含标准每日维生素和矿物质（含铁）。
+  url: https://www.iherb.com/pr/centrum-adults-multivitamin-200-tablets/125279?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B09BVYY7XR?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/centrum-adults-multivitamin-200-tablets/125279?rcode=RZK388
+
+- name: 21st Century Sentry 成人多种维生素与矿物质，300片
+  badge: 最佳性价比
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen22702/l/118.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 300片（300份）
+    - ~$17.50（每份约$0.06）
+    - 每天1片，含铁
+  tip: "成本5星：本指南每份成本最低的一款，而且低得明显。"
+  note: 朴素的每日推荐量配方，用成分的华丽程度换来更大的容量和更低的价格。
+  url: https://www.iherb.com/pr/21st-century-sentry-adults-multivitamin-multimineral-supplement-300-tablets/10525?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0007PLP0C?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/21st-century-sentry-adults-multivitamin-multimineral-supplement-300-tablets/10525?rcode=RZK388
+
+- name: Garden of Life Organics 女性每日一片，60片素食片
+  badge: 女性首选
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol11776/l/151.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 60片素食片（60份）
+    - ~$39.89（每份约$0.66）
+    - 有机认证，25微克维生素D
+  tip: "5星洁净女性配方：有机、纯素、非转基因。"
+  note: 以有机食物成分为基础，不含铁，使用甲基化B12。
+  url: https://www.iherb.com/pr/garden-of-life-organics-women-s-once-daily-multi-60-vegan-tablets/58122?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B00K5NEMJM?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/garden-of-life-organics-women-s-once-daily-multi-60-vegan-tablets/58122?rcode=RZK388
+
+- name: One A Day 男性复合维生素，200片
+  badge: 男性首选
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/oad/oad08014/l/102.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 200片（200份）
+    - ~$20.38（每份约$0.10）
+    - 每天1片，不含铁
+  tip: "男性5星：120毫克镁且不含铁，这正是大多数男性不需要的成分。"
+  note: 直接的男性配方，镁含量高于普通成人款。
+  url: https://www.iherb.com/pr/one-a-day-men-s-multi-200-tablets/31735?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B001F71XAI?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/one-a-day-men-s-multi-200-tablets/31735?rcode=RZK388
+
+- name: Nature's Way Alive! 女性50+全效多种维生素，130片
+  badge: 50岁以上首选
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy14210/l/45.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 130片（130份）
+    - ~$20.06（每份约$0.15）
+    - 50微克维生素D3，40微克B12
+  tip: "50+女性5星：2,000 IU维生素D，另加叶黄素护眼。"
+  note: 维生素D和B12高于普通成人配方，针对骨骼、心脏和眼睛。
+  url: https://www.iherb.com/pr/nature-s-way-alive-women-s-50-complete-multivitamin-130-tablets/116138?rcode=RZK388
+  links:
+    - store: iHerb
+      url: https://www.iherb.com/pr/nature-s-way-alive-women-s-50-complete-multivitamin-130-tablets/116138?rcode=RZK388
+
+- name: SmartyPants 女性有机复合维生素与Omega软糖，120粒
+  badge: 最佳软糖
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sma/sma02081/l/61.jpg
+  stars: 4
+  rating: 4.6
+  meta:
+    - 120粒软糖（30份）
+    - ~$26.99（每份约$0.90）
+    - 每天4粒
+  tip: "软糖爱好者4星：不用吞药片，每份还含171毫克Omega-3 ALA。"
+  note: 本榜单唯一把多种维生素和Omega-3结合的软糖，代价是每份成本更高。
+  url: https://www.iherb.com/pr/smartypants-women-s-organic-multi-omegas-raspberries-lemon-lime-grape-120-gummies/85352?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0F5QS9RY3?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/smartypants-women-s-organic-multi-omegas-raspberries-lemon-lime-grape-120-gummies/85352?rcode=RZK388
+
+- name: MegaFood One Daily 食物基底多种维生素，90片
+  badge: 最佳食物基底
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mgf/mgf10152/l/87.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 90片（90份）
+    - ~$46.99（每份约$0.52）
+    - 每天1片，食物基底
+  tip: "食物基底5星：温和剂量，锌和铁均为螯合形式。"
+  note: 用真实食物和发酵成分制作，剂量刻意控制在推荐量附近。
+  url: https://www.iherb.com/pr/megafood-one-daily-multivitamin-90-tablets/4033?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B001AG675K?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/megafood-one-daily-multivitamin-90-tablets/4033?rcode=RZK388
+
+- name: Optimum Nutrition Opti-Men 运动男性多种维生素，150片
+  badge: 运动人群首选
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/opn/opn05227/l/83.jpg
+  stars: 4
+  rating: 4.8
+  meta:
+    - 150片（50份）
+    - ~$41.19（每份约$0.82）
+    - 每天3片
+  tip: "27,000多位买家给出4.8：为训练量提高了维生素C、锌和B12。"
+  note: 针对活跃男性设计，但每天要吃3片，部分买家不喜欢这一点。
+  url: https://www.iherb.com/pr/optimum-nutrition-opti-men-multivitamin-for-active-men-150-tablets/57069?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B00K2RJAR0?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/optimum-nutrition-opti-men-multivitamin-for-active-men-150-tablets/57069?rcode=RZK388
+
+- name: New Chapter 女性每日一片多种维生素，72片素食片
+  badge: 最佳发酵配方
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr00308/l/99.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 72片素食片（72份）
+    - ~$37.97（每份约$0.53）
+    - 每天1片，含3毫克铁
+  tip: "肠胃敏感者5星：发酵配方、有机认证，每天只需1片。"
+  note: 以发酵全食物成分为基础；男性版价格相同，并且不含铁。
+  url: https://www.iherb.com/pr/new-chapter-one-daily-every-woman-s-multivitamin-72-vegetarian-tablets/23318?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B003DGZREM?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/new-chapter-one-daily-every-woman-s-multivitamin-72-vegetarian-tablets/23318?rcode=RZK388
+
+- name: Thorne Basic Nutrients 2/Day 基础营养素，NSF认证，60粒
+  badge: 洁净标签首选
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/thr/thr00287/l/91.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 60粒胶囊（30份）
+    - ~$40.00（每份约$1.33）
+    - 每天2粒，NSF认证
+  tip: "标签质量5星：无人工色素和包衣，通过第三方认证。"
+  note: 本榜单每份最贵的一款，面向在意认证和甲基化B族的买家。
+  url: https://www.iherb.com/pr/thorne-basic-nutrients-2-day-nsf-certified-60-capsules/52954?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B00FOTMGTU?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/thorne-basic-nutrients-2-day-nsf-certified-60-capsules/52954?rcode=RZK388

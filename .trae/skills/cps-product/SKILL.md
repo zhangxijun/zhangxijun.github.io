@@ -242,6 +242,54 @@ powershell -ExecutionPolicy Bypass -File .trae/skills/cps-article/assets/cover-t
 5. After approval: commit, push to `main`, wait for the Actions run, then confirm the live URL
    returns 200.
 
+## Tables on mobile
+
+Tables are styled by `layouts/_partials/hooks/head-start/article-tables.html`: below 640px each
+table becomes a horizontal scroller with the first column sticky at 34vw (min 6.5rem).
+
+- First column must be short — 1-3 words, under ~20 characters. In the comparison table put
+  "This product" / "Competitor" / "Label dose", never a full product title. A long first cell
+  occupies the whole screen and, since it is sticky, hides the remaining columns while swiping.
+- Max 4 columns, longest text in the last column, plain pipe tables only.
+- Check at 390px before publishing: first column under ~35% of viewport width and a right swipe
+  reveals column 2 with column 1 staying pinned.
+
+## Editorial voice: no AI voice
+
+A single-product review only works if it sounds like one person who bought the bottle, used it,
+and noticed the small annoyances. Remove anything that reads like generated copy.
+
+Banned English phrases:
+
+- "game-changer", "must-have", "little powerhouse", "hidden gem", "holy grail", "supercharge",
+  "unlock", "elevate", "delve into", "the perfect blend of", "a testament to"
+- "In today's fast-paced world", "When it comes to", "Whether you're ...", "Look no further",
+  "We've got you covered", "Let's dive in", "Say goodbye to <problem>"
+- "It's important to note", "It is worth mentioning", "Bottom line:" used as a section opener,
+  "In conclusion", "All things considered"
+- "Our team of experts", "we tested this for months" — never claim hands-on testing the site did
+  not do. Say "the label shows", "buyers report", "the price works out to"
+- Exclamation marks, emoji, three adjectives stacked in a row, and bolded one-line takeaways after
+  every paragraph
+
+Write instead: "One packet carries 1,000 mg of vitamin C and 6 g of sugar, so it is closer to a
+soft drink than a capsule." Concrete dose, real trade-off, no adjectives doing the arguing.
+
+Keep at least one sentence per section that only fits this exact product. If a sentence could sit
+in any supplement review, cut it.
+
+Chinese: 禁用「堪称神器」「闭眼入」「宝藏好物」「YYDS」「在这个快节奏的时代」「值得一提的是」
+「无论你是……还是……」「总而言之」「一站式」「全面解析」「赋能」「解锁」，以及感叹号堆叠。
+
+Japanese: 禁用「神アイテム」「買って損なし」「〜ではないでしょうか」「〜と言えるでしょう」
+「さあ、見ていきましょう」「ぜひチェックしてみてください」「〜を徹底解説」。
+
+Korean: 禁用「갓템」「무조건 사세요」「~해 보시는 건 어떨까요?」「지금부터 알아보겠습니다」
+「~라고 할 수 있습니다」「놓치지 마세요」「꼭 확인해 보세요」。
+
+Before publishing, grep the draft for the banned list and confirm the intro names a real number
+(dose, price per serving, count) in the first two sentences.
+
 ## Compliance
 
 - Prices and review counts are dated and sourced from the retailer page; promos rotate.

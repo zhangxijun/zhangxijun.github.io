@@ -254,6 +254,61 @@ If no verified photo exists, fall back to a drawn illustration and say so in the
 5. Only after approval: commit, push to `main`, wait for the Actions run to finish, then confirm
    `https://ibetterlife.com/blog/<slug>/` returns 200 and images load.
 
+## Editorial voice: no AI voice
+
+Write like a picky shopper who has read every label, not like a content generator. If a sentence
+could open any supplement article on the internet, delete it and replace it with a fact from the
+label, the review page or the price tag.
+
+Banned English openings and phrases (rewrite, do not just reword slightly):
+
+- "In today's fast-paced world", "When it comes to <category>", "Whether you're a busy mom or a
+  gym rat", "Let's dive in", "Look no further", "We've got you covered"
+- "delve into", "unlock", "elevate", "game-changer", "revolutionize", "a testament to",
+  "navigate the landscape", "the perfect blend of", "not just X, but Y"
+- "It's important to note", "It is worth mentioning", "In conclusion", "Overall,"
+- "Our team of experts", "we compiled this guide" — the site has one editorial voice, so do not
+  invent a research department
+- Emoji, exclamation marks, and "Say goodbye to <problem>" constructions
+
+Also avoid the structural tells: every paragraph the same length, every section opening with a
+one-line fragment, three adjectives in a row, and a bolded takeaway after each paragraph. Vary
+sentence length, let one paragraph be two sentences and the next be six.
+
+Write instead: "6 cents a serving is the lowest here, and the 300-count bottle lasts ten months."
+State the number, name the trade-off, and let the buyer draw the conclusion. Keep one honest
+opinion per section — a review with no friction reads fake.
+
+Chinese: 禁用「在这个快节奏的时代」「值得一提的是」「总而言之」「无论你是……还是……」
+「不仅……而且……」（滥用）「让我们一起来看看」「赋能」「解锁」「极致」「一站式」「全面解析」
+以及机械的「首先/其次/最后」三段式。用具体数字和真实体验代替形容词。
+
+Japanese: 禁用「〜ではないでしょうか」「〜と言えるでしょう」「いかがでしょうか」
+「さあ、見ていきましょう」「〜することが重要です」「〜を徹底解説」
+「ぜひチェックしてみてください」。数字と実体験で書き、形容詞で埋めない。
+
+Korean: 禁用「~해 보시는 건 어떨까요?」「지금부터 알아보겠습니다」「~라고 할 수 있습니다」
+「~를 소개해 드리겠습니다」「놓치지 마세요」「꼭 확인해 보세요」。
+구체적인 숫자와 실제 후기로 쓰고, 형용사로 채우지 않는다.
+
+Before publishing, scan the draft for the phrases above (`grep` the banned list) and check that the
+first paragraph contains at least one number or one concrete product fact.
+
+## Tables on mobile
+
+A site-wide CSS hook (`layouts/_partials/hooks/head-start/article-tables.html`) turns every
+Markdown table into a horizontal scroller below 640px, pins the first column to the left edge and
+caps it at 34vw / min 6.5rem. Write tables with that in mind:
+
+- Keep first-column labels short: 1-3 words, under ~20 characters ("Centrum Adults", not
+  "Centrum Adults Multivitamin 200 Tablets"). A long first cell fills the whole phone screen, and
+  because that column is sticky it covers columns 2-4 while the reader swipes — the table looks
+  frozen even though it scrolls.
+- Use at most 4 columns; put the longest text in the last column.
+- Plain pipe tables only — no HTML tables, no inline `white-space` styles.
+- Verify at 390px width before publishing: first column under ~35% of the viewport, `scrollWidth >
+  clientWidth`, and swiping right reveals column 2 while column 1 stays pinned.
+
 ## Compliance rules
 
 - The affiliate disclosure page must stay reachable from the footer and navigation.

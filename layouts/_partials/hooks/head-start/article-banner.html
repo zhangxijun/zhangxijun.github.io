@@ -1,11 +1,24 @@
-{{- /*
-  文章顶部 banner（featured image）对齐修正。
+{{- /* 文章顶部 banner（featured image）对齐修正。
   主题给 wrapper 设了 max-width:720px + margin:0 auto，但在中等宽度下父容器
   有额外内边距，导致图片看起来偏右、左右留白不对称。
   这里统一成：宽度跟随正文列、水平居中、圆角裁切。
-*/ -}}
+
+  同时修正「标题 / banner / 正文」三者宽度不一致的问题：
+  主题的 .prose 自带 max-width:65ch，而标题和 banner 撑满整列，
+  导致正文右侧留出一大块空白。这里给三者设同一个列宽（50rem），
+  并各自水平居中，视觉上左中右三条边就对齐了。 */ -}}
 {{- if eq .Section "blog" -}}
 <style>
+  /* 统一列宽：标题、banner、正文宽度一致 */
+  main > h1,
+  main > .featured-image-wrapper.article-header,
+  main > .prose{
+    width:100%;
+    max-width:50rem!important;
+    margin-left:auto!important;
+    margin-right:auto!important;
+  }
+
   .featured-image-wrapper.article-header{
     width:100%!important;
     max-width:100%!important;

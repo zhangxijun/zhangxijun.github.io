@@ -21,9 +21,11 @@
   .prose tbody td a{color:#047857;font-weight:600;text-decoration:none;border-bottom:1px solid #a7f3d0}
   .prose tbody td a:hover{color:#065f46;border-bottom-color:#059669}
   @media (max-width:640px){
-    .prose table{display:block;overflow-x:auto;white-space:nowrap;font-size:13.5px;border-radius:12px}
+    .prose table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch;white-space:nowrap;font-size:13.5px;border-radius:12px}
     .prose thead th,.prose tbody td{padding:11px 12px}
-    .prose thead th:first-child,.prose tbody td:first-child{position:sticky;left:0;z-index:1;box-shadow:1px 0 0 #eef4f1}
+    /* 第一列固定并吸左：只允许短标签，长商品名必须允许换行，
+       否则这一列会占满整个屏幕，把后面几列永久挡在下面导致无法滑动查看。 */
+    .prose thead th:first-child,.prose tbody td:first-child{position:sticky;left:0;z-index:1;box-shadow:1px 0 0 #eef4f1;white-space:normal;overflow-wrap:anywhere;min-width:6.5rem;width:34vw}
   }
   .dark .prose table{background:#0f1b17;border-color:#1f3d33;box-shadow:none}
   .dark .prose thead th{background:#0b3b2e;color:#d1fae5}

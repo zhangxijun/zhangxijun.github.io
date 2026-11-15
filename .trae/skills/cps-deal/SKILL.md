@@ -194,6 +194,18 @@ powershell -ExecutionPolicy Bypass -File .trae/skills/cps-deal/assets/deal-thumb
 5. After approval: commit, push to `main`, wait for the Actions run, then confirm the live URLs
    return 200 and the images load.
 
+## Tables on mobile
+
+If a deal post uses a Markdown table, it is styled by
+`layouts/_partials/hooks/head-start/article-tables.html`: below 640px the table scrolls
+horizontally and the first column stays sticky at 34vw (min 6.5rem).
+
+- First column: 1-3 words, under ~20 characters. A long first cell fills the phone screen and,
+  being sticky, hides the other columns while swiping.
+- Max 4 columns, longest text in the last column, plain pipe tables only.
+- Check at 390px before publishing: first column under ~35% of viewport width and a right swipe
+  reveals column 2.
+
 ## Compliance
 
 - No fake countdowns, invented discounts, or "expired soon" copy.

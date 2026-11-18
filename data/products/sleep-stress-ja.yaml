@@ -1,0 +1,186 @@
+# 睡眠とストレスの購入ガイドの日本語商品カードデータ。
+# product-grid ショートコードで描画：{{< product-grid data="sleep-stress" item="N" >}}
+# 価格・評価・販売元・順位は 2026年11月18日に Amazon US と iHerb US で確認したもの。
+- name: Doctor's Best 高吸収マグネシウム リシネートグリシネート（Albion TRAACS）, 240錠
+  badge: 総合ベスト
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00087/l/214.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 240錠（120食分）
+    - 約$23.99（1食分あたり約$0.20）
+    - 2錠で元素マグネシウム200 mg
+  tip: "iHerb のマグネシウム部門で1位、評価は219,787件。"
+  note: 錠剤が大きく、200 mgは1日の推奨量420 mgの半分を少し下回ります。
+  url: https://www.amazon.com/dp/B000BD0RT0?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B000BD0RT0?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/doctor-s-best-high-absorption-magnesium-lysinate-glycinate-chelated-albion-traacs-240-tablets-100-mg-per-tablet/16567?rcode=RZK388
+
+- name: NOW マグネシウムグリシネート（BioPerine配合）, 180ベジタリアンカプセル
+  badge: コスパベスト
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01287/l/8.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 180カプセル（90食分）
+    - Amazon で約$14.99（1食分あたり約$0.17）
+    - 元素マグネシウム200 mg＋BioPerine 2.5 mg
+  tip: "Amazon.com が販売、iHerb の7,765件で4.8つ星。"
+  note: ピペリンは一部の処方薬の吸収を変えるため、先に自分の薬のリストを確認してください。
+  url: https://www.amazon.com/dp/B0D7XY7K4T?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0D7XY7K4T?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/now-foods-magnesium-glycinate-with-bioperine-180-veg-capsules/143369?rcode=RZK388
+
+- name: Life Extension メラトニン 300 mcg, 100ベジタリアンカプセル
+  badge: 最小用量
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lex/lex16681/l/129.jpg
+  stars: 4
+  rating: 4.6
+  meta:
+    - 100カプセル（100食分）
+    - 約$7.50（1食分あたり約$0.08）
+    - 1カプセルあたりメラトニン300 mcg
+  tip: "体内時計の研究で使われた生理的用量。"
+  note: 位相を動かす道具で、睡眠薬ではありません。午前3時の目覚めは止められません。
+  url: https://www.amazon.com/dp/B000X9QZZ2?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B000X9QZZ2?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/life-extension-melatonin-300-mcg-100-vegetarian-capsules/47809?rcode=RZK388
+
+- name: Natrol メラトニン 5 mg, 60錠
+  badge: 主流の定番
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntl/ntl04462/l/77.jpg
+  stars: 4
+  rating: 4.6
+  meta:
+    - 60錠（60食分）
+    - iHerb で約$10.39（1食分あたり約$0.17）
+    - 1錠あたりメラトニン5 mg
+  tip: "iHerb の7,135件で4.6つ星、本記事最大のメラトニンのレビュー基数。"
+  note: 生理的用量の16倍で、翌日のぼんやりがよくある不満です。
+  url: https://www.iherb.com/pr/natrol-melatonin-5-mg-60-tablets/23958?rcode=RZK388
+  links:
+    - store: iHerb
+      url: https://www.iherb.com/pr/natrol-melatonin-5-mg-60-tablets/23958?rcode=RZK388
+
+- name: NOW L-テアニン ダブルストレングス 200 mg（イノシトール配合）, 120ベジタリアンカプセル
+  badge: 日中のストレス
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00148/l/32.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 120カプセル（120食分）
+    - iHerb で約$21.72（1食分あたり約$0.18）
+    - テアニン200 mg＋イノシトール100 mg
+  tip: "iHerb のストレス緩和フォーミュラ部門で1位、評価は19,265件。"
+  note: 純粋なテアニンではなく、200 mgのカプセルは半分にできません。
+  url: https://www.iherb.com/pr/now-foods-l-theanine-120-veg-capsules/54096?rcode=RZK388
+  links:
+    - store: iHerb
+      url: https://www.iherb.com/pr/now-foods-l-theanine-120-veg-capsules/54096?rcode=RZK388
+
+- name: Jarrow アシュワガンダ KSM-66 300 mg, 120ベジタリアンカプセル
+  badge: ストレス対策アダプトゲン
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/jrw/jrw22014/l/53.jpg
+  stars: 4
+  rating: 4.5
+  meta:
+    - 120カプセル（1粒で120食分）
+    - 約$22.93（1食分あたり約$0.19）
+    - KSM-66 300 mg、ウィタノリド5%
+  tip: "Amazon.com が販売、Amazon の評価は1,997件。"
+  note: 試験で使われた600 mgは1晩2粒で、約$0.38になります。
+  url: https://www.amazon.com/dp/B0013OQEO8?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0013OQEO8?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/jarrow-formulas-ashwagandha-300-mg-120-veggie-capsules/3302?rcode=RZK388
+
+- name: Life Extension Neuro-Mag L-トレオン酸マグネシウム, 90ベジタリアンカプセル
+  badge: 脳のマグネシウム
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lex/lex16039/l/276.jpg
+  stars: 4
+  rating: 4.6
+  meta:
+    - 90カプセル（30食分）
+    - 約$26.77（1食分あたり約$0.89）
+    - 3カプセルで元素マグネシウム144 mg
+  tip: "Amazon のマグネシウム部門で7位、評価は24,901件。"
+  note: 1晩3カプセルで、本記事で最も高い1食分コストです。
+  url: https://www.amazon.com/dp/B006P536E6?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B006P536E6?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/life-extension-neuro-mag-magnesium-l-threonate-90-vegetarian-capsules-48-mg-per-capsule/40244?rcode=RZK388
+
+- name: NOW グリシン ピュアパウダー, 1ポンド（454 g）
+  badge: 1食分最安
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00225/l/77.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 454 g（約151食分）
+    - Amazon で約$14.99（1食分あたり約$0.10）
+    - 小さじ3/4（3 g）でグリシン3 g
+  tip: "iHerb の10,246件で4.8つ星。"
+  note: 粉が細かく、1食分は体積の計量なので食分は推定値です。
+  url: https://www.amazon.com/dp/B0013OVZJW?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0013OVZJW?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/now-foods-glycine-pure-powder-1-lb-454-g/615?rcode=RZK388
+
+- name: Nature's Way バレリアン, 90ビーガンカプセル
+  badge: ハーブの睡眠
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy63400/l/88.jpg
+  stars: 4
+  rating: 4.4
+  meta:
+    - 90カプセル（45食分）
+    - 約$12.99（1食分あたり約$0.29）
+    - 根800 mg＋エキス220 mg
+  tip: "どちらの小売業者にも90粒の在庫があります。"
+  note: 匂いが強く、朝に少し残ることがあります。アルコールと重ねないでください。
+  url: https://www.amazon.com/dp/B0001FVFBC?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0001FVFBC?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nature-s-way-valerian-90-vegan-capsules/2062?rcode=RZK388
+
+- name: Gaia Herbs SleepThru, 60液体フィトカプセル
+  badge: メラトニン不使用
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gai/gai14576/l/50.jpg
+  stars: 3
+  rating: 4.3
+  meta:
+    - 60カプセル（30食分）
+    - iHerb で約$32.39（1食分あたり約$1.08）
+    - 940 mgのブレンド、メラトニンなし
+  tip: "寝つきの悪さではなく、夜中の目覚めのため。"
+  note: 1晩あたりで最も高く、Amazon には現在購入できる出品がありません。
+  url: https://www.iherb.com/pr/gaia-herbs-sleepthru-60-liquid-phyto-caps/38862?rcode=RZK388
+  links:
+    - store: iHerb
+      url: https://www.iherb.com/pr/gaia-herbs-sleepthru-60-liquid-phyto-caps/38862?rcode=RZK388

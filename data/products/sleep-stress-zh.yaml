@@ -1,0 +1,186 @@
+# 睡眠与压力选购指南商品卡片（中文）。
+# 由 product-grid 短代码渲染：{{< product-grid data="sleep-stress" item="N" >}}
+# 价格、评分、卖家和排名于2026年11月18日在 Amazon 美国站与 iHerb 美国站核对。
+- name: Doctor's Best 高吸收赖氨酸甘氨酸镁（Albion TRAACS），240片
+  badge: 综合最佳
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00087/l/214.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 240片（120份）
+    - 约$23.99（每份约$0.20）
+    - 2片含200毫克元素镁
+  tip: "iHerb 镁类目第1，219,787条评价。"
+  note: 药片偏大，200毫克不到420毫克每日参考值的一半。
+  url: https://www.amazon.com/dp/B000BD0RT0?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B000BD0RT0?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/doctor-s-best-high-absorption-magnesium-lysinate-glycinate-chelated-albion-traacs-240-tablets-100-mg-per-tablet/16567?rcode=RZK388
+
+- name: NOW 甘氨酸镁（含 BioPerine），180粒素食胶囊
+  badge: 最划算
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01287/l/8.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 180粒（90份）
+    - Amazon 约$14.99（每份约$0.17）
+    - 200毫克元素镁 + 2.5毫克 BioPerine
+  tip: "Amazon.com 自营，iHerb 7,765条评价4.8星。"
+  note: 胡椒碱会改变部分处方药的吸收，先看自己的药单。
+  url: https://www.amazon.com/dp/B0D7XY7K4T?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0D7XY7K4T?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/now-foods-magnesium-glycinate-with-bioperine-180-veg-capsules/143369?rcode=RZK388
+
+- name: Life Extension 褪黑素 300微克，100粒素食胶囊
+  badge: 最低剂量
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lex/lex16681/l/129.jpg
+  stars: 4
+  rating: 4.6
+  meta:
+    - 100粒（100份）
+    - 约$7.50（每份约$0.08）
+    - 每粒300微克褪黑素
+  tip: "生物钟研究使用的生理剂量。"
+  note: 它是调时相的工具，不是安眠药，止不住凌晨三点的醒来。
+  url: https://www.amazon.com/dp/B000X9QZZ2?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B000X9QZZ2?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/life-extension-melatonin-300-mcg-100-vegetarian-capsules/47809?rcode=RZK388
+
+- name: Natrol 褪黑素 5毫克，60片
+  badge: 主流之选
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntl/ntl04462/l/77.jpg
+  stars: 4
+  rating: 4.6
+  meta:
+    - 60片（60份）
+    - iHerb 约$10.39（每份约$0.17）
+    - 每片5毫克褪黑素
+  tip: "iHerb 7,135条评价4.6星，本文最大的褪黑素评价基数。"
+  note: 生理剂量的16倍，常见抱怨是第二天发懵。
+  url: https://www.iherb.com/pr/natrol-melatonin-5-mg-60-tablets/23958?rcode=RZK388
+  links:
+    - store: iHerb
+      url: https://www.iherb.com/pr/natrol-melatonin-5-mg-60-tablets/23958?rcode=RZK388
+
+- name: NOW 茶氨酸双倍强度 200毫克（含肌醇），120粒素食胶囊
+  badge: 白天压力
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00148/l/32.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 120粒（120份）
+    - iHerb 约$21.72（每份约$0.18）
+    - 200毫克茶氨酸 + 100毫克肌醇
+  tip: "iHerb 减压配方类目第1，19,265条评价。"
+  note: 不是纯茶氨酸，200毫克胶囊也没法对半掰。
+  url: https://www.iherb.com/pr/now-foods-l-theanine-120-veg-capsules/54096?rcode=RZK388
+  links:
+    - store: iHerb
+      url: https://www.iherb.com/pr/now-foods-l-theanine-120-veg-capsules/54096?rcode=RZK388
+
+- name: Jarrow 南非醉茄 KSM-66，300毫克，120粒
+  badge: 抗压适应原
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/jrw/jrw22014/l/53.jpg
+  stars: 4
+  rating: 4.5
+  meta:
+    - 120粒（按1粒计120份）
+    - 约$22.93（每份约$0.19）
+    - 300毫克 KSM-66，5%醉茄内酯
+  tip: "Amazon.com 自营，1,997条 Amazon 评分。"
+  note: 试验用的600毫克剂量意味着每晚两粒，约$0.38。
+  url: https://www.amazon.com/dp/B0013OQEO8?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0013OQEO8?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/jarrow-formulas-ashwagandha-300-mg-120-veggie-capsules/3302?rcode=RZK388
+
+- name: Life Extension Neuro-Mag L-苏糖酸镁，90粒素食胶囊
+  badge: 顾脑子
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lex/lex16039/l/276.jpg
+  stars: 4
+  rating: 4.6
+  meta:
+    - 90粒（30份）
+    - 约$26.77（每份约$0.89）
+    - 3粒含144毫克元素镁
+  tip: "Amazon 镁类目第7，24,901条评分。"
+  note: 每晚三粒，本文单份成本最高。
+  url: https://www.amazon.com/dp/B006P536E6?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B006P536E6?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/life-extension-neuro-mag-magnesium-l-threonate-90-vegetarian-capsules-48-mg-per-capsule/40244?rcode=RZK388
+
+- name: NOW 甘氨酸纯粉，1磅（454克）
+  badge: 单份最便宜
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00225/l/77.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 454克（约151份）
+    - Amazon 约$14.99（每份约$0.10）
+    - 每3/4茶匙3克甘氨酸
+  tip: "iHerb 10,246条评价4.8星。"
+  note: 粉很细；份量按体积计，份数只是估计。
+  url: https://www.amazon.com/dp/B0013OVZJW?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0013OVZJW?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/now-foods-glycine-pure-powder-1-lb-454-g/615?rcode=RZK388
+
+- name: Nature's Way 缬草，90粒素食胶囊
+  badge: 草本之选
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy63400/l/88.jpg
+  stars: 4
+  rating: 4.4
+  meta:
+    - 90粒（45份）
+    - 约$12.99（每份约$0.29）
+    - 800毫克根粉 + 220毫克提取物
+  tip: "两家零售商都有90粒装。"
+  note: 气味重，早上可能有点发木；不要和酒精叠加。
+  url: https://www.amazon.com/dp/B0001FVFBC?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0001FVFBC?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nature-s-way-valerian-90-vegan-capsules/2062?rcode=RZK388
+
+- name: Gaia Herbs SleepThru，60粒液体植物胶囊
+  badge: 无褪黑素之选
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gai/gai14576/l/50.jpg
+  stars: 3
+  rating: 4.3
+  meta:
+    - 60粒（30份）
+    - iHerb 约$32.39（每份约$1.08）
+    - 940毫克复方，不含褪黑素
+  tip: "针对半夜醒，而不是入睡难。"
+  note: 每晚最贵，Amazon 目前没有在售报价。
+  url: https://www.iherb.com/pr/gaia-herbs-sleepthru-60-liquid-phyto-caps/38862?rcode=RZK388
+  links:
+    - store: iHerb
+      url: https://www.iherb.com/pr/gaia-herbs-sleepthru-60-liquid-phyto-caps/38862?rcode=RZK388

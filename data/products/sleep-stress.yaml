@@ -1,0 +1,186 @@
+# Sleep & stress buying-guide product cards (English).
+# Rendered by {{< product-grid data="sleep-stress" item="N" >}}
+# Prices, ratings, sellers and ranks were checked on Amazon US and iHerb US on 2026-11-18.
+- name: Doctor's Best High Absorption Magnesium Lysinate Glycinate, 240 Tablets
+  badge: Best overall
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00087/l/214.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 240 tablets (120 servings)
+    - ~$23.99 (about $0.20 per serving)
+    - 200 mg elemental per 2 tablets
+  tip: "#1 in iHerb's Magnesium category, 219,787 reviews."
+  note: Large tablets, and 200 mg is under half the 420 mg daily value.
+  url: https://www.amazon.com/dp/B000BD0RT0?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B000BD0RT0?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/doctor-s-best-high-absorption-magnesium-lysinate-glycinate-chelated-albion-traacs-240-tablets-100-mg-per-tablet/16567?rcode=RZK388
+
+- name: NOW Foods Magnesium Glycinate with BioPerine, 180 Veg Capsules
+  badge: Best value
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01287/l/8.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 180 capsules (90 servings)
+    - ~$14.99 on Amazon (about $0.17 per serving)
+    - 200 mg elemental + 2.5 mg BioPerine
+  tip: "Sold by Amazon.com, 4.8 stars from 7,765 iHerb ratings."
+  note: Piperine changes how some prescription drugs are absorbed; check your list first.
+  url: https://www.amazon.com/dp/B0D7XY7K4T?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0D7XY7K4T?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/now-foods-magnesium-glycinate-with-bioperine-180-veg-capsules/143369?rcode=RZK388
+
+- name: Life Extension Melatonin, 300 mcg, 100 Vegetarian Capsules
+  badge: Best low dose
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lex/lex16681/l/129.jpg
+  stars: 4
+  rating: 4.6
+  meta:
+    - 100 capsules (100 servings)
+    - ~$7.50 (about $0.08 per serving)
+    - 300 mcg melatonin per capsule
+  tip: "The physiological dose used in circadian studies."
+  note: A clock-shifter, not a knock-out pill; it will not stop a 3 a.m. wake-up.
+  url: https://www.amazon.com/dp/B000X9QZZ2?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B000X9QZZ2?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/life-extension-melatonin-300-mcg-100-vegetarian-capsules/47809?rcode=RZK388
+
+- name: Natrol Melatonin, 5 mg, 60 Tablets
+  badge: Best mainstream
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntl/ntl04462/l/77.jpg
+  stars: 4
+  rating: 4.6
+  meta:
+    - 60 tablets (60 servings)
+    - ~$10.39 on iHerb (about $0.17 per serving)
+    - 5 mg melatonin per tablet
+  tip: "7,135 iHerb ratings at 4.6, the biggest melatonin review base here."
+  note: Sixteen times the physiological dose; morning grogginess is the usual complaint.
+  url: https://www.iherb.com/pr/natrol-melatonin-5-mg-60-tablets/23958?rcode=RZK388
+  links:
+    - store: iHerb
+      url: https://www.iherb.com/pr/natrol-melatonin-5-mg-60-tablets/23958?rcode=RZK388
+
+- name: NOW Foods L-Theanine, Double Strength, 200 mg, 120 Veg Capsules
+  badge: Best for daytime stress
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00148/l/32.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 120 capsules (120 servings)
+    - ~$21.72 on iHerb (about $0.18 per serving)
+    - 200 mg L-theanine + 100 mg inositol
+  tip: "#1 in iHerb's Stress Relief Formulas, 19,265 reviews."
+  note: Not pure theanine, and the 200 mg capsule cannot be halved.
+  url: https://www.iherb.com/pr/now-foods-l-theanine-120-veg-capsules/54096?rcode=RZK388
+  links:
+    - store: iHerb
+      url: https://www.iherb.com/pr/now-foods-l-theanine-120-veg-capsules/54096?rcode=RZK388
+
+- name: Jarrow Formulas Ashwagandha, KSM-66, 300 mg, 120 Capsules
+  badge: Best adaptogen
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/jrw/jrw22014/l/53.jpg
+  stars: 4
+  rating: 4.5
+  meta:
+    - 120 capsules (120 servings at 1 capsule)
+    - ~$22.93 (about $0.19 per serving)
+    - 300 mg KSM-66, 5% withanolides
+  tip: "Sold by Amazon.com, 1,997 Amazon ratings."
+  note: The 600 mg trial dose means two capsules, or $0.38 a night.
+  url: https://www.amazon.com/dp/B0013OQEO8?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0013OQEO8?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/jarrow-formulas-ashwagandha-300-mg-120-veggie-capsules/3302?rcode=RZK388
+
+- name: Life Extension Neuro-Mag Magnesium L-Threonate, 90 Vegetarian Capsules
+  badge: Best for the brain
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lex/lex16039/l/276.jpg
+  stars: 4
+  rating: 4.6
+  meta:
+    - 90 capsules (30 servings)
+    - ~$26.77 (about $0.89 per serving)
+    - 144 mg elemental per 3 capsules
+  tip: "#7 in Amazon's Magnesium category, 24,901 ratings."
+  note: Three capsules a night and the highest cost per serving in this guide.
+  url: https://www.amazon.com/dp/B006P536E6?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B006P536E6?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/life-extension-neuro-mag-magnesium-l-threonate-90-vegetarian-capsules-48-mg-per-capsule/40244?rcode=RZK388
+
+- name: NOW Foods Glycine, Pure Powder, 1 lb (454 g)
+  badge: Cheapest per serving
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00225/l/77.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 454 g (about 151 servings)
+    - ~$14.99 on Amazon (about $0.10 per serving)
+    - 3 g glycine per 3/4 teaspoon
+  tip: "4.8 stars from 10,246 iHerb ratings."
+  note: Very fine powder; the scoop is a volume measure, so the serving count is an estimate.
+  url: https://www.amazon.com/dp/B0013OVZJW?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0013OVZJW?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/now-foods-glycine-pure-powder-1-lb-454-g/615?rcode=RZK388
+
+- name: Nature's Way Valerian, 90 Vegan Capsules
+  badge: Best herbal
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy63400/l/88.jpg
+  stars: 4
+  rating: 4.4
+  meta:
+    - 90 capsules (45 servings)
+    - ~$12.99 (about $0.29 per serving)
+    - 800 mg root + 220 mg extract
+  tip: "Sold on both retailers, 90-count."
+  note: Smells strong and can leave a mild morning fog; do not stack it with alcohol.
+  url: https://www.amazon.com/dp/B0001FVFBC?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0001FVFBC?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nature-s-way-valerian-90-vegan-capsules/2062?rcode=RZK388
+
+- name: Gaia Herbs SleepThru, 60 Liquid Phyto-Caps
+  badge: Best without melatonin
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gai/gai14576/l/50.jpg
+  stars: 3
+  rating: 4.3
+  meta:
+    - 60 capsules (30 servings)
+    - ~$32.39 on iHerb (about $1.08 per serving)
+    - 940 mg blend, no melatonin
+  tip: "For night waking rather than falling asleep."
+  note: Priciest per night, and Amazon has no live offer for it.
+  url: https://www.iherb.com/pr/gaia-herbs-sleepthru-60-liquid-phyto-caps/38862?rcode=RZK388
+  links:
+    - store: iHerb
+      url: https://www.iherb.com/pr/gaia-herbs-sleepthru-60-liquid-phyto-caps/38862?rcode=RZK388

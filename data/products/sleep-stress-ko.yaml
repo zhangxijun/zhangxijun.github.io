@@ -1,0 +1,186 @@
+# 수면·스트레스 구매 가이드의 한국어 상품 카드 데이터.
+# product-grid 숏코드로 렌더링: {{< product-grid data="sleep-stress" item="N" >}}
+# stars = 편집자 점수(1-5), rating = 상품 페이지에 표시되는 스토어 평가. 가격·평점·판매처·순위는 2026-11-18에 Amazon 미국과 iHerb 미국에서 확인했습니다.
+- name: Doctor's Best 고흡수 마그네슘 라이시네이트 글리시네이트(Albion TRAACS), 240정
+  badge: 종합 최고
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00087/l/214.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 240정(120회분)
+    - 약 $23.99(1회분당 약 $0.20)
+    - 2정에 원소 마그네슘 200mg
+  tip: "iHerb 마그네슘 카테고리 1위, 평가 219,787건."
+  note: 정제가 크고, 200mg은 하루 기준치 420mg의 절반에 못 미칩니다.
+  url: https://www.amazon.com/dp/B000BD0RT0?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B000BD0RT0?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/doctor-s-best-high-absorption-magnesium-lysinate-glycinate-chelated-albion-traacs-240-tablets-100-mg-per-tablet/16567?rcode=RZK388
+
+- name: NOW 마그네슘 글리시네이트(BioPerine 함유), 베지 캡슐 180정
+  badge: 가성비 최고
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01287/l/8.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 180정(90회분)
+    - Amazon에서 약 $14.99(1회분당 약 $0.17)
+    - 원소 마그네슘 200mg + BioPerine 2.5mg
+  tip: "Amazon.com 직접 판매, iHerb 평가 7,765건 4.8점."
+  note: 피페린이 일부 처방약의 흡수를 바꾸므로 자기 약 목록을 먼저 보세요.
+  url: https://www.amazon.com/dp/B0D7XY7K4T?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0D7XY7K4T?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/now-foods-magnesium-glycinate-with-bioperine-180-veg-capsules/143369?rcode=RZK388
+
+- name: Life Extension 멜라토닌 300mcg, 베지 캡슐 100정
+  badge: 최저 용량
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lex/lex16681/l/129.jpg
+  stars: 4
+  rating: 4.6
+  meta:
+    - 100정(100회분)
+    - 약 $7.50(1회분당 약 $0.08)
+    - 캡슐당 멜라토닌 300mcg
+  tip: "일주기 연구에서 쓴 생리적 용량."
+  note: 시기를 옮기는 도구이고 수면제가 아니므로 새벽 세 시의 각성을 멈추지 못합니다.
+  url: https://www.amazon.com/dp/B000X9QZZ2?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B000X9QZZ2?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/life-extension-melatonin-300-mcg-100-vegetarian-capsules/47809?rcode=RZK388
+
+- name: Natrol 멜라토닌 5mg, 60정
+  badge: 주류 추천
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntl/ntl04462/l/77.jpg
+  stars: 4
+  rating: 4.6
+  meta:
+    - 60정(60회분)
+    - iHerb에서 약 $10.39(1회분당 약 $0.17)
+    - 1정당 멜라토닌 5mg
+  tip: "iHerb 평가 7,135건 4.6점, 이 글에서 가장 큰 멜라토닌 평가 기반."
+  note: 생리적 용량의 16배이고, 흔한 불만은 다음 날 멍함입니다.
+  url: https://www.iherb.com/pr/natrol-melatonin-5-mg-60-tablets/23958?rcode=RZK388
+  links:
+    - store: iHerb
+      url: https://www.iherb.com/pr/natrol-melatonin-5-mg-60-tablets/23958?rcode=RZK388
+
+- name: NOW L-테아닌 더블 스트렝스 200mg(이노시톨 함유), 베지 캡슐 120정
+  badge: 낮 시간 스트레스
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00148/l/32.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 120정(120회분)
+    - iHerb에서 약 $21.72(1회분당 약 $0.18)
+    - 테아닌 200mg + 이노시톨 100mg
+  tip: "iHerb 스트레스 완화 포뮬러 카테고리 1위, 평가 19,265건."
+  note: 순수 테아닌이 아니고, 200mg 캡슐은 반으로 자를 수 없습니다.
+  url: https://www.iherb.com/pr/now-foods-l-theanine-120-veg-capsules/54096?rcode=RZK388
+  links:
+    - store: iHerb
+      url: https://www.iherb.com/pr/now-foods-l-theanine-120-veg-capsules/54096?rcode=RZK388
+
+- name: Jarrow 아슈와간다 KSM-66, 300mg, 120정
+  badge: 스트레스 적응원
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/jrw/jrw22014/l/53.jpg
+  stars: 4
+  rating: 4.5
+  meta:
+    - 120정(1캡슐 기준 120회분)
+    - 약 $22.93(1회분당 약 $0.19)
+    - KSM-66 300mg, 위타놀라이드 5%
+  tip: "Amazon.com 직접 판매, Amazon 평가 1,997건."
+  note: 시험이 쓴 600mg은 하룻밤 두 캡슐, 약 $0.38입니다.
+  url: https://www.amazon.com/dp/B0013OQEO8?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0013OQEO8?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/jarrow-formulas-ashwagandha-300-mg-120-veggie-capsules/3302?rcode=RZK388
+
+- name: Life Extension Neuro-Mag L-트레오네이트 마그네슘, 베지 캡슐 90정
+  badge: 뇌 건강
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lex/lex16039/l/276.jpg
+  stars: 4
+  rating: 4.6
+  meta:
+    - 90정(30회분)
+    - 약 $26.77(1회분당 약 $0.89)
+    - 3캡슐에 원소 마그네슘 144mg
+  tip: "Amazon 마그네슘 카테고리 7위, 평가 24,901건."
+  note: 하룻밤 세 캡슐이고 이 글에서 1회분이 가장 비쌉니다.
+  url: https://www.amazon.com/dp/B006P536E6?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B006P536E6?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/life-extension-neuro-mag-magnesium-l-threonate-90-vegetarian-capsules-48-mg-per-capsule/40244?rcode=RZK388
+
+- name: NOW 글리신 순수 파우더, 1파운드(454g)
+  badge: 1회분 최저가
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00225/l/77.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 454g(약 151회분)
+    - Amazon에서 약 $14.99(1회분당 약 $0.10)
+    - 3/4 티스푼당 글리신 3g
+  tip: "iHerb 평가 10,246건 4.8점."
+  note: 파우더가 매우 고우며, 부피로 계량해 회분 수는 추정치입니다.
+  url: https://www.amazon.com/dp/B0013OVZJW?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0013OVZJW?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/now-foods-glycine-pure-powder-1-lb-454-g/615?rcode=RZK388
+
+- name: Nature's Way 발레리안, 베지 캡슐 90정
+  badge: 허브 추천
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy63400/l/88.jpg
+  stars: 4
+  rating: 4.4
+  meta:
+    - 90정(45회분)
+    - 약 $12.99(1회분당 약 $0.29)
+    - 뿌리 파우더 800mg + 추출물 220mg
+  tip: "두 판매처 모두 90정을 판매합니다."
+  note: 냄새가 강하고 아침에 약간 멍할 수 있으며, 술과 겹쳐 먹지 마세요.
+  url: https://www.amazon.com/dp/B0001FVFBC?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0001FVFBC?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nature-s-way-valerian-90-vegan-capsules/2062?rcode=RZK388
+
+- name: Gaia Herbs SleepThru, 액상 피토캡슐 60정
+  badge: 멜라토닌 무첨가
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gai/gai14576/l/50.jpg
+  stars: 3
+  rating: 4.3
+  meta:
+    - 60정(30회분)
+    - iHerb에서 약 $32.39(1회분당 약 $1.08)
+    - 복합체 940mg, 멜라토닌 무첨가
+  tip: "입면 곤란이 아니라 새벽에 깨는 경우를 겨냥합니다."
+  note: 하룻밤 가장 비싸고, Amazon에는 현재 판매 중인 오퍼가 없습니다.
+  url: https://www.iherb.com/pr/gaia-herbs-sleepthru-60-liquid-phyto-caps/38862?rcode=RZK388
+  links:
+    - store: iHerb
+      url: https://www.iherb.com/pr/gaia-herbs-sleepthru-60-liquid-phyto-caps/38862?rcode=RZK388

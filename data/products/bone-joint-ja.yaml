@@ -1,0 +1,188 @@
+# 骨と関節購入ガイドの日本語商品カードデータ。
+# product-grid ショートコードで描画：{{< product-grid data="bone-joint" item="N" >}}
+# 価格・評価・販売元・順位は 2026年11月15日に Amazon US と iHerb US で確認したもの。
+- name: Schiff Move Free Advanced, 120コーティング錠
+  badge: 総合ベスト
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sbf/sbf11868/l/108.jpg
+  stars: 5
+  rating: 4.5
+  meta:
+    - 120錠（40食分）
+    - Amazon で約$19.99（1食分あたり約$0.50）
+    - 3錠でグルコサミン1,500 mg＋MSM 1,500 mg
+  tip: "Amazon のコンドロイチン＆グルコサミン部門で4位。販売元は Amazon.com。"
+  note: 主流の多成分処方ですが、コンドロイチン200 mgは多くの研究で使われる800〜1,200 mgを下回ります。
+  url: https://www.amazon.com/dp/B001W2MBSE?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B001W2MBSE?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/schiff-move-free-joint-health-advanced-120-coated-tablets/9477?rcode=RZK388
+
+- name: Doctor's Best グルコサミン・コンドロイチン・MSM（OptiMSM配合）, 240ベジーカプセル
+  badge: 研究用量ベスト
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00081/l/121.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 240カプセル（60食分）
+    - Amazon で約$32.99（1食分あたり約$0.55）
+    - 4カプセルでグルコサミン1,500 mg＋コンドロイチン1,200 mg
+  tip: "Amazon のコンドロイチン＆グルコサミン部門で6位。iHerb の評価は95,607件で4.8。"
+  note: 主要な試験で使われた1日分のグルコサミンとコンドロイチン、さらにOptiMSM 1,000 mgを配合。甲殻類を含みます。
+  url: https://www.amazon.com/dp/B000I4DFAK?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B000I4DFAK?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/doctor-s-best-glucosamine-chondroitin-msm-with-optimsm-240-veggie-capsules/23?rcode=RZK388
+
+- name: Osteo Bi-Flex Triple Strength, 120コーティング錠
+  badge: 2錠タイプベスト
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/obf/obf03578/l/53.jpg
+  stars: 4
+  rating: 4.6
+  meta:
+    - 120錠（60食分）
+    - Amazon で約$20.69（1食分あたり約$0.34）
+    - 2錠でグルコサミン1,500 mg＋ボスウェリア100 mg
+  tip: "Amazon のコンドロイチン＆グルコサミン部門で2位。販売元は Amazon.com。"
+  note: Move Free より1日コストが低く錠数も少ない一方、コンドロイチンとMSMは1,103 mgのブレンドで個々の量は非表示です。
+  url: https://www.amazon.com/dp/B00006FE3S?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B00006FE3S?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/osteo-bi-flex-joint-health-triple-strength-120-coated-tablets/33142?rcode=RZK388
+
+- name: Nature's Way Joint Movement グルコサミン液体, ベリー味, 16 fl oz
+  badge: 液体タイプベスト
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/wls/wls39416/l/61.jpg
+  stars: 4
+  rating: 4.5
+  meta:
+    - 16 fl oz（大さじ2杯で16食分）
+    - Amazon で約$14.99（1食分あたり約$0.94）
+    - グルコサミン2,000 mg。甲殻類不使用の液体
+  tip: "Amazon のコンドロイチン＆グルコサミン部門で10位。飲み込む錠剤がありません。"
+  note: コンドロイチン1,200 mg、MSM 500 mg、ヒアルロン酸10 mg、D3 400 IUも配合。ボトルは16日分しかありません。
+  url: https://www.amazon.com/dp/B0013NB6LU?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0013NB6LU?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nature-s-way-joint-movement-glucosamine-berry-16-fl-oz-480-ml/39208?rcode=RZK388
+
+- name: Vital Proteins コラーゲンペプチド, 無香料, 20 oz（567 g）
+  badge: 高用量コラーゲンベスト
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00508/l/105.jpg
+  stars: 4
+  rating: 4.8
+  meta:
+    - 567 g（約28食分）
+    - iHerb で約$39.95（1食分あたり約$1.43）
+    - 1スクープでコラーゲン20 g＋タンパク質18 g
+  tip: "ここで最大のコラーゲン1食分。iHerb の39,113件で4.8の評価が支えています。"
+  note: スムージーやコーヒーに使えるシンプルなウシ由来コラーゲンパウダー。本ガイドで最も高い1日コストです。
+  url: https://www.iherb.com/pr/vital-proteins-collagen-peptides-unflavored-20-oz-567-g/71356?rcode=RZK388
+  links:
+    - store: iHerb
+      url: https://www.iherb.com/pr/vital-proteins-collagen-peptides-unflavored-20-oz-567-g/71356?rcode=RZK388
+
+- name: Sports Research コラーゲンペプチド, 無香料, 16 oz（454 g）
+  badge: 中用量コラーゲンベスト
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre01018/l/86.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 454 g（約41食分）
+    - Amazon で約$32.95（1食分あたり約$0.80）
+    - 1スクープで加水分解ウシコラーゲン11 g
+  tip: "Amazon のコラーゲンサプリ部門で4位、評価は129,641件。販売元は Sports Research。"
+  note: 5 gの維持用パウダーより1スクープあたりのコラーゲンが多く、20 gの Vital Proteins より1日コストが低い製品です。
+  url: https://www.amazon.com/dp/B00XQ2XGAA?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B00XQ2XGAA?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/sports-research-collagen-peptides-unflavored-16-oz-454-g/71106?rcode=RZK388
+
+- name: New Chapter Plant Calcium Bone Strength Take Care, 180ベジーンスリムタブレット
+  badge: 植物性カルシウムベスト
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr00421/l/163.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 180スリムタブレット（60食分）
+    - Amazon で約$48.88（1食分あたり約$0.81）
+    - 3錠で植物性カルシウム905 mg＋D3 1,000 IU
+  tip: "K1、K2、マグネシウムを配合したヴィーガン向け骨処方。Amazon の商品ページではカルシウム部門7位。"
+  note: グルテンフリー認証とヴィーガンですが発酵大豆を含みます。3錠は食事に分けて飲むのが合理的です。
+  url: https://www.amazon.com/dp/B00KTI9Q3U?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B00KTI9Q3U?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/new-chapter-plant-calcium-bone-strength-take-care-180-vegan-slim-tablets/70515?rcode=RZK388
+
+- name: Nature Made カルシウム600 mg（ビタミンD3配合）, 220錠
+  badge: コスパカルシウムベスト
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71-RsCUBgHL._AC_SY879_.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 220錠（用法により110〜220日分）
+    - Amazon で約$14.36（1錠あたり約$0.07から）
+    - 1錠あたりカルシウム600 mg。食事と一緒に
+  tip: "Amazon のカルシウムミネラルサプリ部門で4位。28,193件で4.7。"
+  note: ラベルは成人に1錠を1日1回または2回と指示しています。1日2錠なら1日コストは倍になります。
+  url: https://www.amazon.com/dp/B002FH5I0I?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B002FH5I0I?tag=ibetterlife-20
+
+- name: Sports Research D3 + K2, 60ベジーソフトジェル
+  badge: D3＋K2ベスト
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre01134/l/86.jpg
+  stars: 4
+  rating: 4.8
+  meta:
+    - 60ベジーソフトジェル（60食分）
+    - Amazon で約$23.95（1食分あたり約$0.40）
+    - 1粒でD3 5,000 IU＋MK-7 100 mcg
+  tip: "Amazon のビタミンD3＆K2複合部門で1位。販売元は Sports Research。"
+  note: リケン由来のヴィーガンD3とヒヨコマメ由来のMK-7、ココナッツMCTを使用。5,000 IUは成人の1日上限量を超えます。
+  url: https://www.amazon.com/dp/B07255MPRN?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B07255MPRN?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/sports-research-d3-k2-plant-based-125-mcg-100-mcg-60-veggie-softgels/79975?rcode=RZK388
+
+- name: NatureWise オーガニックターメリック・クルクミン, 180ベジーカプセル
+  badge: ターメリックベスト
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntw/ntw00611/l/59.jpg
+  stars: 4
+  rating: 4.6
+  meta:
+    - 180ベジーカプセル（60食分）
+    - Amazon で約$21.49（1食分あたり約$0.36）
+    - クルクミンブレンド2,250 mg＋BioPerine 15 mg
+  tip: "Amazon の61,003件で4.6。ショウガと黒コショウ抽出物を加えたオーガニックターメリック。"
+  note: 3カプセルの1食分に95%クルクミノイド抽出物500 mgを配合。1日3カプセルが代償です。
+  url: https://www.amazon.com/dp/B01BMDAVIY?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B01BMDAVIY?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/naturewise-organic-turmeric-curcumin-180-vegan-capsules/77858?rcode=RZK388

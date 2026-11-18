@@ -230,16 +230,18 @@ powershell -ExecutionPolicy Bypass -File .trae/skills/cps-article/assets/cover-t
 - Keep helper scripts ASCII-only; PowerShell 5.1 mis-decodes non-ASCII script text.
 - Never ship a guessed image URL. Check every URL returns 200 / `image/*` before committing.
 
-## 7. Verify, then ask before pushing
+## 7. Build, then ask before pushing
 
-1. `hugo --noBuildLock --gc --minify` — zero errors.
-2. Check `public/blog/<slug>/index.html` contains the card, the affiliate parameter
-   (`rcode=RZK388` or `tag=ibetterlife-20`) and every image.
-3. Open `http://localhost:1313/blog/<slug>/`: card renders, no broken image, left TOC and right
-   sidebar present.
-4. Show the user the title, the verdict and the price you used. **Ask for approval.**
+**Do not run page verification.** The user checks the rendered pages manually, so never start a
+local preview server, never open the page in a browser, and never take screenshots to confirm
+layout, tables, images or CTA styling. File-level checks and the build below are enough.
+
+1. `hugo --noBuildLock --gc --minify` — zero errors. This is a compile check, not a visual review.
+2. Check `public/blog/<slug>/index.html` contains the card and the affiliate parameter
+   (`rcode=RZK388` or `tag=ibetterlife-20`).
+3. Show the user the title, the verdict and the price you used. **Ask for approval.**
    Never `git commit` or `git push` without an explicit go-ahead.
-5. After approval: commit, push to `main`, wait for the Actions run, then confirm the live URL
+4. After approval: commit, push to `main`, wait for the Actions run, then confirm the live URL
    returns 200.
 
 ## Tables on mobile
@@ -284,11 +286,19 @@ Chinese: 禁用「堪称神器」「闭眼入」「宝藏好物」「YYDS」「�
 Japanese: 禁用「神アイテム」「買って損なし」「〜ではないでしょうか」「〜と言えるでしょう」
 「さあ、見ていきましょう」「ぜひチェックしてみてください」「〜を徹底解説」。
 
-Korean: 禁用「갓템」「무조건 사세요」「~해 보시는 건 어떨까요?」「지금부터 알아보겠습니다」
-「~라고 할 수 있습니다」「놓치지 마세요」「꼭 확인해 보세요」。
+Korean: 禁用「갓템」「무조건 사세요」「~해 보시는 건 어떨까요?」「지금부터 알아보겠습니다」「~라고 할 수 있습니다」「놓치지 마세요」「꼭 확인해 보세요」。
 
 Before publishing, grep the draft for the banned list and confirm the intro names a real number
 (dose, price per serving, count) in the first two sentences.
+
+### Do not prove your own honesty
+
+Never explain how carefully the listing, seller or size was checked. Lines like "rather than
+copying a search result", "no button points to a look-alike bottle", or "we verified the seller,
+formula and size" read as AI self-defence, not as a review. State what the label says and what the
+price works out to. Mention sourcing only when it changes the decision ("the iHerb listing is a
+different 130-tablet product, so this one is Amazon-only"), and put it in that product's own
+section rather than a preamble.
 
 ## Compliance
 

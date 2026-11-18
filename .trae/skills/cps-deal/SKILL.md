@@ -181,18 +181,20 @@ powershell -ExecutionPolicy Bypass -File .trae/skills/cps-deal/assets/deal-thumb
 - Keep helper scripts ASCII-only; PowerShell 5.1 mis-decodes non-ASCII scripts.
 - Reference page images with page paths, e.g. `/deals/<slug>/card.jpg`.
 
-## 6. Verify, then ask before pushing
+## 6. Build, then ask before pushing
 
-1. `hugo --noBuildLock --gc --minify`.
+**Do not run page verification.** The user checks the rendered pages manually, so never start a
+local preview server, never open the page in a browser, and never take screenshots to confirm
+layout, promo cards, grids or image loading. File-level checks and the build below are enough.
+
+1. `hugo --noBuildLock --gc --minify` — this is a compile check, not a visual review.
 2. Confirm `public/deals/<slug>/index.html` contains the code, all 6 pick images and every
    `rcode=RZK388` / `tag=ibetterlife-20`; confirm `public/deals/index.html` shows the post as a
    row card.
-3. Open `http://localhost:1313/deals/` (one row card, orange pill) and
-   `http://localhost:1313/deals/<slug>/` (promo card + 3-column grid of 6, no broken images).
-4. Show the user what changed and **ask for approval**. Never `git commit` or `git push`
+3. Show the user what changed and **ask for approval**. Never `git commit` or `git push`
    without an explicit go-ahead.
-5. After approval: commit, push to `main`, wait for the Actions run, then confirm the live URLs
-   return 200 and the images load.
+4. After approval: commit, push to `main`, wait for the Actions run, then confirm the live URLs
+   return 200.
 
 ## Tables on mobile
 

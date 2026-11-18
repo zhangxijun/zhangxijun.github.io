@@ -63,7 +63,25 @@ fishy aftertaste, smallest pill, best seller. Do not repeat the same angle twice
 
 Selection criteria must cover, where the data allows: **sales heat** (review counts as the only
 public proxy), **star rating**, **who it suits**, and **price per serving**. Say which criteria you
-used in the intro and again in `## How we picked`.
+used, but in a blogger's voice: one short line in the intro and 3-4 plain bullets in
+`## How we picked`. Never turn that section into a methods audit — see the editorial voice rules
+below.
+
+For bone, joint and other supplement lists, cross-check the shortlist against the relevant
+**Amazon US Best Sellers** category before finalizing the picks. For joint articles use
+`Bone & Joint Supplements` and/or `Chondroitin & Glucosamine Combination Nutritional
+Supplements`; for other topics use the closest matching Amazon category. Use the ranking to spot
+mainstream sellers that an iHerb-only search would miss, then verify each product's live link,
+seller, dose, price and image independently. If the Amazon page is unreachable, say so and use a
+verified bestseller from the retailer's own ranking instead; never invent an Amazon rank.
+
+**iHerb house brands are limited to one pick each per article.** California Gold Nutrition and
+21st Century may each appear at most once, and the rest of the list must be filled with distinct
+mainstream brands. Do not use several sizes or formulas from the same house brand to fill the
+list. A category-leading product can stay as that brand's single pick; drop the other sizes or
+related blends even when their review counts are high. For joint guides, always evaluate Schiff
+Move Free for inclusion, and consider New Chapter Bone Strength Take Care for the bone-health
+slot, before falling back to a house-brand alternative.
 
 Required sections, in order:
 
@@ -243,16 +261,20 @@ Use the retailer's own product photo, not an illustration, whenever a URL can be
 
 If no verified photo exists, fall back to a drawn illustration and say so in the change summary.
 
-## 7. Verify, then ask before pushing
+## 7. Build, then ask before pushing
 
-1. Build: `hugo --noBuildLock --gc --minify`.
-2. Confirm the new page exists in `public/blog/<slug>/index.html`, references the featured image,
-   and contains both affiliate parameters.
-3. Preview locally with `pnpm.cmd dev` and check the table, images, and CTA links.
-4. Stop here. Show the user what changed and ask for approval. Do not run `git commit` or
+**Do not run page verification.** The user checks the rendered pages manually, so never start a
+local preview server, never open the page in a browser, and never take screenshots to confirm
+layout, tables, images or CTA styling. File-level checks and the build below are enough.
+
+1. Build: `hugo --noBuildLock --gc --minify` — this is a compile check for Markdown and shortcode
+   errors, not a visual review.
+2. Confirm the new page exists in `public/blog/<slug>/index.html` and contains both affiliate
+   parameters.
+3. Stop here. Show the user what changed and ask for approval. Do not run `git commit` or
    `git push` until the user explicitly confirms.
-5. Only after approval: commit, push to `main`, wait for the Actions run to finish, then confirm
-   `https://ibetterlife.com/blog/<slug>/` returns 200 and images load.
+4. Only after approval: commit, push to `main`, wait for the Actions run to finish, then confirm
+   `https://ibetterlife.com/blog/<slug>/` returns 200.
 
 ## Editorial voice: no AI voice
 
@@ -293,6 +315,27 @@ Korean: 禁用「~해 보시는 건 어떨까요?」「지금부터 알아보겠
 
 Before publishing, scan the draft for the phrases above (`grep` the banned list) and check that the
 first paragraph contains at least one number or one concrete product fact.
+
+### Do not prove your own honesty
+
+Lines that explain how carefully you checked something read exactly like an AI defending its
+homework. Delete them:
+
+- "rather than copying a search result"
+- "each card pairs one verified listing with the size and formula it shows, so no button points to
+  a look-alike bottle"
+- "we verified the seller, formula, size, dose, price and image on each product page"
+- "sellers, ranks, ratings and prices were checked November 15, 2026 and can change" as a
+  paragraph under a table
+
+A reviewer states the finding and the number. Sourcing detail earns its place only when it changes
+the buying decision: "the iHerb listing is a different 130-tablet product, so this pick is
+Amazon-only" belongs in that product's section, not in a preamble. If a process sentence does not
+help the reader choose, cut it. One short footnote is enough when a table number would otherwise
+mislead — not a paragraph about how the numbers were gathered.
+
+Open with the buyer's problem and a concrete fact, the way a good blogger does: the number printed
+on every bottle, the dose that differs, the price gap. Never open with the method.
 
 ## Tables on mobile
 

@@ -1,0 +1,184 @@
+# 肠道健康选购指南商品卡片（中文）。
+# 由 product-grid 短代码渲染：{{< product-grid data="gut-health" item="N" >}}
+# 价格、评分、卖家和排名于2026年11月18日在 Amazon 美国站与 iHerb 美国站核对。
+- name: Physician's Choice 益生菌600亿 CFU，30粒胶囊
+  badge: 综合最佳
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/phc/phc00851/l/68.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 30粒胶囊（30份）
+    - Amazon 约$24.97（每份约$0.83）
+    - 600亿 CFU，10种菌株，150毫克益生元
+  tip: "Amazon 嗜酸乳杆菌类目第1，146,339条评分。"
+  note: 本文活菌数最高的一款，每日成本处于中等区间；每天一粒。
+  url: https://www.amazon.com/dp/B079H53D2B?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B079H53D2B?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/physician-s-choice-60-billion-probiotic-30-capsules/114972?rcode=RZK388
+
+- name: Culturelle Digestive Daily 益生菌，100亿 CFU，30粒素食胶囊
+  badge: 最佳主流单一菌株
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ctl/ctl40009/l/103.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 30粒胶囊（30份）
+    - Amazon 约$17.47（每份约$0.58）
+    - 100亿 CFU LGG + 200毫克菊粉
+  tip: "可常温保存，由 Amazon.com 销售，10,470条评分、4.7星。"
+  note: 一种研究充分的菌株，而不是宽谱复方，也无需冷藏。
+  url: https://www.amazon.com/dp/B0025ASIRK?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0025ASIRK?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/culturelle-probiotics-digestive-daily-probiotic-30-vegetarian-capsules/56049?rcode=RZK388
+
+- name: Align Probiotic 24/7 消化支持益生菌，28粒胶囊
+  badge: 最佳肠易激选择
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/agn/agn14343/l/43.jpg
+  stars: 4
+  rating: 4.5
+  meta:
+    - 28粒胶囊（28份）
+    - Amazon 约$26.99（每份约$0.96）
+    - 长双歧杆菌 35624，10亿 CFU
+  tip: "多数肠易激益生菌试验所用的菌株；无需冷藏。"
+  note: 只有10亿 CFU，却是本文最贵的每份成本——你付钱买的是那一种特定菌株。
+  url: https://www.amazon.com/dp/B002OTXCFA?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B002OTXCFA?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/align-probiotics-24-7-digestive-support-probiotic-supplement-28-capsules/83453?rcode=RZK388
+
+- name: Renew Life Extra Care 益生菌，300亿 CFU，30粒胶囊
+  badge: 最佳12菌株复方
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ren/ren15862/l/70.jpg
+  stars: 4
+  rating: 4.4
+  meta:
+    - 30粒迟释胶囊（30份）
+    - Amazon 约$23.83（每份约$0.79）
+    - 300亿 CFU，12种菌株
+  tip: "Amazon 嗜酸乳杆菌类目第408；可常温保存。"
+  note: 双歧杆菌占比较高的复方；它的 Amazon 4.4星平均分是本文益生菌中最低的。
+  url: https://www.amazon.com/dp/B00I5RH224?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B00I5RH224?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/renew-life-extra-care-ultimate-flora-probiotic-30-billion-cfu-30-delayed-release-vegan-capsules/107775?rcode=RZK388
+
+- name: Jarrow Formulas Jarro-Dophilus EPS，120粒素食胶囊
+  badge: 最佳八菌株胶囊
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/jrw/jrw03024/l/145.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 120粒胶囊（60份）
+    - Amazon 约$34—35（每份约$0.59）
+    - 每2粒100亿 CFU，8种菌株
+  tip: "iHerb 有19,897条评分；肠溶胶囊。"
+  note: 每份两粒；Amazon 购买框在 Amazon.com 与第三方卖家之间切换，价格会浮动一两美元。
+  url: https://www.amazon.com/dp/B0043ERL4C?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0043ERL4C?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/jarrow-formulas-jarro-dophilus-eps-120-veggie-caps-5-billion-cfu-per-capsule/7006?rcode=RZK388
+
+- name: California Gold Nutrition LactoBif 30 益生菌，60粒素食胶囊
+  badge: 最划算
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00965/l/302.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 60粒胶囊（60份）
+    - iHerb 约$21.95（每份约$0.37）
+    - 300亿 CFU，8种菌株
+  tip: "173,013条 iHerb 评分；单粒泡罩包装。"
+  note: 本文最便宜的每份成本；只在 iHerb 有售，因为 Amazon 目前没有报价。
+  url: https://www.iherb.com/pr/california-gold-nutrition-lactobif-30-probiotics-60-veggie-capsules/64009?rcode=RZK388
+  links:
+    - store: iHerb
+      url: https://www.iherb.com/pr/california-gold-nutrition-lactobif-30-probiotics-60-veggie-capsules/64009?rcode=RZK388
+
+- name: Garden of Life Dr. Formulated 益生菌 Once Daily 300亿，30粒素食胶囊
+  badge: 最佳有机配方
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol11827/l/23.jpg
+  stars: 4
+  rating: 4.9
+  meta:
+    - 30粒胶囊（30份）
+    - iHerb 约$27.55（每份约$0.92）
+    - 300亿 CFU，14种菌株
+  tip: "iHerb 4.9星，但只有84条评分，样本较小。"
+  note: 有机、非转基因，需要阴凉保存，也是本文评价样本最薄的一款。
+  url: https://www.iherb.com/pr/garden-of-life-dr-formulated-probiotics-once-daily-30-vegetarian-capsules/64433?rcode=RZK388
+  links:
+    - store: iHerb
+      url: https://www.iherb.com/pr/garden-of-life-dr-formulated-probiotics-once-daily-30-vegetarian-capsules/64433?rcode=RZK388
+
+- name: Enzymedica Digest Basic，90粒胶囊
+  badge: 最佳消化酶
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/enz/enz29010/l/72.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 90粒胶囊（90份）
+    - Amazon 约$16.49（每份约$0.18）
+    - Thera-blend 复合酶，每餐1粒
+  tip: "Amazon 复合酶类目第39；iHerb 59,200条评分、4.8星。"
+  note: 用于油腻厚重的一餐，不能替代益生菌。
+  url: https://www.amazon.com/dp/B001W44AV8?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B001W44AV8?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/enzymedica-digest-basic-90-capsules/16583?rcode=RZK388
+
+- name: Benefiber Original 益生元纤维粉，17.6盎司
+  badge: 最佳可溶性纤维
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71fWSREGtzL._AC_SX522_.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 17.6盎司（125份）
+    - Amazon 约$22.98（每份约$0.18）
+    - 每2茶匙3克纤维
+  tip: "Amazon 膳食纤维类目第7；溶解后没有颗粒感。"
+  note: 没有味道也没有口感的小麦糊精；仅 Amazon 有售。
+  url: https://www.amazon.com/dp/B00CX3ASFE?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B00CX3ASFE?tag=ibetterlife-20
+
+- name: Metamucil 4-in-1 车前子纤维，无糖橙味，180份
+  badge: 最佳车前子
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71vDfMFDQqL._AC_SX522_.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 180份（36.8盎司）
+    - Amazon 约$34.99（每份约$0.19）
+    - 每份2.4克可溶性纤维
+  tip: "Amazon 膳食纤维类目第1，36,057条评分。"
+  note: 很快变稠，需要一整杯水；橙味版本是加甜的。
+  url: https://www.amazon.com/dp/B003CT2YQY?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B003CT2YQY?tag=ibetterlife-20

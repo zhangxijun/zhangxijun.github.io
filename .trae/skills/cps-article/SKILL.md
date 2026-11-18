@@ -16,6 +16,31 @@ Follow the steps in order. Do not skip the image and build checks.
 - Amazon Associates tag `ibetterlife-20`, iHerb referral code `RZK388`.
 - Brand palette: emerald `#059669`, deep green `#064E3B`, mint `#ECFDF5`.
 
+## Propose the picks before writing
+
+When the user gives a topic, do not write the post. Research first, then reply with the
+**10-product shortlist only** — no article body, no graphics, no data files, no translations.
+
+For each pick, give one compact line or table row with:
+
+- the position and the angle it fills (best overall, best value, best two-tablet, best liquid,
+  best collagen, best plant calcium, ...)
+- brand, product name and size
+- store, current price and cost per serving
+- the dose facts that decide the pick (glucosamine and chondroitin mg, collagen g, calcium mg
+  with D3, etc.)
+- star rating and review count
+- which retailers have a verified listing for that exact size
+
+Add a short list of what you left out and why — a second size from the same house brand, a product
+only sold by an unverified third-party seller, a pick that repeats an angle already covered.
+
+Then stop and ask for approval. Wait for the user's confirmation, and fold every edit they ask for
+into the shortlist before drafting. Only after the list is approved do you start at step 1 and
+create `index.md`, the product YAML, the graphics and the translations.
+
+A single-product review skips this step, because the user already named the product.
+
 ## 1. Front matter
 
 ```yaml

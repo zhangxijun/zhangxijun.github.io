@@ -1,0 +1,184 @@
+# Gut health buying-guide product cards (English).
+# Rendered by {{< product-grid data="gut-health" item="N" >}}
+# Prices, ratings, sellers and ranks were checked on Amazon US and iHerb US on 2026-11-18.
+- name: Physician's Choice Probiotics 60 Billion CFU, 30 Capsules
+  badge: Best overall
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/phc/phc00851/l/68.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 30 capsules (30 servings)
+    - ~$24.97 on Amazon (about $0.83 per serving)
+    - 60 billion CFU, 10 strains, 150 mg prebiotic
+  tip: "#1 in Amazon's Acidophilus category with 146,339 ratings."
+  note: The highest CFU count here at a mid-range daily cost; one capsule a day.
+  url: https://www.amazon.com/dp/B079H53D2B?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B079H53D2B?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/physician-s-choice-60-billion-probiotic-30-capsules/114972?rcode=RZK388
+
+- name: Culturelle Digestive Daily Probiotic, 10 Billion CFU, 30 Vegetarian Capsules
+  badge: Best mainstream single strain
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ctl/ctl40009/l/103.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 30 capsules (30 servings)
+    - ~$17.47 on Amazon (about $0.58 per serving)
+    - 10 billion CFU LGG + 200 mg inulin
+  tip: "Shelf-stable, sold by Amazon.com, 10,470 ratings at 4.7."
+  note: One well-studied strain instead of a broad blend, and no refrigeration needed.
+  url: https://www.amazon.com/dp/B0025ASIRK?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0025ASIRK?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/culturelle-probiotics-digestive-daily-probiotic-30-vegetarian-capsules/56049?rcode=RZK388
+
+- name: Align Probiotic 24/7 Digestive Support, 28 Capsules
+  badge: Best for IBS
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/agn/agn14343/l/43.jpg
+  stars: 4
+  rating: 4.5
+  meta:
+    - 28 capsules (28 servings)
+    - ~$26.99 on Amazon (about $0.96 per serving)
+    - B. longum 35624, 1 billion CFU
+  tip: "The strain used in most IBS probiotic trials; no refrigeration."
+  note: Only 1 billion CFU and the priciest serving here — you are paying for one specific strain.
+  url: https://www.amazon.com/dp/B002OTXCFA?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B002OTXCFA?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/align-probiotics-24-7-digestive-support-probiotic-supplement-28-capsules/83453?rcode=RZK388
+
+- name: Renew Life Extra Care Probiotic, 30 Billion CFU, 30 Capsules
+  badge: Best 12-strain blend
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ren/ren15862/l/70.jpg
+  stars: 4
+  rating: 4.4
+  meta:
+    - 30 delayed-release capsules (30 servings)
+    - ~$23.83 on Amazon (about $0.79 per serving)
+    - 30 billion CFU, 12 strains
+  tip: "#408 in Amazon's Acidophilus category; shelf-stable."
+  note: Bifido-heavy blend; its 4.4-star Amazon average is the lowest among the probiotics here.
+  url: https://www.amazon.com/dp/B00I5RH224?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B00I5RH224?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/renew-life-extra-care-ultimate-flora-probiotic-30-billion-cfu-30-delayed-release-vegan-capsules/107775?rcode=RZK388
+
+- name: Jarrow Formulas Jarro-Dophilus EPS, 120 Veggie Caps
+  badge: Best 8-strain capsule
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/jrw/jrw03024/l/145.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 120 capsules (60 servings)
+    - ~$34-35 on Amazon (about $0.59 per serving)
+    - 10 billion CFU per 2 capsules, 8 strains
+  tip: "19,897 iHerb ratings; enteric-coated capsules."
+  note: Two capsules per serving; Amazon's buy box moves between Amazon.com and a third-party seller, so the price shifts by a dollar or two.
+  url: https://www.amazon.com/dp/B0043ERL4C?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0043ERL4C?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/jarrow-formulas-jarro-dophilus-eps-120-veggie-caps-5-billion-cfu-per-capsule/7006?rcode=RZK388
+
+- name: California Gold Nutrition LactoBif 30 Probiotics, 60 Veggie Capsules
+  badge: Best value
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00965/l/302.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 60 capsules (60 servings)
+    - ~$21.95 on iHerb (about $0.37 per serving)
+    - 30 billion CFU, 8 strains
+  tip: "173,013 iHerb ratings; individually blister-packed."
+  note: The cheapest serving here; iHerb only, because Amazon has no current offer.
+  url: https://www.iherb.com/pr/california-gold-nutrition-lactobif-30-probiotics-60-veggie-capsules/64009?rcode=RZK388
+  links:
+    - store: iHerb
+      url: https://www.iherb.com/pr/california-gold-nutrition-lactobif-30-probiotics-60-veggie-capsules/64009?rcode=RZK388
+
+- name: Garden of Life Dr. Formulated Probiotics Once Daily 30 Billion, 30 Veggie Caps
+  badge: Best organic formula
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol11827/l/23.jpg
+  stars: 4
+  rating: 4.9
+  meta:
+    - 30 capsules (30 servings)
+    - ~$27.55 on iHerb (about $0.92 per serving)
+    - 30 billion CFU, 14 strains
+  tip: "4.9 stars on iHerb, but from a smaller base of 84 ratings."
+  note: Organic and non-GMO, needs cool storage, and has the thinnest review sample here.
+  url: https://www.iherb.com/pr/garden-of-life-dr-formulated-probiotics-once-daily-30-vegetarian-capsules/64433?rcode=RZK388
+  links:
+    - store: iHerb
+      url: https://www.iherb.com/pr/garden-of-life-dr-formulated-probiotics-once-daily-30-vegetarian-capsules/64433?rcode=RZK388
+
+- name: Enzymedica Digest Basic, 90 Capsules
+  badge: Best digestive enzyme
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/enz/enz29010/l/72.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 90 capsules (90 servings)
+    - ~$16.49 on Amazon (about $0.18 per serving)
+    - Thera-blend enzymes, 1 capsule with each meal
+  tip: "#39 in Amazon's Multi-Enzyme category; 59,200 iHerb ratings at 4.8."
+  note: For heavy or fatty meals, not a replacement for a probiotic.
+  url: https://www.amazon.com/dp/B001W44AV8?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B001W44AV8?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/enzymedica-digest-basic-90-capsules/16583?rcode=RZK388
+
+- name: Benefiber Original Prebiotic Fiber Powder, 17.6 oz
+  badge: Best soluble fiber
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71fWSREGtzL._AC_SX522_.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 17.6 oz (125 servings)
+    - ~$22.98 on Amazon (about $0.18 per serving)
+    - 3 g fiber per 2 teaspoons
+  tip: "#7 in Amazon's Dietary Fiber category; dissolves without grit."
+  note: Wheat dextrin with no taste or texture; Amazon only.
+  url: https://www.amazon.com/dp/B00CX3ASFE?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B00CX3ASFE?tag=ibetterlife-20
+
+- name: Metamucil 4-in-1 Psyllium Fiber, Sugar-Free Orange, 180 Servings
+  badge: Best psyllium
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71vDfMFDQqL._AC_SX522_.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 180 servings (36.8 oz)
+    - ~$34.99 on Amazon (about $0.19 per serving)
+    - 2.4 g soluble fiber per serving
+  tip: "#1 in Amazon's Dietary Fiber category with 36,057 ratings."
+  note: Thickens fast and needs a full glass of water; the orange version is sweetened.
+  url: https://www.amazon.com/dp/B003CT2YQY?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B003CT2YQY?tag=ibetterlife-20

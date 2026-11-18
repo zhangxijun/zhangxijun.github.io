@@ -1,0 +1,184 @@
+# 腸内環境購入ガイドの日本語商品カードデータ。
+# product-grid ショートコードで描画：{{< product-grid data="gut-health" item="N" >}}
+# 価格・評価・販売元・順位は 2026年11月18日に Amazon US と iHerb US で確認したもの。
+- name: Physician's Choice プロバイオティクス 600億CFU, 30カプセル
+  badge: 総合ベスト
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/phc/phc00851/l/68.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 30カプセル（30食分）
+    - Amazon で約$24.97（1食分あたり約$0.83）
+    - 600億CFU、10菌株、プレバイオティクス150 mg
+  tip: "Amazon のアシドフィルス部門で1位、評価は146,339件。"
+  note: ここで最も多いCFU数で、1日コストは中位。1日1カプセルで済みます。
+  url: https://www.amazon.com/dp/B079H53D2B?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B079H53D2B?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/physician-s-choice-60-billion-probiotic-30-capsules/114972?rcode=RZK388
+
+- name: Culturelle ダイジェスティブ・デイリー・プロバイオティクス 100億CFU, 30ベジタリアンカプセル
+  badge: 主流の単一菌株ベスト
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ctl/ctl40009/l/103.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 30カプセル（30食分）
+    - Amazon で約$17.47（1食分あたり約$0.58）
+    - 100億CFUのLGG＋イヌリン200 mg
+  tip: "常温保存でき、販売元は Amazon.com。10,470件で4.7。"
+  note: 幅広いブレンドではなく、よく研究された1菌株。冷蔵は不要です。
+  url: https://www.amazon.com/dp/B0025ASIRK?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0025ASIRK?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/culturelle-probiotics-digestive-daily-probiotic-30-vegetarian-capsules/56049?rcode=RZK388
+
+- name: Align プロバイオティクス 24/7 ダイジェスティブ・サポート, 28カプセル
+  badge: IBSベスト
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/agn/agn14343/l/43.jpg
+  stars: 4
+  rating: 4.5
+  meta:
+    - 28カプセル（28食分）
+    - Amazon で約$26.99（1食分あたり約$0.96）
+    - B. longum 35624、10億CFU
+  tip: "IBSのプロバイオティクス試験で最も使われた菌株。冷蔵不要。"
+  note: CFUは10億だけで、ここで最も高い1食分コスト。特定の1菌株に払う製品です。
+  url: https://www.amazon.com/dp/B002OTXCFA?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B002OTXCFA?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/align-probiotics-24-7-digestive-support-probiotic-supplement-28-capsules/83453?rcode=RZK388
+
+- name: Renew Life エクストラケア・プロバイオティクス 300億CFU, 30カプセル
+  badge: 12菌株ブレンドベスト
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ren/ren15862/l/70.jpg
+  stars: 4
+  rating: 4.4
+  meta:
+    - 30遅延放出カプセル（30食分）
+    - Amazon で約$23.83（1食分あたり約$0.79）
+    - 300億CFU、12菌株
+  tip: "Amazon のアシドフィルス部門で408位。常温保存できます。"
+  note: ビフィズス菌寄りのブレンド。Amazon の4.4つ星はここで最も低い平均です。
+  url: https://www.amazon.com/dp/B00I5RH224?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B00I5RH224?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/renew-life-extra-care-ultimate-flora-probiotic-30-billion-cfu-30-delayed-release-vegan-capsules/107775?rcode=RZK388
+
+- name: Jarrow Formulas Jarro-Dophilus EPS, 120ベジーカプセル
+  badge: 8菌株カプセルベスト
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/jrw/jrw03024/l/145.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 120カプセル（60食分）
+    - Amazon で約$34〜35（1食分あたり約$0.59）
+    - 2カプセルで100億CFU、8菌株
+  tip: "iHerb の評価は19,897件。腸溶性カプセル。"
+  note: 1食分は2カプセル。Amazon のカート価格は Amazon.com と第三者の販売者の間で動くため、1〜2ドル変わります。
+  url: https://www.amazon.com/dp/B0043ERL4C?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0043ERL4C?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/jarrow-formulas-jarro-dophilus-eps-120-veggie-caps-5-billion-cfu-per-capsule/7006?rcode=RZK388
+
+- name: California Gold Nutrition LactoBif 30 プロバイオティクス, 60ベジーカプセル
+  badge: コスパベスト
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00965/l/302.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 60カプセル（60食分）
+    - iHerb で約$21.95（1食分あたり約$0.37）
+    - 300億CFU、8菌株
+  tip: "iHerb の評価は173,013件。1粒ずつブリスターパック入り。"
+  note: ここで最も安い1食分。Amazon に現在の販売がないため iHerb のみです。
+  url: https://www.iherb.com/pr/california-gold-nutrition-lactobif-30-probiotics-60-veggie-capsules/64009?rcode=RZK388
+  links:
+    - store: iHerb
+      url: https://www.iherb.com/pr/california-gold-nutrition-lactobif-30-probiotics-60-veggie-capsules/64009?rcode=RZK388
+
+- name: Garden of Life Dr. Formulated プロバイオティクス ワンスデイリー 300億CFU, 30ベジーカプセル
+  badge: オーガニック処方ベスト
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol11827/l/23.jpg
+  stars: 4
+  rating: 4.9
+  meta:
+    - 30カプセル（30食分）
+    - iHerb で約$27.55（1食分あたり約$0.92）
+    - 300億CFU、14菌株
+  tip: "iHerb で4.9つ星ですが、評価は84件と少なめです。"
+  note: オーガニックで非遺伝子組み換え。冷涼な保存が必要で、レビュー数はここで最も少ない製品です。
+  url: https://www.iherb.com/pr/garden-of-life-dr-formulated-probiotics-once-daily-30-vegetarian-capsules/64433?rcode=RZK388
+  links:
+    - store: iHerb
+      url: https://www.iherb.com/pr/garden-of-life-dr-formulated-probiotics-once-daily-30-vegetarian-capsules/64433?rcode=RZK388
+
+- name: Enzymedica Digest Basic, 90カプセル
+  badge: 消化酵素ベスト
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/enz/enz29010/l/72.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 90カプセル（90食分）
+    - Amazon で約$16.49（1食分あたり約$0.18）
+    - Thera-blend 酵素、食事ごとに1カプセル
+  tip: "Amazon のマルチ酵素部門で39位。iHerb の59,200件で4.8。"
+  note: 重い食事や脂っこい食事のためで、プロバイオティクスの代わりではありません。
+  url: https://www.amazon.com/dp/B001W44AV8?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B001W44AV8?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/enzymedica-digest-basic-90-capsules/16583?rcode=RZK388
+
+- name: Benefiber オリジナル プレバイオティクス食物繊維パウダー, 17.6 oz
+  badge: 水溶性食物繊維ベスト
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71fWSREGtzL._AC_SX522_.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 17.6 oz（125食分）
+    - Amazon で約$22.98（1食分あたり約$0.18）
+    - 小さじ2杯で食物繊維3 g
+  tip: "Amazon の食物繊維部門で7位。ざらつかずに溶けます。"
+  note: 味も食感もない小麦デキストリン。Amazon のみです。
+  url: https://www.amazon.com/dp/B00CX3ASFE?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B00CX3ASFE?tag=ibetterlife-20
+
+- name: Metamucil 4-in-1 サイリウム食物繊維, 無糖オレンジ味, 180食分
+  badge: サイリウムベスト
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71vDfMFDQqL._AC_SX522_.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 180食分（36.8 oz）
+    - Amazon で約$34.99（1食分あたり約$0.19）
+    - 1食分あたり水溶性食物繊維2.4 g
+  tip: "Amazon の食物繊維部門で1位、評価は36,057件。"
+  note: すぐに濃くなり、コップ1杯の水が必要。オレンジ味には甘味料が入っています。
+  url: https://www.amazon.com/dp/B003CT2YQY?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B003CT2YQY?tag=ibetterlife-20

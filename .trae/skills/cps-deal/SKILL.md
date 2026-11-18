@@ -30,6 +30,19 @@ products. For 8-10 product comparisons use the `cps-article` skill instead.
 - Graphics helpers: `.trae/skills/cps-deal/assets/` (`deal-thumb.ps1`, `deal-header.ps1`,
   `new-deal.ps1`).
 
+## Propose the six picks before writing
+
+When the user names a promotion, do not write the post yet. Research the sale and reply with the
+**6-product shortlist only** — no article body, no promo card, no graphics.
+
+For each pick, give the product name and size, the store price, the discounted price you calculated
+and the discount assumption you used, plus one line on why it fits this promotion. Note anything
+you dropped and why, such as a listing that is not part of the sale or a product already used in a
+recent deal post.
+
+Then stop and ask for approval. Apply every change the user asks for to the shortlist, and only
+start scaffolding the post after the picks are confirmed.
+
 ## 0. Scaffold the post
 
 Do not hand-copy the last post. Run the generator:

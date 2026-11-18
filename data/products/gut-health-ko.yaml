@@ -1,0 +1,184 @@
+# 장 건강 구매 가이드의 한국어 상품 카드 데이터.
+# product-grid 숏코드로 렌더링: {{< product-grid data="gut-health" item="N" >}}
+# stars = 편집자 점수(1-5), rating = 상품 페이지에 표시되는 스토어 평가. 가격·평점·판매처·순위는 2026-11-18에 Amazon 미국과 iHerb 미국에서 확인했습니다.
+- name: Physician's Choice 프로바이오틱스 600억 CFU, 30캡슐
+  badge: 종합 최고
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/phc/phc00851/l/68.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 30캡슐(30회분)
+    - Amazon에서 ~$24.97(1회분당 약 $0.83)
+    - 600억 CFU, 10종 균주, 프리바이오틱스 150mg
+  tip: "Amazon Acidophilus 카테고리 1위, 평가 146,339건."
+  note: 이 가이드에서 가장 높은 CFU를 중간대 하루 비용에 담았고, 하루 한 캡슐이면 됩니다.
+  url: https://www.amazon.com/dp/B079H53D2B?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B079H53D2B?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/physician-s-choice-60-billion-probiotic-30-capsules/114972?rcode=RZK388
+
+- name: Culturelle 다이제스티브 데일리 프로바이오틱스, 100억 CFU, 베지 캡슐 30정
+  badge: 주류 단일 균주 최고
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ctl/ctl40009/l/103.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 30캡슐(30회분)
+    - Amazon에서 ~$17.47(1회분당 약 $0.58)
+    - LGG 100억 CFU + 이눌린 200mg
+  tip: "상온 보관, Amazon.com 직접 판매, 평가 10,470건 평균 4.7."
+  note: 넓은 블렌드 대신 연구가 잘 된 균주 하나를 담았고, 냉장이 필요 없습니다.
+  url: https://www.amazon.com/dp/B0025ASIRK?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0025ASIRK?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/culturelle-probiotics-digestive-daily-probiotic-30-vegetarian-capsules/56049?rcode=RZK388
+
+- name: Align 프로바이오틱 24/7 다이제스티브 서포트, 28캡슐
+  badge: 과민성대장증후군 최고
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/agn/agn14343/l/43.jpg
+  stars: 4
+  rating: 4.5
+  meta:
+    - 28캡슐(28회분)
+    - Amazon에서 ~$26.99(1회분당 약 $0.96)
+    - B. longum 35624, 10억 CFU
+  tip: "대부분의 과민성대장증후군 프로바이오틱스 임상에 쓰인 균주, 냉장 불필요."
+  note: 10억 CFU뿐이고 이 가이드에서 1회분이 가장 비쌉니다. 특정 균주 하나에 돈을 내는 셈입니다.
+  url: https://www.amazon.com/dp/B002OTXCFA?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B002OTXCFA?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/align-probiotics-24-7-digestive-support-probiotic-supplement-28-capsules/83453?rcode=RZK388
+
+- name: Renew Life 엑스트라 케어 프로바이오틱스, 300억 CFU, 30캡슐
+  badge: 12종 균주 블렌드 최고
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ren/ren15862/l/70.jpg
+  stars: 4
+  rating: 4.4
+  meta:
+    - 장용성 캡슐 30정(30회분)
+    - Amazon에서 ~$23.83(1회분당 약 $0.79)
+    - 300억 CFU, 12종 균주
+  tip: "Amazon Acidophilus 카테고리 408위, 상온 보관."
+  note: 비피도 비중이 높은 블렌드이고, Amazon 4.4점은 이 가이드 프로바이오틱스 가운데 가장 낮은 평균입니다.
+  url: https://www.amazon.com/dp/B00I5RH224?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B00I5RH224?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/renew-life-extra-care-ultimate-flora-probiotic-30-billion-cfu-30-delayed-release-vegan-capsules/107775?rcode=RZK388
+
+- name: Jarrow Formulas Jarro-Dophilus EPS, 베지 캡슐 120정
+  badge: 8종 균주 캡슐 최고
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/jrw/jrw03024/l/145.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 120캡슐(60회분)
+    - Amazon에서 ~$34-35(1회분당 약 $0.59)
+    - 2캡슐당 100억 CFU, 8종 균주
+  tip: "iHerb 평가 19,897건, 장용성 코팅 캡슐."
+  note: 1회분이 두 캡슐이고, Amazon 구매 박스가 Amazon.com과 제3자 판매자를 오가므로 가격이 1~2달러 움직입니다.
+  url: https://www.amazon.com/dp/B0043ERL4C?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0043ERL4C?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/jarrow-formulas-jarro-dophilus-eps-120-veggie-caps-5-billion-cfu-per-capsule/7006?rcode=RZK388
+
+- name: California Gold Nutrition LactoBif 30 프로바이오틱스, 베지 캡슐 60정
+  badge: 가성비 최고
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00965/l/302.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 60캡슐(60회분)
+    - iHerb에서 ~$21.95(1회분당 약 $0.37)
+    - 300억 CFU, 8종 균주
+  tip: "iHerb 평가 173,013건, 개별 블리스터 포장."
+  note: 이 가이드에서 가장 싼 1회분이고, Amazon에 현재 판매처가 없어 iHerb에서만 팝니다.
+  url: https://www.iherb.com/pr/california-gold-nutrition-lactobif-30-probiotics-60-veggie-capsules/64009?rcode=RZK388
+  links:
+    - store: iHerb
+      url: https://www.iherb.com/pr/california-gold-nutrition-lactobif-30-probiotics-60-veggie-capsules/64009?rcode=RZK388
+
+- name: Garden of Life Dr. Formulated 프로바이오틱스 원스 데일리 300억, 베지 캡슐 30정
+  badge: 유기농 포뮬러 최고
+  retailer: iHerb
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol11827/l/23.jpg
+  stars: 4
+  rating: 4.9
+  meta:
+    - 30캡슐(30회분)
+    - iHerb에서 ~$27.55(1회분당 약 $0.92)
+    - 300억 CFU, 14개 균주
+  tip: "iHerb 4.9점이지만 평가 기반은 84건으로 작습니다."
+  note: 유기농·비유전자변형이고 서늘한 보관이 필요하며, 이 가이드에서 평가 표본이 가장 얇습니다.
+  url: https://www.iherb.com/pr/garden-of-life-dr-formulated-probiotics-once-daily-30-vegetarian-capsules/64433?rcode=RZK388
+  links:
+    - store: iHerb
+      url: https://www.iherb.com/pr/garden-of-life-dr-formulated-probiotics-once-daily-30-vegetarian-capsules/64433?rcode=RZK388
+
+- name: Enzymedica Digest Basic, 90캡슐
+  badge: 소화 효소 최고
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/enz/enz29010/l/72.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 90캡슐(90회분)
+    - Amazon에서 ~$16.49(1회분당 약 $0.18)
+    - Thera-blend 효소, 식사마다 1캡슐
+  tip: "Amazon 복합 효소 카테고리 39위, iHerb 평가 59,200건 평균 4.8."
+  note: 기름지고 무거운 한 끼를 위한 제품이고, 프로바이오틱스를 대신하지 않습니다.
+  url: https://www.amazon.com/dp/B001W44AV8?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B001W44AV8?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/enzymedica-digest-basic-90-capsules/16583?rcode=RZK388
+
+- name: Benefiber 오리지널 프리바이오틱 섬유 파우더, 17.6 oz
+  badge: 수용성 섬유질 최고
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71fWSREGtzL._AC_SX522_.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 17.6 oz(125회분)
+    - Amazon에서 ~$22.98(1회분당 약 $0.18)
+    - 티스푼 2개당 섬유질 3g
+  tip: "Amazon 식이섬유 카테고리 7위, 알갱이 없이 녹습니다."
+  note: 맛과 질감이 없는 밀 덱스트린이고, Amazon에서만 팝니다.
+  url: https://www.amazon.com/dp/B00CX3ASFE?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B00CX3ASFE?tag=ibetterlife-20
+
+- name: Metamucil 4-in-1 차전자피 섬유, 무설탕 오렌지, 180회분
+  badge: 차전자피 최고
+  retailer: Amazon
+  image: https://m.media-amazon.com/images/I/71vDfMFDQqL._AC_SX522_.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 180회분(36.8 oz)
+    - Amazon에서 ~$34.99(1회분당 약 $0.19)
+    - 1회분당 수용성 섬유질 2.4g
+  tip: "Amazon 식이섬유 카테고리 1위, 평가 36,057건."
+  note: 빠르게 걸쭉해져 물 한 컵이 필요하고, 오렌지 맛에는 감미료가 들어 있습니다.
+  url: https://www.amazon.com/dp/B003CT2YQY?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B003CT2YQY?tag=ibetterlife-20

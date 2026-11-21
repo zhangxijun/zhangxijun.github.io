@@ -127,10 +127,14 @@ Required sections, in order:
 6. One `##` section per product, numbered `## 1.`, `## 2.` … (matching the existing posts and the
    left TOC), containing:
    - product card via `product-grid` (see section 6)
+   - **one hard-numbers line first** — servings · key dose · cost per serving, before any prose, so
+     a reader can decide in three seconds whether this bottle is in their budget
    - 4-8 sentences on who it suits and what makes it stand out
    - **Strengths** — 2-3 bullets with real, verifiable facts
+   - **Weaknesses** — 1-2 honest limits, specific to this bottle (small review sample, 4.4-star
+     average, two capsules per serving, needs refrigeration, highest cost per day). Never write a
+     fake weakness such as "the only downside is it sells out"
    - **What buyers say** — 2-3 real buyer reviews (see the rules below)
-   - a spec line (serving size, count, dose highlights)
    - affiliate CTA link, one per retailer that actually sells it
 7. `## How we picked` with 4-5 criteria, including popularity proxy, cost per serving, nutrient
    form and dose, buyer fit, and buyer experience.
@@ -160,6 +164,36 @@ This block exists so the reader sees the product after real use, not just the la
 
 Use only verifiable data. If a review count, price, or lab result cannot be confirmed, either
 omit it or label it clearly as approximate. Never invent certifications, sales ranks, or awards.
+
+### Moves borrowed from working affiliate desks
+
+These come from reading OutdoorGearLab, BarBend and mindbodygreen list posts, not from copying
+their words. Apply the structure, keep our own voice.
+
+- **Award-first headings.** `## 3. Best for IBS: Align Probiotic 24/7` lets a reader scanning the
+  table of contents find their case without opening the section. A bare `## 3. Align` wastes that
+  line.
+- **Numbers before narrative.** BarBend puts a Specs block at the top of every pick; GearLab leads
+  each award with the one measurement that decided it. Do the same with servings, dose and cost per
+  serving.
+- **A visible cons block.** mindbodygreen's Pros/Cons pairs are the most-scanned part of the page.
+  Every pick needs a **Weaknesses** block worth reading, not a humility gesture.
+- **The comparison table is navigation.** After it, add 2-3 sentences in the form "if you only care
+  about X, jump to pick N". GearLab ends its table with a short "What's the Best Value?" note for
+  the same reason.
+- **One cost sentence per pick.** Multiply the serving cost by 30 and say it out loud: a
+  three-month trial at 96 cents a day is \$86. Readers budget in months, not in servings.
+- **Selection comes before shopping advice.** All three sites explain how to choose after the picks
+  and before the FAQ, using situations rather than spec recitals. Add 3-6 sentences of that, then
+  stop.
+- **Trust lives in one place.** GearLab keeps it in a single "How We Tested" section, Wirecutter in
+  "Why you should trust us". Ours is `## How we picked`; do not scatter credibility lines through
+  the product sections.
+
+**Do not imitate testing we did not do.** OutdoorGearLab buys and abuses every product; we compare
+labels, prices and published buyer reviews. Never write "we tested", "after three months of use",
+or a first-person reaction to a product nobody on the site has opened. If a claim needs hands-on
+experience to be true, drop the claim instead of inventing the experience.
 
 ## 3. Product images
 

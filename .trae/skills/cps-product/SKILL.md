@@ -122,8 +122,9 @@ or form (Immune Support, Powder Packets). Never tag iHerb, Amazon, the domain, "
 
 ## 5. Body skeleton (900-1,500 words, in this order)
 
-1. **Intro** — 2-3 short paragraphs: what the product is, who it is for, and the one thing that
-   makes it different from a plain vitamin C tablet.
+1. **Intro** — 2-3 short paragraphs. The first sentence carries the verdict, the way BarBend opens
+   a single-product review with the judgement before the specs; then say who it is for and the one
+   thing that makes it different from a plain vitamin C tablet.
 2. **The card** — `{{< product-grid data="<key>" item="1" >}}` right after the intro, so the
    price, image and shop button are above the fold.
 3. `## Why people take <nutrient>` — 1-2 short paragraphs before the verdict: what the nutrient
@@ -131,17 +132,36 @@ or form (Immune Support, Powder Packets). Never tag iHerb, Amazon, the domain, "
    compared against. Skip only for non-nutrient products.
 4. `## Quick verdict` — three bullets: **Best for**, **Skip if**, **What stands out**.
 5. `## What you actually get` — servings, dose, form, sugar/sodium, packet count. Bullets or a
-   small table; no marketing filler.
+   small table; no marketing filler. End with one sentence that turns the serving cost into a month
+   of use (30 packets at \$1.20 is \$36), because that is how a reader decides whether to commit.
 6. `## What I like` — 4-6 points, each one concrete and traceable to the label
    (dose per packet, dissolves fast, travel-friendly, no pill to swallow, price per serving).
 7. `## What buyers say` — 3-5 real buyer reviews, rules below.
 8. `## Where it falls short` — 2-4 honest points (sugar per packet, taste, cost per dose versus
-   a tub, foil waste). A review without caveats reads like an ad.
+   a tub, foil waste). At least one must be the thing that could make a buyer walk away, followed by
+   the case where it still makes sense ("if you already take a D3 capsule, the extra 500 IU is
+   harmless"). A review without caveats reads like an ad.
 9. `## How it compares` — a 2-3 competitor table; template and rules below.
 10. `## How to use it` — the label dose, when people take it, and what to check on the box.
 11. `## Who should skip it` — 2-3 lines; this is where the medical caution lives.
 12. `## FAQ` — 2-3 questions pulled from the page or the label.
 13. `## Bottom line` — 2-3 sentences repeating the verdict, then one affiliate link.
+
+### Moves borrowed from working affiliate desks
+
+Read from BarBend single-product reviews and Wirecutter's "flaws but not dealbreakers" format.
+
+- **Verdict in the first sentence.** A reader who stops after one line should still know whether to
+  keep reading. Save the label history for later.
+- **Price in months.** One sentence in `What you actually get` converts the serving cost into 30
+  days, and another says what a year costs if the bottle is a staple.
+- **Name the dealbreaker.** `Where it falls short` should include the single objection that stops
+  some buyers, then answer it: who should still buy, and why.
+- **Send the rest to a rival.** `How it compares` earns its space only if it says "buy the competitor
+  if X", not "ours is best".
+- **Do not fake hands-on testing.** We read labels and buyer reviews; we do not open the bottle.
+  Never write "I used this for a month" or describe a taste, texture or effect nobody on the site
+  experienced. When a sensory claim matters, quote a verified buyer and attribute it.
 
 ### Real buyer reviews (`What buyers say`)
 

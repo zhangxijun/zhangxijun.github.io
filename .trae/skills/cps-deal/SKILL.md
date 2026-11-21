@@ -169,6 +169,15 @@ Rules:
 
 - Tags: 4-5 product categories covered by the picks. Never use iHerb, Amazon, the domain,
   Deals, Coupons, Supplements or Buying Guides as a tag.
+- Open with one line that sets the scope: these are the picks worth grabbing from this sale, not
+  the whole catalog. It tells the reader you edited, and it is the difference between a blog post
+  and a coupon dump.
+- Stamp the date next to the prices ("prices checked Nov 21"). A deal post without a date reads as
+  evergreen, and the prices will be wrong within a week.
+- Use the store's own compare-at price for the struck-through figure. Never calculate an "original
+  price" yourself, and never claim "lowest ever" without a price-history source.
+- Keep "up to X%" for the store-wide line only. On a single product, print the discount you
+  actually calculated.
 - One retailer per post. Do not mix Amazon and iHerb in one deal post.
 - Use an evergreen-but-dated slug such as `iherb-brands-30-off`.
 - In Chinese/Japanese text, never leave a punctuation mark on the inside edge of `**` when CJK

@@ -1,0 +1,21 @@
+# Zyflamend 한국어 리뷰용 상품 카드 데이터.
+# product-grid 숏코드로 렌더링: {{< product-grid data="zyflamend" item="1" >}}
+# 가격·평점·판매처·순위는 2026년 11월 19일에 Amazon 미국과 iHerb 미국에서 확인했습니다.
+- name: New Chapter Zyflamend 관절 지원 보충제, 베지 캡슐 180정
+  badge: 열 가지 허브 관절 블렌드
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr90073/l/99.jpg
+  stars: 3
+  rating: 4.5
+  meta:
+    - 180캡슐(90회분)
+    - ~$67.97(1회분당 약 $0.76)
+    - 2캡슐당 열 가지 허브 780mg
+  tip: "Amazon 평가 4,577건 평균 4.5, Health & Household 카테고리 7,965위."
+  note: $68 병에 강황은 110mg뿐입니다. 달러당 커큐민이 이 제품의 타협점입니다.
+  url: https://www.amazon.com/dp/B014GSWCYS?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B014GSWCYS?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/new-chapter-zyflamend-180-vegetarian-capsules/65152?rcode=RZK388

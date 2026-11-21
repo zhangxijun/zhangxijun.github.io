@@ -1,0 +1,21 @@
+# Single-product review card (English).
+# Rendered by {{< product-grid data="zyflamend" item="1" >}}
+# Price, rating, seller and rank were checked on Amazon US and iHerb US on 2026-11-19.
+- name: New Chapter Zyflamend Joint Support Supplement, 180 Vegetarian Capsules
+  badge: 10-herb joint blend
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr90073/l/99.jpg
+  stars: 3
+  rating: 4.5
+  meta:
+    - 180 capsules (90 servings)
+    - ~$67.97 (about $0.76 per serving)
+    - 780 mg across 10 herbs per 2 capsules
+  tip: "4,577 Amazon ratings at 4.5; #7,965 in Health & Household."
+  note: 110 mg of turmeric in a $68 bottle; curcumin per dollar is the trade-off.
+  url: https://www.amazon.com/dp/B014GSWCYS?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B014GSWCYS?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/new-chapter-zyflamend-180-vegetarian-capsules/65152?rcode=RZK388

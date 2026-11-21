@@ -1,0 +1,21 @@
+# 单品种测评商品卡片（中文）。
+# 由 product-grid 短代码渲染：{{< product-grid data="zyflamend" item="1" >}}
+# 价格、评分、卖家和排名于2026年11月19日在 Amazon 美国站与 iHerb 美国站核对。
+- name: New Chapter Zyflamend 关节养护补充剂，180粒素食胶囊
+  badge: 十味草本复方
+  retailer: Amazon
+  image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr90073/l/99.jpg
+  stars: 3
+  rating: 4.5
+  meta:
+    - 180粒（90份）
+    - 约$67.97（每份约$0.76）
+    - 2粒含10种草本共780毫克
+  tip: "Amazon 4,577条评分4.5星；健康家居类目第7,965。"
+  note: $68 一瓶里姜黄只有110毫克，每美元姜黄素是它的短板。
+  url: https://www.amazon.com/dp/B014GSWCYS?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B014GSWCYS?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/new-chapter-zyflamend-180-vegetarian-capsules/65152?rcode=RZK388

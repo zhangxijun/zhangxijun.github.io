@@ -264,6 +264,12 @@ layout, tables, images or CTA styling. File-level checks and the build below are
 4. After approval: commit, push to `main`, wait for the Actions run, then confirm the live URL
    returns 200.
 
+### Keeping a review fresh
+
+A single-product page goes stale faster than a list, because the entire page hangs on one price
+and one size. Re-check the listing every 90 days. If the bottle size changed, rewrite the numbers
+and the cost per serving; never leave old text pointing at a new listing.
+
 ## Tables on mobile
 
 Tables are styled by `layouts/_partials/hooks/head-start/article-tables.html`: below 640px each

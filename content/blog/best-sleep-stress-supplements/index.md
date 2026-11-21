@@ -19,8 +19,6 @@ The same size type sits on both fronts. The difference lives on the back, in a n
 
 Melatonin has the opposite problem. A 300 mcg capsule and a 5 mg tablet sit on the same shelf and differ by a factor of sixteen, and the smaller dose is the one the circadian studies used. Three of the ten picks below are magnesium and two are melatonin because that is what the shelf actually contains. The rest answer different questions: how to take the edge off a stressful afternoon without sedation, how to bring cortisol down over weeks, what to take when melatonin leaves you foggy at 7 a.m.
 
-Three things decide the order: the elemental dose printed on the Supplement Facts panel, the cost of one serving, and a review base big enough that a complaint shows up more than once. Review counts stand in for sales, since neither retailer publishes units. Amazon category ranks and prices were checked on November 18, 2026.
-
 ![Four label checks that decide whether a sleep supplement is worth the bottle](/blog/best-sleep-stress-supplements/image-label-checks.jpg)
 
 ## Why take a sleep supplement at all
@@ -49,6 +47,8 @@ The compound-versus-elemental trap is the most expensive mistake in the category
 
 Melatonin has the reverse problem: bigger numbers sell better and do less. A 0.3 mg dose brings blood melatonin up to the range your body makes on its own at night. Five milligrams pushes it ten to twenty times higher, and the trials do not show better sleep onset at that level — they show more next-day fuzziness and more vivid dreams. If you wake at 3 a.m. rather than failing to fall asleep, dose is the wrong lever anyway; timing and a time-release format matter more.
 
+**If you only buy one:** Doctor's Best at 20 cents a day is the safest first bottle - 200 mg of chelated magnesium, 219,787 iHerb reviews, and no sedative effect to test-drive. If your problem is falling asleep at the wrong hour rather than low magnesium, the \$7.50 melatonin is the cheaper experiment.
+
 ## Quick comparison
 
 | Pick | Servings | Cost per serving | Best for |
@@ -68,6 +68,8 @@ Melatonin has the reverse problem: bigger numbers sell better and do less. A 0.3
 
 {{< product-grid data="sleep-stress" item="1" >}}
 
+**The numbers:** 240 tablets (120 servings) · 2 tablets daily · 200 mg elemental magnesium, Albion TRAACS lysinate glycinate
+
 Doctor's Best wins on two numbers that rarely appear together: 219,787 iHerb reviews at 4.8 stars, and a 200 mg elemental dose that costs 20 cents. The magnesium is bound to lysine and glycine as an Albion TRAACS chelate, the form most often recommended to people who get loose stools from magnesium oxide or citrate. Two tablets per serving, 120 servings per bottle.
 
 The catch is physical. The tablets are large enough that reviewers describe cutting them into four, and 200 mg is a little under half the 420 mg daily value, so anyone aiming at 400 mg is taking four tablets and paying 40 cents. A second complaint is recent: buyers who liked the old coating say the current tablets taste sweet and go sticky in the bottle. The rating has held anyway — 4.8 on iHerb, 4.6 from 76,803 Amazon ratings sold by the brand's own storefront.
@@ -78,6 +80,11 @@ The catch is physical. The tablets are large enough that reviewers describe cutt
 - 200 mg elemental magnesium as Albion lysinate glycinate per 2 tablets
 - 120 servings for \$23.99, about 20 cents a day
 
+**Weaknesses**
+
+- Large tablets: reviewers cut them into four, and 200 mg is under half the 420 mg daily value, so a 400 mg target means four tablets and 40 cents a day.
+- The current coating tastes sweet and turns sticky in the bottle, and long-time buyers say they preferred the old version.
+
 **What buyers say**
 
 > "It really works!… helps decrease anxiety and promote my sleep. The only cumbersome thing is the big pill size." — Gunit, Qatar, May 2026
@@ -86,13 +93,13 @@ The catch is physical. The tablets are large enough that reviewers describe cutt
 
 > "It was my favorite magnesium until they updated it… they became kind of sticky and sweet… I won't buy any more." — iHerb verified buyer, United Kingdom, Dec 2024
 
-**Specs:** 240 tablets (120 servings) · 2 tablets daily · 200 mg elemental magnesium, Albion TRAACS lysinate glycinate
-
 [Check price on Amazon](https://www.amazon.com/dp/B000BD0RT0?tag=ibetterlife-20) · [Check price on iHerb](https://www.iherb.com/pr/doctor-s-best-high-absorption-magnesium-lysinate-glycinate-chelated-albion-traacs-240-tablets-100-mg-per-tablet/16567?rcode=RZK388)
 
 ## 2. Best value: NOW Magnesium Glycinate with BioPerine
 
 {{< product-grid data="sleep-stress" item="2" >}}
+
+**The numbers:** 180 veg capsules (90 servings) · 2 capsules daily · 200 mg elemental magnesium, bisglycinate + 2.5 mg BioPerine
 
 Seventeen cents for 200 mg of chelated magnesium is the lowest price per elemental milligram here, and the bottle is 180 capsules, so 90 nights before you reorder. Amazon sells it for \$14.99 from Amazon.com itself; iHerb's \$16.52 is 10 percent more and the 4.8-star average there rests on 7,765 ratings against 1,646 on Amazon.
 
@@ -104,6 +111,11 @@ The 2.5 mg of BioPerine is the part to think about. Piperine raises the absorpti
 - \$14.99 on Amazon from Amazon.com, 4.8 stars
 - 90 servings per bottle, the cheapest chelate serving here
 
+**Weaknesses**
+
+- 2.5 mg of BioPerine (piperine) raises blood levels of several prescription drugs, so ask a pharmacist if you take a statin, a blood thinner or a blood-pressure medicine.
+- The microcrystalline cellulose in the capsule causes bloating for some buyers, and 90 servings is a shorter run than the 120-count picks.
+
 **What buyers say**
 
 > "I take it for better sleep quality in the night time. Always feel refreshed when I wake up." — iHerb verified buyer, United States, Dec 2025
@@ -112,13 +124,13 @@ The 2.5 mg of BioPerine is the part to think about. Piperine raises the absorpti
 
 > "The product contains microcrystalline cellulose and silicone dioxide… I've experienced bloating from the microcrystalline cellulose." — iHerb verified buyer, Hong Kong, Jun 2025
 
-**Specs:** 180 veg capsules (90 servings) · 2 capsules daily · 200 mg elemental magnesium, bisglycinate + 2.5 mg BioPerine
-
 [Check price on Amazon](https://www.amazon.com/dp/B0D7XY7K4T?tag=ibetterlife-20) · [Check price on iHerb](https://www.iherb.com/pr/now-foods-magnesium-glycinate-with-bioperine-180-veg-capsules/143369?rcode=RZK388)
 
 ## 3. Best low-dose melatonin: Life Extension 300 mcg
 
 {{< product-grid data="sleep-stress" item="3" >}}
+
+**The numbers:** 100 vegetarian capsules (100 servings) · 1 capsule, 4-5 hours before bed · 300 mcg melatonin
 
 Eight cents a night for the dose that matches your own physiology. Each capsule is 300 mcg of melatonin, 100 capsules to a bottle, and both retailers charge \$7.50 — the cheapest trial in this guide by a wide margin. It sits at #145 in Amazon's sleep supplement category with 1,172 ratings, and iHerb adds 1,388 at 4.7.
 
@@ -130,19 +142,24 @@ This is the pick for jet lag, a delayed sleep schedule, or a shift that starts b
 - \$7.50 for 100 nights, about 8 cents a serving
 - Small vegetarian capsule, 4.6 on Amazon and 4.7 on iHerb
 
+**Weaknesses**
+
+- It shifts a late body clock; it does nothing useful for a 2 a.m. wake-up.
+- Only 1,172 Amazon ratings and a #145 category rank, so the review base is thinner than the magnesium picks.
+
 **What buyers say**
 
 > "Doses like 300mcg are perfect for targeting your circadian rhythm without causing sedation or grogginess." — Hazel, United States, Jul 2026
 
 > "Good quality low dose melatonin ideal for those who prefer gentle physiological support rather than high strength formulations." — Ay, Germany, Dec 2025
 
-**Specs:** 100 vegetarian capsules (100 servings) · 1 capsule, 4-5 hours before bed · 300 mcg melatonin
-
 [Check price on Amazon](https://www.amazon.com/dp/B000X9QZZ2?tag=ibetterlife-20) · [Check price on iHerb](https://www.iherb.com/pr/life-extension-melatonin-300-mcg-100-vegetarian-capsules/47809?rcode=RZK388)
 
 ## 4. Best mainstream melatonin: Natrol 5 mg
 
 {{< product-grid data="sleep-stress" item="4" >}}
+
+**The numbers:** 60 tablets (60 servings) · 1 tablet 30 minutes before bed · 5 mg melatonin
 
 Natrol is the bottle people recognize, and the iHerb listing has the review base to prove it: 7,135 ratings at 4.6. Sixty tablets cost \$10.39, or 17 cents a night. Five milligrams is sixteen times the physiological dose, so this is the opposite of pick three — it suits a shift worker who needs to sleep at 8 a.m., not someone resetting a two-hour delay.
 
@@ -154,19 +171,24 @@ The dosing gap is where most of the complaints come from. At 5 mg, next-day grog
 - 5 mg per tablet, 60 nights for \$10.39
 - Simple tablet, no fillers or added herbs
 
+**Weaknesses**
+
+- 5 mg is sixteen times the physiological dose, and next-day grogginess plus vivid dreams are the two complaints that repeat.
+- The 250-count Amazon version has no featured offer, so iHerb is the only reliable checkout here.
+
 **What buyers say**
 
 > "These 5mg tablets are my sweet spot for getting a full night's sleep without feeling groggy the next morning." — iHerb verified buyer, Singapore, Nov 2025
 
 > "I fall asleep within 30-40 minutes and wake up refreshed without grogginess." — SarasvatiFlow, Ukraine, Oct 2025
 
-**Specs:** 60 tablets (60 servings) · 1 tablet 30 minutes before bed · 5 mg melatonin
-
 [Check price on iHerb](https://www.iherb.com/pr/natrol-melatonin-5-mg-60-tablets/23958?rcode=RZK388)
 
 ## 5. Best for daytime stress: NOW L-Theanine 200 mg
 
 {{< product-grid data="sleep-stress" item="5" >}}
+
+**The numbers:** 120 veg capsules (120 servings) · 1 capsule as needed · 200 mg L-theanine + 100 mg inositol
 
 Theanine is the one on this list you take in the morning. Two hundred milligrams takes the jagged edge off caffeine without sedation — the reason it sits at #1 in iHerb's stress relief formulas with 19,265 ratings at 4.7. One capsule per serving, 120 servings, \$21.72, which is 18 cents for a calmer afternoon.
 
@@ -178,6 +200,11 @@ Two label details change the maths. Each capsule also carries 100 mg of inositol
 - 200 mg L-theanine per capsule, 120 servings
 - Works within an hour, no drowsiness reported at this dose
 
+**Weaknesses**
+
+- Each capsule adds 100 mg of inositol, so it is not pure theanine, and 200 mg cannot be split for a lighter first try.
+- Amazon is slightly cheaper but ships from a third-party seller, not Amazon.com or NOW.
+
 **What buyers say**
 
 > "I take this with my morning coffee to smooth out jitters and enhance focus. The double strength means I only need one capsule" — LadyGuaGua, Taiwan, Apr 2025
@@ -186,13 +213,13 @@ Two label details change the maths. Each capsule also carries 100 mg of inositol
 
 > "I don't really know what it was supposed to do, so I can't tell if it was potent, but the pills were gentle on the stomach" — madapapada, Thailand, Dec 2025
 
-**Specs:** 120 veg capsules (120 servings) · 1 capsule as needed · 200 mg L-theanine + 100 mg inositol
-
 [Check price on iHerb](https://www.iherb.com/pr/now-foods-l-theanine-120-veg-capsules/54096?rcode=RZK388)
 
 ## 6. Best adaptogen for stress: Jarrow Ashwagandha KSM-66
 
 {{< product-grid data="sleep-stress" item="6" >}}
+
+**The numbers:** 120 veggie capsules (120 servings at 1 capsule) · 1-2 capsules daily · 300 mg KSM-66 ashwagandha
 
 KSM-66 is the ashwagandha extract most of the cortisol and sleep trials used, standardized to 5% withanolides. Jarrow puts 300 mg in a capsule and sells 120 for \$22.93 at both retailers, so 19 cents a night at one capsule and 38 cents at the label's two-capsule dose. The 600 mg dose is the one that showed up in the six-week cortisol trial, so budget for two capsules if that is what you are after.
 
@@ -204,6 +231,11 @@ It is not a sleep aid you feel tonight. Buyers describe a calmer evening after a
 - \$22.93 at both retailers with Amazon.com as the Amazon seller
 - 120 capsules, so the two-capsule dose lasts two months
 
+**Weaknesses**
+
+- It works over one to two weeks rather than tonight, and the 600 mg trial dose means two capsules and 38 cents a day.
+- Amazon sits at 4.5 from 1,997 ratings against iHerb at 4.6, and anyone on thyroid medication, with liver disease or pregnant should ask a clinician first.
+
 **What buyers say**
 
 > "Good for relaxing and mellow time in the evening or at night… less stress, easy to wind down" — Lady-J, United States, May 2025
@@ -212,13 +244,13 @@ It is not a sleep aid you feel tonight. Buyers describe a calmer evening after a
 
 > "I usually take Shoden… the effect is neither good nor bad — just average. Shoden suits my body better" — iHerb verified buyer, Japan, Oct 2025
 
-**Specs:** 120 veggie capsules (120 servings at 1 capsule) · 1-2 capsules daily · 300 mg KSM-66 ashwagandha
-
 [Check price on Amazon](https://www.amazon.com/dp/B0013OQEO8?tag=ibetterlife-20) · [Check price on iHerb](https://www.iherb.com/pr/jarrow-formulas-ashwagandha-300-mg-120-veggie-capsules/3302?rcode=RZK388)
 
 ## 7. Best for the brain: Life Extension Neuro-Mag L-Threonate
 
 {{< product-grid data="sleep-stress" item="7" >}}
+
+**The numbers:** 90 vegetarian capsules (30 servings) · 3 capsules daily · 144 mg elemental magnesium from 2,000 mg Magtein
 
 L-threonate is the magnesium form that crosses into brain tissue in animal work, and Magtein is the patented version most of that research used. Life Extension packs 2,000 mg of it into a three-capsule serving, which yields 144 mg of elemental magnesium — a third of what the glycinate picks deliver — for 89 cents a night. It is the priciest magnesium here, with the second-largest review base among the magnesium picks: 36,843 on iHerb at 4.8 and 24,901 on Amazon at 4.6.
 
@@ -230,6 +262,11 @@ Buy it for the cognition angle, not the dose. People who like it describe a calm
 - 36,843 iHerb ratings at 4.8 and 24,901 on Amazon
 - #287 in Amazon's Health & Household category, #7 in magnesium
 
+**Weaknesses**
+
+- 144 mg of elemental magnesium is a third of the glycinate picks for 89 cents, roughly four times the daily cost.
+- Three capsules a night; if the goal is simply more magnesium per dollar, picks 1 or 2 do it better.
+
 **What buyers say**
 
 > "i never realized how good it worked until i finished it and now buying it again because it worked so well!" — sam, United States, Jul 2024
@@ -238,13 +275,13 @@ Buy it for the cognition angle, not the dose. People who like it describe a calm
 
 > "i tried for a few days it slows down the excitability in the brain, i dont know if that is due to the energy going somewhere else" — iHerb verified buyer, Greece, Jan 2012
 
-**Specs:** 90 vegetarian capsules (30 servings) · 3 capsules daily · 144 mg elemental magnesium from 2,000 mg Magtein
-
 [Check price on Amazon](https://www.amazon.com/dp/B006P536E6?tag=ibetterlife-20) · [Check price on iHerb](https://www.iherb.com/pr/life-extension-neuro-mag-magnesium-l-threonate-90-vegetarian-capsules-48-mg-per-capsule/40244?rcode=RZK388)
 
 ## 8. Cheapest per serving: NOW Glycine Powder
 
 {{< product-grid data="sleep-stress" item="8" >}}
+
+**The numbers:** 454 g (about 151 servings) · 3/4 level teaspoon, 3 g · 3,000 mg glycine, no other ingredients
 
 Three grams of glycine in a glass of water before bed, for about a dime a night. The 454 g tub holds roughly 151 servings, costs \$14.99 on Amazon from Amazon.com and \$16.53 on iHerb, and scores 4.8 from 10,246 iHerb ratings. Glycine is the amino acid that nudges core temperature down at bedtime, and the small trials behind it used 3 g — exactly the label's 3/4 teaspoon.
 
@@ -256,6 +293,11 @@ The powder is the trade-off. It is very fine, so it puffs when you scoop it, and
 - 151 servings per 454 g tub, roughly five months
 - 4.8 stars from 10,246 iHerb ratings
 
+**Weaknesses**
+
+- The powder is extremely fine and puffs when you scoop it, and the 151 servings are a volume estimate, not a fixed count.
+- It dissolves in warm water rather than cold, and it is the wrong format if you want a capsule at the bedside.
+
 **What buyers say**
 
 > "This single ingredient is exactly what it is supposed to be and I sleep so well taking this every evening" — iHerbCustomer, United States, Jan 2025
@@ -264,13 +306,13 @@ The powder is the trade-off. It is very fine, so it puffs when you scoop it, and
 
 > "The only minor downside is that the powder is very fine, so it can puff a little when you scoop it" — 0tt0, Qatar, Feb 2026
 
-**Specs:** 454 g (about 151 servings) · 3/4 level teaspoon, 3 g · 3,000 mg glycine, no other ingredients
-
 [Check price on Amazon](https://www.amazon.com/dp/B0013OVZJW?tag=ibetterlife-20) · [Check price on iHerb](https://www.iherb.com/pr/now-foods-glycine-pure-powder-1-lb-454-g/615?rcode=RZK388)
 
 ## 9. Best herbal: Nature's Way Valerian
 
 {{< product-grid data="sleep-stress" item="9" >}}
+
+**The numbers:** 90 vegan capsules (45 servings) · 2 capsules before bed · 800 mg root + 220 mg extract
 
 Valerian is the old drugstore answer, and Nature's Way is the version with both a root powder and a standardized extract in the same capsule: 800 mg of root plus 220 mg of extract at 0.8% valerenic acids per two capsules, 45 servings for \$12.99. That works out to 29 cents a night. The 90-count bottle is stocked by both retailers, which is rare for a herb.
 
@@ -282,6 +324,11 @@ Reviews are honest about the trade-off. It smells like feet, it can leave a mild
 - \$12.99 at both retailers, 45 servings, about 29 cents a night
 - A standard extract, not a proprietary blend with unnamed herbs
 
+**Weaknesses**
+
+- It smells like feet, can leave a mild morning fog, and the trial evidence is mixed: 4.4 on Amazon from 985 ratings.
+- Do not combine it with alcohol or prescription sleep medication.
+
 **What buyers say**
 
 > "They recommend 2 for sleep, but I only take one and it works like a charm every time!" — iHerb verified buyer, United States, Dec 2025
@@ -290,13 +337,13 @@ Reviews are honest about the trade-off. It smells like feet, it can leave a mild
 
 > "In the morning there can be a mild after-effect, likely because the extract is strong." — Denis, Switzerland, Feb 2026
 
-**Specs:** 90 vegan capsules (45 servings) · 2 capsules before bed · 800 mg root + 220 mg extract
-
 [Check price on Amazon](https://www.amazon.com/dp/B0001FVFBC?tag=ibetterlife-20) · [Check price on iHerb](https://www.iherb.com/pr/nature-s-way-valerian-90-vegan-capsules/2062?rcode=RZK388)
 
 ## 10. Best without melatonin: Gaia Herbs SleepThru
 
 {{< product-grid data="sleep-stress" item="10" >}}
+
+**The numbers:** 60 liquid phyto-caps (30 servings) · 2 capsules at bedtime or on waking · 940 mg blend, no melatonin
 
 For the 3 a.m. wake-up, melatonin is the wrong tool and a sedating herb is the wrong tool too. SleepThru is a 940 mg blend of ashwagandha root, magnolia bark, passionflower and jujube taken as two capsules, with no melatonin at all, so it can be used at 2 a.m. without pushing your clock later. Thirty servings cost \$32.39 on iHerb, or \$1.08 a night, the highest serving cost here.
 
@@ -308,13 +355,16 @@ That price is the argument against it. The blend has 485 iHerb ratings at 4.5 an
 - Can be taken mid-night without shifting the body clock
 - Liquid phyto-caps, 485 iHerb ratings at 4.5
 
+**Weaknesses**
+
+- At \$1.08 a night it is the most expensive serving here, for a base of 485 iHerb ratings and 903 on Amazon.
+- Amazon has no buyable offer, so there is no price comparison and no fallback if iHerb sells out.
+
 **What buyers say**
 
 > "Excellent for staying asleep… if I wake up, take another, and I will fall right asleep." — LightDiviner, United States, Jul 2025
 
 > "Only complaint is pricey… but I will keep buying this if there's promotional offers." — CREA, Hong Kong, Nov 2025
-
-**Specs:** 60 liquid phyto-caps (30 servings) · 2 capsules at bedtime or on waking · 940 mg blend, no melatonin
 
 [Check price on iHerb](https://www.iherb.com/pr/gaia-herbs-sleepthru-60-liquid-phyto-caps/38862?rcode=RZK388)
 

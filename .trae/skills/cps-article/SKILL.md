@@ -124,6 +124,9 @@ Required sections, in order:
    paragraphs after the table for the two most common misreadings, e.g. "a multivitamin is not a
    calcium supplement" or "over 100% is not automatically better".
 5. `## Quick comparison` table with 4-5 rows: Pick | Where to buy | Servings | Cost per serving | Best for.
+   Immediately before it, add a 2-3 sentence **"If you only buy one"** call that names the pick
+   most readers should start with and the trade-off it makes. Most visitors never scroll past the
+   table, and supplementscience.ai opens with an "Our Verdict" block for exactly this reason.
 6. One `##` section per product, numbered `## 1.`, `## 2.` … (matching the existing posts and the
    left TOC), containing:
    - product card via `product-grid` (see section 6)
@@ -334,6 +337,19 @@ layout, tables, images or CTA styling. File-level checks and the build below are
    `git push` until the user explicitly confirms.
 4. Only after approval: commit, push to `main`, wait for the Actions run to finish, then confirm
    `https://ibetterlife.com/blog/<slug>/` returns 200.
+
+### Keeping a list fresh
+
+Supplement prices, stock and category ranks move every few weeks, so a published list decays.
+
+- Re-check every 90 days: the buy-box price, the cost per serving, whether each exact size is still
+  in stock, and whether a quoted Amazon rank has slipped. Swap a discontinued pick instead of
+  leaving a dead link.
+- When something changes, edit the number and then the date. Bumping the date without changing the
+  content is a fake update, and readers notice when the price is still wrong.
+- Link to a related guide only when the link answers the next question the reader has (a joint
+  guide pointing to a gut guide over shared glucosamine or fiber coverage). Do not build a link
+  block for SEO.
 
 ## Editorial voice: no AI voice
 

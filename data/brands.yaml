@@ -1,0 +1,332 @@
+# Brands page data.
+# iHerb links use the verified /c/<slug> brand pages; Amazon links use a
+# brand-filtered Health & Household search that stays valid when storefronts move.
+- name: California Gold Nutrition
+  slug: california-gold-nutrition
+  monogram: CGN
+  accent: "#0f766e"
+  origin: United States
+  focus: Fish oil, CoQ10, multivitamins
+  tagline: iHerb's house label, priced as the benchmark for basic nutrients.
+  iherb: https://www.iherb.com/c/california-gold-nutrition?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=california+gold+nutrition&i=hpc&tag=ibetterlife-20
+
+- name: 21st Century
+  slug: 21st-century-health-care
+  monogram: 21C
+  accent: "#1d4ed8"
+  origin: United States
+  focus: Large-bottle basics, vitamin C, fish oil
+  tagline: No-frills formulas sold in big bottles at pharmacy prices.
+  iherb: https://www.iherb.com/c/21st-century-health-care?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=21st+century+supplements&i=hpc&tag=ibetterlife-20
+
+- name: Doctor's Best
+  slug: doctors-best
+  monogram: DB
+  accent: "#b45309"
+  origin: United States
+  focus: Glucosamine, curcumin, CoQ10
+  tagline: Formulas built around branded ingredients such as OptiMSM and Curcumin C3.
+  iherb: https://www.iherb.com/c/doctors-best?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=doctors+best&i=hpc&tag=ibetterlife-20
+
+- name: NOW Foods
+  slug: now-foods
+  monogram: NOW
+  accent: "#15803d"
+  origin: United States
+  focus: Vitamins, magnesium, essential oils
+  tagline: One of the widest catalogs in supplements, from vitamin D to essential oils.
+  iherb: https://www.iherb.com/c/now-foods?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=now+foods&i=hpc&tag=ibetterlife-20
+
+- name: Nature Made
+  slug: nature-made
+  monogram: NM
+  accent: "#0e7490"
+  origin: United States
+  focus: Vitamin D, calcium, multivitamins
+  tagline: Drugstore staple; many bottles carry the USP Verified mark.
+  iherb: https://www.iherb.com/c/nature-made?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=nature+made&i=hpc&tag=ibetterlife-20
+
+- name: Garden of Life
+  slug: garden-of-life
+  monogram: GOL
+  accent: "#4d7c0f"
+  origin: United States
+  focus: Organic multivitamins, probiotics
+  tagline: Certified organic, whole-food formulas, mostly vegan.
+  iherb: https://www.iherb.com/c/garden-of-life?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=garden+of+life&i=hpc&tag=ibetterlife-20
+
+- name: New Chapter
+  slug: new-chapter
+  monogram: NC
+  accent: "#7c2d12"
+  origin: United States
+  focus: Fermented herbs, plant calcium
+  tagline: Fermented herbs and food-based calcium from Vermont.
+  iherb: https://www.iherb.com/c/new-chapter?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=new+chapter&i=hpc&tag=ibetterlife-20
+
+- name: Sports Research
+  slug: sports-research
+  monogram: SR
+  accent: "#1e3a8a"
+  origin: United States
+  focus: Collagen, vitamin D3 + K2, omegas
+  tagline: Sports and collagen line, third-party tested and non-GMO.
+  iherb: https://www.iherb.com/c/sports-research?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=sports+research&i=hpc&tag=ibetterlife-20
+
+- name: Jarrow Formulas
+  slug: jarrow-formulas
+  monogram: JF
+  accent: "#0369a1"
+  origin: United States
+  focus: Probiotics, CoQ10, joint formulas
+  tagline: Probiotic and CoQ10 specialist with decades of formulation history.
+  iherb: https://www.iherb.com/c/jarrow-formulas?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=jarrow+formulas&i=hpc&tag=ibetterlife-20
+
+- name: Nordic Naturals
+  slug: nordic-naturals
+  monogram: NN
+  accent: "#0c4a6e"
+  origin: United States
+  focus: Fish oil, omega-3, vitamin D
+  tagline: Fish oil first, with batch purity testing published for each product.
+  iherb: https://www.iherb.com/c/nordic-naturals?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=nordic+naturals&i=hpc&tag=ibetterlife-20
+
+- name: Schiff
+  slug: schiff
+  monogram: SC
+  accent: "#9f1239"
+  origin: United States
+  focus: Move Free joint care, probiotics
+  tagline: The Move Free joint line, stocked in nearly every US pharmacy.
+  iherb: https://www.iherb.com/c/schiff?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=schiff+move+free&i=hpc&tag=ibetterlife-20
+
+- name: Thorne
+  slug: thorne
+  monogram: TH
+  accent: "#334155"
+  origin: United States
+  focus: Practitioner-grade vitamins, magnesium
+  tagline: Practitioner-channel brand with heavy third-party testing.
+  iherb: https://www.iherb.com/c/thorne?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=thorne&i=hpc&tag=ibetterlife-20
+
+- name: Solgar
+  slug: solgar
+  monogram: SO
+  accent: "#a16207"
+  origin: United States
+  focus: Chelated minerals, vegetarian capsules
+  tagline: Long-running line of vegetarian capsules and chelated minerals.
+  iherb: https://www.iherb.com/c/solgar?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=solgar&i=hpc&tag=ibetterlife-20
+
+- name: Life Extension
+  slug: life-extension
+  monogram: LE
+  accent: "#4338ca"
+  origin: United States
+  focus: Longevity formulas, melatonin, magnesium
+  tagline: Science-advisor model, with doses often set above the RDA.
+  iherb: https://www.iherb.com/c/life-extension?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=life+extension&i=hpc&tag=ibetterlife-20
+
+- name: Vital Proteins
+  slug: vital-proteins
+  monogram: VP
+  accent: "#155e75"
+  origin: United States
+  focus: Collagen peptides, protein powder
+  tagline: The blue tub that made collagen peptides a mainstream habit.
+  iherb: https://www.iherb.com/c/vital-proteins?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=vital+proteins&i=hpc&tag=ibetterlife-20
+
+- name: NatureWise
+  slug: naturewise
+  monogram: NW
+  accent: "#166534"
+  origin: United States
+  focus: Turmeric, berberine, plant extracts
+  tagline: Plant extracts and turmeric blends at mid-market prices.
+  iherb: https://www.iherb.com/c/naturewise?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=naturewise&i=hpc&tag=ibetterlife-20
+
+- name: Centrum
+  slug: centrum
+  monogram: CE
+  accent: "#b91c1c"
+  origin: United States
+  focus: One-a-day multivitamins
+  tagline: The pharmacy default for a one-a-day multivitamin, now under Haleon.
+  iherb: https://www.iherb.com/c/centrum?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=centrum&i=hpc&tag=ibetterlife-20
+
+- name: Nature's Bounty
+  slug: nature-s-bounty
+  monogram: NB
+  accent: "#a16207"
+  origin: United States
+  focus: Vitamins, fish oil, gummies
+  tagline: Coupon-friendly pharmacy line covering vitamins, fish oil and gummies.
+  iherb: https://www.iherb.com/c/nature-s-bounty?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=natures+bounty&i=hpc&tag=ibetterlife-20
+
+- name: One A Day
+  slug: one-a-day
+  monogram: OAD
+  accent: "#1e40af"
+  origin: United States
+  focus: Multivitamins by age and gender
+  tagline: Bayer's one-tablet line, with formulas split by age and gender.
+  iherb: https://www.iherb.com/c/one-a-day?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=one+a+day&i=hpc&tag=ibetterlife-20
+
+- name: Nature's Way
+  slug: nature-s-way
+  monogram: NWY
+  accent: "#166534"
+  origin: United States
+  focus: Herbal roots, Alive! multis
+  tagline: Herbal roots and the Alive! multivitamin line.
+  iherb: https://www.iherb.com/c/nature-s-way?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=natures+way&i=hpc&tag=ibetterlife-20
+
+- name: MegaFood
+  slug: megafood
+  monogram: MF
+  accent: "#4d7c0f"
+  origin: United States
+  focus: Food-based multivitamins
+  tagline: Food-paired vitamins made from real produce, with farm sourcing listed.
+  iherb: https://www.iherb.com/c/megafood?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=megafood&i=hpc&tag=ibetterlife-20
+
+- name: Rainbow Light
+  slug: rainbow-light
+  monogram: RL
+  accent: "#c2410c"
+  origin: United States
+  focus: Plant-based multis, probiotics
+  tagline: Natural-channel brand built on plant-based multis and probiotics.
+  iherb: https://www.iherb.com/c/rainbow-light?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=rainbow+light&i=hpc&tag=ibetterlife-20
+
+- name: SmartyPants
+  slug: smartypants
+  monogram: SP
+  accent: "#7e22ce"
+  origin: United States
+  focus: Gummy multis for adults and kids
+  tagline: Gummy multis for adults and kids, with omega-3 added.
+  iherb: https://www.iherb.com/c/smartypants?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=smartypants&i=hpc&tag=ibetterlife-20
+
+- name: OLLY
+  slug: olly
+  monogram: OL
+  accent: "#be185d"
+  origin: United States
+  focus: Sleep, stress, beauty gummies
+  tagline: Unilever's gummy brand, with sleep and stress blends as the best sellers.
+  iherb: https://www.iherb.com/c/olly?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=olly+supplements&i=hpc&tag=ibetterlife-20
+
+- name: vitafusion
+  slug: vitafusion
+  monogram: VF
+  accent: "#0e7490"
+  origin: United States
+  focus: Gummy vitamins
+  tagline: The gummy line that outsells most tablets in US drugstores.
+  iherb: https://www.iherb.com/c/vitafusion?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=vitafusion&i=hpc&tag=ibetterlife-20
+
+- name: Natrol
+  slug: natrol
+  monogram: NA
+  accent: "#4338ca"
+  origin: United States
+  focus: Melatonin, sleep support
+  tagline: Melatonin specialist with the widest dose range on the shelf.
+  iherb: https://www.iherb.com/c/natrol?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=natrol&i=hpc&tag=ibetterlife-20
+
+- name: Airborne
+  slug: airborne
+  monogram: AB
+  accent: "#c2410c"
+  origin: United States
+  focus: Vitamin C and zinc immune tablets
+  tagline: Effervescent immune tablets built around vitamin C and zinc.
+  iherb: https://www.iherb.com/c/airborne?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=airborne&i=hpc&tag=ibetterlife-20
+
+- name: Optimum Nutrition
+  slug: optimum-nutrition
+  monogram: ON
+  accent: "#1f2937"
+  origin: United States
+  focus: Whey protein, sports nutrition
+  tagline: Gold Standard whey, the default protein tub in most gyms.
+  iherb: https://www.iherb.com/c/optimum-nutrition?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=optimum+nutrition&i=hpc&tag=ibetterlife-20
+
+- name: Carlson
+  slug: carlson-labs
+  monogram: CL
+  accent: "#0369a1"
+  origin: United States
+  focus: Fish oil, vitamin D
+  tagline: Norwegian fish oils and vitamin D, family-run since the 1960s.
+  iherb: https://www.iherb.com/c/carlson-labs?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=carlson+labs&i=hpc&tag=ibetterlife-20
+
+- name: Pure Encapsulations
+  slug: pure-encapsulations
+  monogram: PE
+  accent: "#334155"
+  origin: United States
+  focus: Hypoallergenic practitioner formulas
+  tagline: Practitioner line with few excipients and hypoallergenic formulas.
+  iherb: https://www.iherb.com/c/pure-encapsulations?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=pure+encapsulations&i=hpc&tag=ibetterlife-20
+
+- name: Metagenics
+  slug: metagenics
+  monogram: ME
+  accent: "#0f766e"
+  origin: United States
+  focus: Clinician-dispensed formulas
+  tagline: Clinician-dispensed formulas, usually sold through practitioners.
+  iherb: https://www.iherb.com/c/metagenics?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=metagenics&i=hpc&tag=ibetterlife-20
+
+- name: Swanson
+  slug: swanson
+  monogram: SW
+  accent: "#7c2d12"
+  origin: United States
+  focus: Low-price catalog vitamins
+  tagline: Direct-sale catalog with low prices and a huge SKU count.
+  iherb: https://www.iherb.com/c/swanson?rcode=RZK388
+  amazon: https://www.amazon.com/s?k=swanson+vitamins&i=hpc&tag=ibetterlife-20
+
+- name: Puritan's Pride
+  slug: puritans-pride
+  monogram: PP
+  accent: "#9f1239"
+  origin: United States
+  focus: Bulk vitamins, buy-one-get-one offers
+  tagline: Bulk catalog brand with low unit prices, sold mainly direct.
+  amazon: https://www.amazon.com/s?k=puritans+pride&i=hpc&tag=ibetterlife-20
+

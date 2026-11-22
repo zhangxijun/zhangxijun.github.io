@@ -1,0 +1,101 @@
+{{ define "main" }}
+<div class="bs-page">
+  <nav class="bs-crumb" aria-label="Breadcrumb">
+    <a href="/brands/">Brands</a><span aria-hidden="true">/</span><span>{{ .Title }}</span>
+  </nav>
+
+  <header class="bs-hero">
+    {{- $logo := "" -}}
+    {{- $slug := .Params.brand_slug -}}
+    {{- with $slug -}}
+      {{- range $ext := slice "png" "jpg" "jpeg" "webp" "avif" "svg" -}}
+        {{- $rel := printf "images/brands/%s.%s" $slug $ext -}}
+        {{- if and (not $logo) (os.FileExists (printf "static/%s" $rel)) -}}{{- $logo = printf "/%s" $rel -}}{{- end -}}
+      {{- end -}}
+    {{- end }}
+    <div class="bs-logo{{ if $logo }} bs-logo-img{{ end }}" style="--br-accent: {{ .Params.accent }}">
+      {{- if $logo -}}
+      <img src="{{ $logo }}" alt="{{ .Title }} logo" width="180" height="180">
+      {{- else -}}
+      <span>{{ .Params.monogram }}</span>
+      {{- end -}}
+    </div>
+    <div class="bs-head">
+      <h1>{{ .Title }}</h1>
+      <p class="bs-tagline">{{ .Params.tagline }}</p>
+      <div class="bs-actions">
+        <a class="br-btn br-amazon" href="{{ .Params.amazon }}" target="_blank" rel="sponsored nofollow noopener">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><text x="12" y="15.5" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="currentColor">a</text><path d="M4.6 17.6c4.4 2.9 10.4 2.9 14.8 0" fill="none" stroke="#ff9900" stroke-width="1.8" stroke-linecap="round"/></svg>
+          <span>Shop on Amazon</span>
+        </a>
+        {{- with .Params.iherb }}
+        <a class="br-btn br-iherb" href="{{ . }}" target="_blank" rel="sponsored nofollow noopener">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19.6 4.2c-9.8.2-15.2 5-15.2 12.4 0 1.5.4 2.9.4 2.9s5.9-1.5 9.5-5.1c3.6-3.6 5.3-10.2 5.3-10.2z" fill="currentColor"/><path d="M6 19.5c1.9-5.7 5.6-8.7 10.4-10.6" fill="none" stroke="#059669" stroke-width="1.5" stroke-linecap="round"/></svg>
+          <span>Shop on iHerb</span>
+        </a>
+        {{- end }}
+      </div>
+    </div>
+  </header>
+
+  <dl class="bs-facts">
+    <div><dt>Founded</dt><dd>{{ .Params.founded }}</dd></div>
+    <div><dt>Headquarters</dt><dd>{{ .Params.hq }}</dd></div>
+    <div><dt>Owner</dt><dd>{{ .Params.parent }}</dd></div>
+    <div><dt>Price tier</dt><dd>{{ .Params.price_tier }}</dd></div>
+    <div><dt>Known for</dt><dd>{{ .Params.best_for }}</dd></div>
+  </dl>
+
+  <div class="bs-body">
+    {{ .Content }}
+  </div>
+</div>
+
+<style>
+  .bs-page{max-width:860px;margin:0 auto;padding:0 1.5rem 3rem}
+  .bs-crumb{display:flex;gap:8px;align-items:center;font-size:13px;color:#64748b;margin-bottom:1.5rem}
+  .bs-crumb a{color:#047857;text-decoration:none}
+  .bs-crumb a:hover{text-decoration:underline}
+  .bs-hero{display:flex;align-items:center;gap:22px;margin-bottom:1.75rem}
+  .bs-logo{flex:none;display:flex;align-items:center;justify-content:center;width:84px;height:84px;border-radius:50%;background:var(--br-accent);color:#fff;box-shadow:0 6px 16px rgba(6,78,59,.18)}
+  .bs-logo span{font-size:22px;font-weight:800;letter-spacing:.02em}
+  .bs-logo-img{background:#fff;border:1px solid #e2e8f0;border-radius:20px;padding:7px;box-shadow:0 4px 14px rgba(6,78,59,.10)}
+  .bs-logo img{display:block;width:100%;height:100%;object-fit:contain;border-radius:14px}
+  .bs-head{min-width:0}
+  .bs-hero h1{margin:0 0 4px;font-size:2.1rem;line-height:1.15;font-weight:800;color:#064e3b}
+  .bs-tagline{margin:0 0 12px;font-size:15px;color:#475569}
+  .bs-actions{display:flex;flex-wrap:wrap;gap:9px}
+  .bs-actions .br-btn{flex:none}
+  .br-btn{display:inline-flex;align-items:center;justify-content:center;gap:7px;padding:10px 18px;border-radius:999px;font-size:13.5px;font-weight:700;line-height:1;text-decoration:none;color:#fff !important;transition:background .15s ease}
+  .br-btn svg{width:16px;height:16px;flex:none}
+  .br-btn span{color:#fff !important}
+  .br-amazon{background:#232f3e}
+  .br-amazon:hover{background:#131a22;color:#fff !important}
+  .br-iherb{background:#059669}
+  .br-iherb:hover{background:#047857;color:#fff !important}
+  .bs-facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(125px,1fr));gap:14px;margin:0 0 2rem;padding:18px;background:#ecfdf5;border:1px solid #d1fae5;border-radius:16px}
+  .bs-facts div{margin:0}
+  .bs-facts dt{font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:#047857}
+  .bs-facts dd{margin:2px 0 0;font-size:14px;font-weight:600;color:#064e3b;line-height:1.4}
+  .bs-body{font-size:16px;line-height:1.75;color:#1e293b}
+  .bs-body h2{margin:2.25rem 0 .75rem;font-size:1.5rem;font-weight:800;color:#064e3b}
+  .bs-body h3{margin:1.75rem 0 .5rem;font-size:1.25rem;font-weight:700;color:#065f46}
+  .bs-body h4{margin:1.25rem 0 .5rem;font-size:1.05rem;font-weight:700;color:#047857}
+  .bs-body p{margin:0 0 1rem}
+  .bs-body ul{margin:0 0 1rem;padding-left:1.1rem}
+  .bs-body li{margin-bottom:.4rem}
+  .bs-body a{color:#047857;text-decoration:underline;text-underline-offset:2px}
+  .bs-body table{width:100%;border-collapse:collapse;margin:1rem 0 1.5rem;font-size:14px}
+  .bs-body th{background:#065f46;color:#fff;text-align:left;padding:9px 10px;font-weight:700}
+  .bs-body td{border-bottom:1px solid #e2e8f0;padding:9px 10px;vertical-align:top}
+  .bs-body tbody tr:nth-child(even){background:#f8fafc}
+  @media(max-width:640px){
+    .bs-page{padding:0 1rem 2rem}
+    .bs-hero{flex-direction:column;align-items:flex-start;gap:14px}
+    .bs-hero h1{font-size:1.6rem}
+    .bs-logo{width:64px;height:64px}
+    .bs-logo span{font-size:17px}
+    .bs-body table{display:block;overflow-x:auto;white-space:nowrap}
+  }
+</style>
+{{ end }}

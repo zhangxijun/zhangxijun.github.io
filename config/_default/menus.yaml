@@ -11,6 +11,9 @@ main:
   - name: Deals
     url: deals/
     weight: 25
+  - name: Brands
+    url: brands/
+    weight: 27
   - name: Categories
     url: tags/
     weight: 30

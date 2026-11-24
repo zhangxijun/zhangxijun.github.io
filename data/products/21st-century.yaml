@@ -1,0 +1,287 @@
+# 21st Century brand page product cards (English).
+# Rendered by {{< product-grid data="21st-century" item="N" >}}
+# Prices and ratings checked on iHerb US on 2026-11-22.
+- name: 21st Century Sentry, Adults Multivitamin & Multimineral, 300 Tablets
+  badge: Best value multivitamin
+  retailer: iHerb
+  image: /images/brands/21st-century-health-care/21st-century-sentry-adults-multivitamin-multimineral-300-tablets.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 300 tablets (300 servings)
+    - ~$16.99 on iHerb (about $0.06 per serving)
+    - 1 tablet daily, includes 18 mg iron
+  tip: "5 stars on cost: the lowest cost per serving we have measured for any adult multi."
+  note: "Plain RDA-level formula that trades premium ingredients for volume and price."
+  url: https://www.iherb.com/pr/21st-century-sentry-adults-multivitamin-multimineral-supplement-300-tablets/10525?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0007PLP0C?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/21st-century-sentry-adults-multivitamin-multimineral-supplement-300-tablets/10525?rcode=RZK388
+
+- name: 21st Century One Daily Men's Multivitamin, 100 Tablets
+  badge: Budget men's multi
+  retailer: iHerb
+  image: /images/brands/21st-century-health-care/21st-century-one-daily-mens-multivitamin-100-tablets.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 100 tablets (100 servings)
+    - ~$6.99 on iHerb (about $0.07 per serving)
+    - 1 tablet daily, no iron, includes lycopene
+  tip: "4.7 stars from 29,408 iHerb ratings; cheaper than One A Day Men's."
+  note: "Iron-free formula with added lycopene; compares well against mainstream men's multis."
+  url: https://www.iherb.com/pr/21st-century-one-daily-men-s-multivitamin-100-tablets/26029?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=21st+Century+One+Daily+Men%27s+100&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/21st-century-one-daily-men-s-multivitamin-100-tablets/26029?rcode=RZK388
+
+- name: 21st Century One Daily Women's Multivitamin, 100 Tablets
+  badge: Budget women's multi
+  retailer: iHerb
+  image: /images/brands/21st-century-health-care/21st-century-one-daily-womens-multivitamin-100-tablets.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 100 tablets (100 servings)
+    - ~$6.99 on iHerb (about $0.07 per serving)
+    - 1 tablet daily, includes 18 mg iron
+  tip: "4.7 stars from 35,643 iHerb ratings; iron included."
+  note: "Basic formula that mirrors One A Day Women's at a lower price point."
+  url: https://www.iherb.com/pr/21st-century-one-daily-women-s-multivitamin-100-tablets/25519?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=21st+Century+One+Daily+Women%27s+100&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/21st-century-one-daily-women-s-multivitamin-100-tablets/25519?rcode=RZK388
+
+- name: 21st Century Calcium Magnesium Zinc + Vitamin D3, 90 Tablets
+  badge: Budget bone trio
+  retailer: iHerb
+  image: /images/brands/21st-century-health-care/21st-century-calcium-magnesium-zinc-vitamin-d3-90-tablets.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 90 tablets (90 servings)
+    - ~$6.04 on iHerb (about $0.20 per serving)
+    - 600 mg calcium + 400 mg magnesium + 15 mg zinc + 200 IU D3 per 2 tablets
+  tip: "4.7 stars from 114,893 iHerb ratings; the volume leader for bone support."
+  note: "Magnesium oxide, which is less bioavailable than chelated forms; compare doses carefully."
+  url: https://www.iherb.com/pr/21st-century-calcium-magnesium-zinc-vitamin-d3-90-tablets/10695?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=21st+Century+Calcium+Magnesium+Zinc+D3+90&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/21st-century-calcium-magnesium-zinc-vitamin-d3-90-tablets/10695?rcode=RZK388
+
+- name: 21st Century Magnesium, 250 mg, 110 Tablets
+  badge: Budget magnesium
+  retailer: iHerb
+  image: /images/brands/21st-century-health-care/21st-century-magnesium-250-mg-110-tablets.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 110 tablets (110 servings)
+    - ~$4.99 on iHerb (about $0.05 per serving)
+    - 250 mg elemental magnesium per tablet (magnesium oxide)
+  tip: "4.7 stars from 71,916 iHerb ratings; cheapest magnesium on iHerb."
+  note: "Magnesium oxide is the cheapest form but least bioavailable; expect more digestive effects."
+  url: https://www.iherb.com/pr/21st-century-magnesium-250-mg-110-tablets/43822?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=21st+Century+Magnesium+250+mg+110&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/21st-century-magnesium-250-mg-110-tablets/43822?rcode=RZK388
+
+- name: 21st Century Potassium Gluconate, 595 mg, 110 Tablets
+  badge: Budget potassium
+  retailer: iHerb
+  image: /images/brands/21st-century-health-care/21st-century-potassium-gluconate-595-mg-110-tablets.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 110 tablets (110 servings)
+    - ~$4.99 on iHerb (about $0.05 per serving)
+    - 99 mg elemental potassium per tablet
+  tip: "4.6 stars from 19,839 iHerb ratings; the category's top seller on iHerb."
+  note: "Potassium gluconate, the most bioavailable and least irritating form of potassium."
+  url: https://www.iherb.com/pr/21st-century-potassium-gluconate-595-mg-110-tablets/41315?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=21st+Century+Potassium+Gluconate+595+mg+110&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/21st-century-potassium-gluconate-595-mg-110-tablets/41315?rcode=RZK388
+
+- name: 21st Century Zinc, 50 mg (as Zinc Citrate), 60 Tablets
+  badge: Budget zinc
+  retailer: iHerb
+  image: /images/brands/21st-century-health-care/21st-century-zinc-50-mg-as-zinc-citrate-60-tablets.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 60 tablets (60 servings)
+    - ~$3.00 on iHerb (about $0.05 per serving)
+    - 50 mg elemental zinc per tablet (as zinc citrate)
+  tip: "4.8 stars from 52,342 iHerb ratings; zinc citrate is highly bioavailable."
+  note: "50 mg is above the 40 mg daily upper limit, so this is intended for short-term use only."
+  url: https://www.iherb.com/pr/21st-century-zinc-50-mg-as-zinc-citrate-60-tablets/104765?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=21st+Century+Zinc+50+mg+Citrate+60&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/21st-century-zinc-50-mg-as-zinc-citrate-60-tablets/104765?rcode=RZK388
+
+- name: 21st Century Iron, 65 mg (as Ferrous Sulfate), 120 Tablets
+  badge: Budget iron
+  retailer: iHerb
+  image: /images/brands/21st-century-health-care/21st-century-iron-65-mg-as-ferrous-sulfate-120-tablets.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 120 tablets (120 servings)
+    - ~$5.49 on iHerb (about $0.05 per serving)
+    - 65 mg elemental iron per tablet (ferrous sulfate)
+  tip: "4.7 stars from 24,472 iHerb ratings; ferrous sulfate is well-studied but can be hard on the gut."
+  note: "65 mg is the RDA for women of childbearing age; men and postmenopausal women do not typically need this dose."
+  url: https://www.iherb.com/pr/21st-century-iron-65-mg-as-ferrous-sulfate-120-tablets/12232?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=21st+Century+Iron+65+mg+120&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/21st-century-iron-65-mg-as-ferrous-sulfate-120-tablets/12232?rcode=RZK388
+
+- name: 21st Century Vitamin C, 500 mg, 250 Tablets
+  badge: Budget vitamin C
+  retailer: iHerb
+  image: /images/brands/21st-century-health-care/21st-century-vitamin-c-500-mg-250-tablets.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 250 tablets (250 servings)
+    - ~$8.99 on iHerb (about $0.04 per serving)
+    - 500 mg vitamin C per tablet
+  tip: "4.8 stars from 35,309 iHerb ratings; 250 days for under $9."
+  note: "Simple ascorbic acid, no rose hips or bioflavonoids added. Good for everyday supplementation."
+  url: https://www.iherb.com/pr/21st-century-vitamin-c-500-mg-250-tablets/41309?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=21st+Century+Vitamin+C+500+mg+250&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/21st-century-vitamin-c-500-mg-250-tablets/41309?rcode=RZK388
+
+- name: 21st Century B-Complex with Vitamin C, 100 Vegetarian Capsules
+  badge: Budget B-complex
+  retailer: iHerb
+  image: /images/brands/21st-century-health-care/21st-century-b-complex-with-vitamin-c-100-vegetarian-capsules.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 100 veggie capsules (100 servings)
+    - ~$7.49 on iHerb (about $0.07 per serving)
+    - Full B spectrum with 500 mg vitamin C per capsule
+  tip: "4.8 stars from 28,551 iHerb ratings; vegetarian capsules."
+  note: "Standard B-complex for energy metabolism; pairs 10 B vitamins with vitamin C."
+  url: https://www.iherb.com/pr/21st-century-b-complex-with-vitamin-c-100-vegetarian-capsules/11969?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=21st+Century+B-Complex+Vitamin+C+100&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/21st-century-b-complex-with-vitamin-c-100-vegetarian-capsules/11969?rcode=RZK388
+
+- name: 21st Century Biotin, 10,000 mcg, 120 Tablets
+  badge: Budget high-dose biotin
+  retailer: iHerb
+  image: /images/brands/21st-century-health-care/21st-century-biotin-10000-mcg-120-tablets.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 120 tablets (120 servings)
+    - ~$9.99 on iHerb (about $0.08 per serving)
+    - 10,000 mcg (10 mg) biotin per tablet
+  tip: "4.7 stars from 47,114 iHerb ratings; popular among hair and nail supplement buyers."
+  note: "Very high dose — the RDA is 30 mcg. Hair growth evidence for biotin is mixed."
+  url: https://www.iherb.com/pr/21st-century-biotin-10-000-mcg-120-tablets/64496?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=21st+Century+Biotin+10000+mcg+120&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/21st-century-biotin-10-000-mcg-120-tablets/64496?rcode=RZK388
+
+- name: 21st Century Acidophilus Probiotic Blend, 150 Capsules
+  badge: Budget basic probiotic
+  retailer: iHerb
+  image: /images/brands/21st-century-health-care/21st-century-acidophilus-probiotic-blend-150-capsules.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 150 capsules (150 servings)
+    - ~$11.99 on iHerb (about $0.08 per serving)
+    - ~10 billion CFU per capsule (lactobacillus and bifidobacterium blend)
+  tip: "4.7 stars from 46,081 iHerb ratings; 150 days of basic probiotic support."
+  note: "Generic lactobacillus blend; no specific strain names listed, which is a limitation for clinical interpretation."
+  url: https://www.iherb.com/pr/21st-century-acidophilus-probiotic-blend-150-capsules/12535?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=21st+Century+Acidophilus+Probiotic+150&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/21st-century-acidophilus-probiotic-blend-150-capsules/12535?rcode=RZK388
+
+- name: 21st Century Melatonin, 5 mg, 120 Tablets
+  badge: Budget sleep aid
+  retailer: iHerb
+  image: /images/brands/21st-century-health-care/21st-century-melatonin-5-mg-120-tablets.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 120 tablets (120 servings)
+    - ~$8.99 on iHerb (about $0.07 per serving)
+    - 5 mg melatonin per tablet
+  tip: "4.7 stars from 14,667 iHerb ratings; 5 mg is above the 0.3–1 mg physiological dose."
+  note: "Melatonin is a circadian rhythm regulator, not a sedative; 5 mg often causes morning grogginess."
+  url: https://www.iherb.com/pr/21st-century-melatonin-5-mg-120-tablets/10813?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=21st+Century+Melatonin+5+mg+120&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/21st-century-melatonin-5-mg-120-tablets/10813?rcode=RZK388
+
+- name: 21st Century Arthri-Flex Advantage Plus D3, 120 Coated Tablets
+  badge: Budget joint formula
+  retailer: iHerb
+  image: /images/brands/21st-century-health-care/21st-century-arthri-flex-advantage-plus-d3-120-coated-tablets.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 120 tablets (40 servings)
+    - ~$22.99 on iHerb (about $0.77 per serving)
+    - 1,500 mg glucosamine + 1,200 mg chondroitin + 1,000 mg MSM + 40 mg hyaluronic acid + 1,000 IU D3 per 3 tablets
+  tip: "4.8 stars from 5,862 iHerb ratings; the full clinical glucosamine/chondroitin dose."
+  note: "Also includes 50 mg of undenatured Type II collagen per serving; 40-day supply."
+  url: https://www.iherb.com/pr/21st-century-arthri-flex-advantage-plus-d3-120-coated-tablets/37348?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=21st+Century+Arthri-Flex+Advantage+D3+120&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/21st-century-arthri-flex-advantage-plus-d3-120-coated-tablets/37348?rcode=RZK388
+
+- name: 21st Century Healthy Eyes Lutein and Zeaxanthin, 60 Tablets
+  badge: Budget eye support
+  retailer: iHerb
+  image: /images/brands/21st-century-health-care/21st-century-healthy-eyes-lutein-and-zeaxanthin-60-tablets.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 60 tablets (60 servings)
+    - ~$8.99 on iHerb (about $0.15 per serving)
+    - 6 mg lutein + 2 mg zeaxanthin per tablet
+  tip: "4.7 stars from 14,717 iHerb ratings; 6 mg lutein matches the AREDS 2 eye formula dose."
+  note: "Also contains vitamins C, E and zinc in eye-healthy doses."
+  url: https://www.iherb.com/pr/21st-century-healthy-eyes-lutein-and-zeaxanthin-60-tablets/46724?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=21st+Century+Healthy+Eyes+Lutein+60&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/21st-century-healthy-eyes-lutein-and-zeaxanthin-60-tablets/46724?rcode=RZK388

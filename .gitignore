@@ -1,3 +1,6 @@
+# Local docs (not published)
+doc/
+
 # Hugo Build Artifacts
 public/
 resources/

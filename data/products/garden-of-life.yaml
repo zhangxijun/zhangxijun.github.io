@@ -1,0 +1,288 @@
+# Garden of Life brand page product cards (English).
+# Rendered by {{< product-grid data="garden-of-life" item="N" >}}
+# Prices and ratings checked on iHerb US on 2026-11-22.
+# NOTE: Two originally-planned products (Dr. Formulated Once Daily 30B probiotic and Raw B Complex) were temporarily out of stock and replaced with Organics Turmeric.
+- name: Garden of Life Organics Women's Once Daily Multi, 60 Vegan Tablets
+  badge: Best organic women's multi
+  retailer: iHerb
+  image: /images/brands/garden-of-life/garden-of-life-organics-womens-once-daily-multi-60-vegan-tablets.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 60 vegan tablets (60 servings)
+    - ~$39.89 on iHerb (about $0.66 per serving)
+    - Certified organic, 25 mcg vitamin D3, iron-free
+  tip: "5 stars for a clean women's formula: organic, vegan and non-GMO."
+  note: "Built from certified organic food ingredients; iron-free with methylated B12."
+  url: https://www.iherb.com/pr/garden-of-life-organics-women-s-once-daily-multi-60-vegan-tablets/58122?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B00K5NEMJM?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/garden-of-life-organics-women-s-once-daily-multi-60-vegan-tablets/58122?rcode=RZK388
+
+- name: Garden of Life Organics Men's Once Daily Multi, 60 Vegan Tablets
+  badge: Best organic men's multi
+  retailer: iHerb
+  image: /images/brands/garden-of-life/garden-of-life-organics-mens-once-daily-multi-60-vegan-tablets.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 60 vegan tablets (60 servings)
+    - ~$39.89 on iHerb (about $0.66 per serving)
+    - Certified organic, 25 mcg D3, iron-free
+  tip: "4.8 stars from 3,155 iHerb ratings; men's iron-free organic formula."
+  note: "Certified organic whole-food formula; 25 mcg D3 from lichen, methylated B12."
+  url: https://www.iherb.com/pr/garden-of-life-organics-men-s-once-daily-60-vegan-tablets/58123?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Garden+of+Life+Organics+Men%27s+Once+Daily+60&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/garden-of-life-organics-men-s-once-daily-60-vegan-tablets/58123?rcode=RZK388
+
+- name: Garden of Life Vitamin Code Raw One Women, 75 Veggie Capsules
+  badge: Whole-food women's multi
+  retailer: iHerb
+  image: /images/brands/garden-of-life/garden-of-life-vitamin-code-raw-one-women-75-veggie-capsules.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 75 veggie capsules (75 servings)
+    - ~$37.50 on iHerb (about $0.50 per serving)
+    - Raw, whole-food formula, no iron listed
+  tip: "4.7 stars from 7,886 iHerb ratings; raw, food-based formula."
+  note: "Built from real fruits and vegetables; \"raw\" means not heat-processed, though still shelf-stable."
+  url: https://www.iherb.com/pr/garden-of-life-vitamin-code-raw-one-once-daily-multivitamin-for-women-75-vegetarian-capsules/18253?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Garden+of+Life+Vitamin+Code+Raw+One+Women+75&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/garden-of-life-vitamin-code-raw-one-once-daily-multivitamin-for-women-75-vegetarian-capsules/18253?rcode=RZK388
+
+- name: Garden of Life Organics Women's Multi 40+, 120 Vegan Tablets
+  badge: Best organic 40+ multi
+  retailer: iHerb
+  image: /images/brands/garden-of-life/garden-of-life-organics-womens-multi-40-120-vegan-tablets.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 120 vegan tablets (120 servings)
+    - ~$80.00 on iHerb (about $0.67 per serving)
+    - Certified organic, iron-free, higher B12 and zinc
+  tip: "4.8 stars from 1,409 iHerb ratings; more expensive than standard Organics."
+  note: "Higher dose B12 (25 mcg) and zinc (11 mg) for older women; price premium reflects the 40+ specialization."
+  url: https://www.iherb.com/pr/garden-of-life-organics-women-s-multi-40-120-vegan-tablets/58119?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Garden+of+Life+Organics+Women+40+120&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/garden-of-life-organics-women-s-multi-40-120-vegan-tablets/58119?rcode=RZK388
+
+- name: Garden of Life Dr. Formulated Once Daily Probiotics for Women, 50 Billion CFU, 30 Veggie Caps
+  badge: Best high-CFU women's probiotic
+  retailer: iHerb
+  image: /images/brands/garden-of-life/garden-of-life-dr-formulated-once-daily-probiotics-for-women-50-billion-cfu-30-veggie-caps.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 30 veggie capsules (30 servings)
+    - ~$39.30 on iHerb (about $1.31 per serving)
+    - 50 billion CFU, 16 strains, 30-day supply
+  tip: "4.7 stars from 26,276 iHerb ratings; the most-reviewed Garden of Life probiotic."
+  note: "Shelf-stable (no refrigeration needed) at 50 billion CFU per capsule; includes women-specific Lactobacillus strains."
+  url: https://www.iherb.com/pr/garden-of-life-dr-formulated-probiotics-once-daily-women-s-50-billion-30-vegetarian-capsules/64442?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Garden+of+Life+Dr+Formulated+Women%27s+50+Billion+30&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/garden-of-life-dr-formulated-probiotics-once-daily-women-s-50-billion-30-vegetarian-capsules/64442?rcode=RZK388
+
+- name: Garden of Life Dr. Formulated Once Daily Probiotics for Men, 50 Billion CFU, 30 Veggie Caps
+  badge: Best high-CFU men's probiotic
+  retailer: iHerb
+  image: /images/brands/garden-of-life/garden-of-life-dr-formulated-once-daily-probiotics-for-men-50-billion-cfu-30-veggie-caps.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 30 veggie capsules (30 servings)
+    - ~$39.30 on iHerb (about $1.31 per serving)
+    - 50 billion CFU, 16 strains, 30-day supply
+  tip: "4.7 stars from 5,360 iHerb ratings; shelf-stable men's formula."
+  note: "Shelf-stable; 50 billion CFU matches the women's formula but with different strain emphasis for men's microbiome."
+  url: https://www.iherb.com/pr/garden-of-life-dr-formulated-probiotics-once-daily-men-s-50-billion-30-vegetarian-capsules/64437?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Garden+of+Life+Dr+Formulated+Men%27s+50+Billion+30&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/garden-of-life-dr-formulated-probiotics-once-daily-men-s-50-billion-30-vegetarian-capsules/64437?rcode=RZK388
+
+- name: Garden of Life Dr. Formulated Prenatal Probiotics, 30 Veggie Caps
+  badge: Prenatal shelf-stable probiotic
+  retailer: iHerb
+  image: /images/brands/garden-of-life/garden-of-life-dr-formulated-prenatal-probiotics-30-veggie-caps.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 30 veggie capsules (30 servings)
+    - ~$25.60 on iHerb (about $0.85 per serving)
+    - 20 billion CFU, 14 strains, shelf-stable
+  tip: "4.7 stars from 4,499 iHerb ratings; prenatal-safe, no refrigeration."
+  note: "Designed for pregnancy and postpartum; avoids strains with limited safety data in pregnancy."
+  url: https://www.iherb.com/pr/garden-of-life-dr-formulated-probiotics-once-daily-prenatal-no-refrigeration-required-30-vegetarian-capsules/71135?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Garden+of+Life+Dr+Formulated+Prenatal+Probiotic+30&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/garden-of-life-dr-formulated-probiotics-once-daily-prenatal-no-refrigeration-required-30-vegetarian-capsules/71135?rcode=RZK388
+
+- name: Garden of Life Dr. Formulated Organic Kids Probiotics + Vitamin C & D, 30 Chewables
+  badge: Organic kids probiotic
+  retailer: iHerb
+  image: /images/brands/garden-of-life/garden-of-life-dr-formulated-organic-kids-probiotics-vitamin-c-d-30-chewables.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 30 organic chewables (30 servings)
+    - ~$24.90 on iHerb (about $0.83 per serving)
+    - 15 billion CFU + 60 mg vitamin C + 400 IU D3 per chewable
+  tip: "4.7 stars from 6,791 iHerb ratings; berry-cherry flavor."
+  note: "Chewable, organic, includes vitamins C and D for immune support alongside probiotics."
+  url: https://www.iherb.com/pr/garden-of-life-dr-formulated-probiotics-organic-kids-probiotics-vitamins-c-d-tasty-organic-berry-cherry-30-yummy-chewables/77866?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Garden+of+Life+Dr+Formulated+Organic+Kids+Probiotic+30&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/garden-of-life-dr-formulated-probiotics-organic-kids-probiotics-vitamins-c-d-tasty-organic-berry-cherry-30-yummy-chewables/77866?rcode=RZK388
+
+- name: Garden of Life Raw Probiotics Ultimate Care, 30 Veggie Caps
+  badge: Ultimate-care high-CFU probiotic
+  retailer: iHerb
+  image: /images/brands/garden-of-life/garden-of-life-raw-probiotics-ultimate-care-30-veggie-caps.jpg
+  stars: 4
+  rating: 4.5
+  meta:
+    - 30 veggie capsules (30 servings)
+    - ~$51.60 on iHerb (about $1.72 per serving)
+    - 100 billion CFU, 34 strains, raw formula
+  tip: "4.5 stars from 2,208 iHerb ratings; highest CFU in the line."
+  note: "The most expensive Garden of Life probiotic; 100 billion CFU is higher than most users need, but shoppers chasing maximum CFU may prefer it."
+  url: https://www.iherb.com/pr/garden-of-life-raw-probiotics-ultimate-care-30-vegetarian-capsules/48497?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Garden+of+Life+Raw+Probiotics+Ultimate+Care+30&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/garden-of-life-raw-probiotics-ultimate-care-30-vegetarian-capsules/48497?rcode=RZK388
+
+- name: Garden of Life Organics Plant Calcium, 180 Vegan Tablets
+  badge: Organic plant-based calcium
+  retailer: iHerb
+  image: /images/brands/garden-of-life/garden-of-life-organics-plant-calcium-180-vegan-tablets.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 180 vegan tablets (60 servings)
+    - ~$63.30 on iHerb (about $1.06 per serving)
+    - 800 mg organic plant calcium + 400 IU D3 per 3 tablets
+  tip: "4.8 stars from 2,910 iHerb ratings; vegan algae-based calcium."
+  note: "Organic, vegan calcium from marine algae; three tablets per serving. Compare to New Chapter Bone Strength at 81 cents (also three tablets) vs Nature Made calcium at 6.5 cents."
+  url: https://www.iherb.com/pr/garden-of-life-organics-organic-plant-based-calcium-180-vegan-tablets/58125?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Garden+of+Life+Organics+Plant+Calcium+180&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/garden-of-life-organics-organic-plant-based-calcium-180-vegan-tablets/58125?rcode=RZK388
+
+- name: Garden of Life Grass Fed Collagen Peptides, 560 g (19.75 oz)
+  badge: NSF-certified grass-fed collagen
+  retailer: iHerb
+  image: /images/brands/garden-of-life/garden-of-life-grass-fed-collagen-peptides-560-g-1975-oz.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 560 g (about 28 servings at 20 g)
+    - ~$32.89 on iHerb (about $1.17 per serving)
+    - 20 g grass-fed bovine collagen per scoop + 2 g probiotics
+  tip: "4.8 stars from 7,999 iHerb ratings; NSF Certified for Sport."
+  note: "NSF Certified for Sport means third-party tested for banned substances; unflavored, mixes in coffee or smoothies."
+  url: https://www.iherb.com/pr/garden-of-life-grass-fed-collagen-peptides-unflavored-19-75-oz-560-g/86837?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Garden+of+Life+Grass+Fed+Collagen+560+g&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/garden-of-life-grass-fed-collagen-peptides-unflavored-19-75-oz-560-g/86837?rcode=RZK388
+
+- name: Garden of Life Magnesium with Pre/Probiotics Gummies, Raspberry, 60 Gummies
+  badge: Gummy magnesium with probiotics
+  retailer: iHerb
+  image: /images/brands/garden-of-life/garden-of-life-magnesium-with-preprobiotics-gummies-raspberry-60-gummies.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 60 gummies (60 servings)
+    - ~$19.20 on iHerb (about $0.32 per serving)
+    - 150 mg elemental magnesium per 2 gummies + 1 billion CFU probiotics
+  tip: "4.7 stars from 3,305 iHerb ratings; chewable magnesium for pill-averse users."
+  note: "Gummy form means you take 2 for the full dose; adds probiotics alongside magnesium. Compare to Doctor's Best Albion chelate (200 mg elemental, 20 cents per 2 tablets) for better bioavailability."
+  url: https://www.iherb.com/pr/garden-of-life-magnesium-with-pre-probiotics-gummies-raspberry-60-gummies/113268?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Garden+of+Life+Magnesium+Probiotic+Gummies+60&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/garden-of-life-magnesium-with-pre-probiotics-gummies-raspberry-60-gummies/113268?rcode=RZK388
+
+- name: Garden of Life Vitamin Code Raw D3, 5,000 IU, 60 Veggie Caps
+  badge: Raw whole-food D3
+  retailer: iHerb
+  image: /images/brands/garden-of-life/garden-of-life-vitamin-code-raw-d3-5000-iu-60-veggie-caps.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 60 veggie capsules (60 servings)
+    - ~$26.20 on iHerb (about $0.44 per serving)
+    - 5,000 IU D3 + 1,000 IU A per capsule (from food sources)
+  tip: "4.7 stars from 2,578 iHerb ratings; raw, food-source D3."
+  note: "Raw means not heat-processed; D3 comes from lichen. Price is higher than NOW/CGN because of the raw whole-food formulation."
+  url: https://www.iherb.com/pr/garden-of-life-vitamin-code-raw-d3-125-mcg-5-000-iu-60-vegetarian-capsules/39195?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Garden+of+Life+Vitamin+Code+Raw+D3+5000+IU+60&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/garden-of-life-vitamin-code-raw-d3-125-mcg-5-000-iu-60-vegetarian-capsules/39195?rcode=RZK388
+
+- name: Garden of Life Organics Turmeric Inflammation Response, 30 Veggie Caps
+  badge: Organic turmeric with ginger
+  retailer: iHerb
+  image: /images/brands/garden-of-life/garden-of-life-organics-turmeric-inflammation-response-30-veggie-caps.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 30 veggie capsules (30 servings)
+    - ~$34.99 on iHerb (about $1.17 per serving)
+    - 300 mg organic turmeric + 100 mg organic ginger per capsule
+  tip: "4.7 stars from 2,167 iHerb ratings; organic, vegan, non-GMO."
+  note: "Organic, food-based turmeric with ginger companion. Higher price than Doctor's Best Curcumin C3 because it uses organic whole-food ingredients instead of patented 95% curcuminoid extract + BioPerine."
+  url: https://www.iherb.com/pr/garden-of-life-organics-turmeric-inflammation-response-30-vegan-capsules/58126?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Garden+of+Life+Organics+Turmeric+30&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/garden-of-life-organics-turmeric-inflammation-response-30-vegan-capsules/58126?rcode=RZK388
+
+- name: Garden of Life Vitamin Code Raw Zinc, 30 mg, 60 Veggie Caps
+  badge: Raw whole-food zinc
+  retailer: iHerb
+  image: /images/brands/garden-of-life/garden-of-life-vitamin-code-raw-zinc-30-mg-60-veggie-caps.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 60 veggie capsules (60 servings)
+    - ~$14.99 on iHerb (about $0.25 per serving)
+    - 30 mg elemental zinc per capsule (from food sources)
+  tip: "4.7 stars from 1,432 iHerb ratings; raw, food-source zinc."
+  note: "Raw zinc from food sources rather than synthetic zinc oxide. 30 mg is the same dose as Nature Made's USP Verified zinc, but Garden of Life adds a 25 mg vitamin C food blend and organic vegetable mix."
+  url: https://www.iherb.com/pr/garden-of-life-vitamin-code-raw-zinc-30-mg-60-vegetarian-capsules/39196?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Garden+of+Life+Vitamin+Code+Raw+Zinc+30+mg+60&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/garden-of-life-vitamin-code-raw-zinc-30-mg-60-vegetarian-capsules/39196?rcode=RZK388

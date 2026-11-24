@@ -1,0 +1,287 @@
+# Nature Made brand page product cards (English).
+# Rendered by {{< product-grid data="nature-made" item="N" >}}
+# Prices and ratings checked on iHerb US on 2026-11-22.
+- name: Nature Made Multi For Her, 90 Tablets
+  badge: USP-verified women's multi
+  retailer: iHerb
+  image: /images/brands/nature-made/nature-made-multi-for-her-90-tablets.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 90 tablets (90 servings)
+    - ~$11.24 on iHerb (about $0.12 per serving)
+    - USP Verified, includes 18 mg iron
+  tip: "4.7 stars from 2,246 iHerb ratings; USP Verified, the gold standard for supplement label trust."
+  note: "Standard RDA-level formula; USP Verified means potency and purity are independently audited."
+  url: https://www.iherb.com/pr/nature-made-multi-for-her-90-tablets/40397?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Nature+Made+Multi+For+Her+90&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nature-made-multi-for-her-90-tablets/40397?rcode=RZK388
+
+- name: Nature Made Multi For Him, 90 Tablets
+  badge: USP-verified men's multi
+  retailer: iHerb
+  image: /images/brands/nature-made/nature-made-multi-for-him-90-tablets.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 90 tablets (90 servings)
+    - ~$12.49 on iHerb (about $0.14 per serving)
+    - USP Verified, no iron
+  tip: "4.7 stars from 1,958 iHerb ratings; iron-free, USP Verified."
+  note: "No iron, which is the right call for most men. USP Verified for potency and purity."
+  url: https://www.iherb.com/pr/nature-made-multi-for-him-90-tablets/40396?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Nature+Made+Multi+For+Him+90&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nature-made-multi-for-him-90-tablets/40396?rcode=RZK388
+
+- name: Nature Made Prenatal Folic Acid + DHA, 90 Softgels
+  badge: USP-verified prenatal with DHA
+  retailer: iHerb
+  image: /images/brands/nature-made/nature-made-prenatal-folic-acid-dha-90-softgels.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 90 softgels (90 servings)
+    - ~$42.50 on iHerb (about $0.47 per serving)
+    - 800 mcg folate + 200 mg DHA + 27 mg iron
+  tip: "4.6 stars from 1,577 iHerb ratings; USP Verified prenatal."
+  note: "One a day, includes DHA which many prenatals skip. Price reflects the DHA addition."
+  url: https://www.iherb.com/pr/nature-made-prenatal-folic-acid-dha-orange-90-softgels/40458?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Nature+Made+Prenatal+DHA+90&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nature-made-prenatal-folic-acid-dha-orange-90-softgels/40458?rcode=RZK388
+
+- name: Nature Made Vitamin D3, 2,000 IU, 250 Softgels
+  badge: USP-verified budget D3
+  retailer: iHerb
+  image: /images/brands/nature-made/nature-made-vitamin-d3-2000-iu-250-softgels.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 250 softgels (250 servings)
+    - ~$26.30 on iHerb (about $0.11 per serving)
+    - USP Verified, 2,000 IU per softgel
+  tip: "4.8 stars from 688 iHerb ratings; USP Verified, 250-day supply."
+  note: "Lanolin-sourced D3, the standard maintenance dose for most adults who supplement."
+  url: https://www.iherb.com/pr/nature-made-vitamin-d3-50-mcg-2-000-iu-250-softgels/40422?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Nature+Made+Vitamin+D3+2000+IU+250&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nature-made-vitamin-d3-50-mcg-2-000-iu-250-softgels/40422?rcode=RZK388
+
+- name: Nature Made Folic Acid, 400 mcg, 250 Tablets
+  badge: USP-verified prenatal folate
+  retailer: iHerb
+  image: /images/brands/nature-made/nature-made-folic-acid-400-mcg-250-tablets.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 250 tablets (250 servings)
+    - ~$6.31 on iHerb (about $0.03 per serving)
+    - USP Verified, 400 mcg folic acid per tablet
+  tip: "4.7 stars from 2,097 iHerb ratings; 250-day supply for under $7."
+  note: "The standard prenatal dose of 400 mcg; USP Verified means potency is guaranteed."
+  url: https://www.iherb.com/pr/nature-made-folic-acid-250-tablets/62758?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Nature+Made+Folic+Acid+400+mcg+250&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nature-made-folic-acid-250-tablets/62758?rcode=RZK388
+
+- name: Nature Made Magnesium, 250 mg, 100 Tablets
+  badge: Budget magnesium (NOT USP)
+  retailer: iHerb
+  image: /images/brands/nature-made/nature-made-magnesium-250-mg-100-tablets.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 100 tablets (100 servings)
+    - ~$5.49 on iHerb (about $0.055 per serving)
+    - 250 mg elemental magnesium (magnesium oxide)
+  tip: "4.7 stars from 4,612 iHerb ratings; budget magnesium oxide."
+  note: "IMPORTANT: This is magnesium oxide (low absorption) and NOT USP Verified. Compare to Doctor's Best Albion chelate for better bioavailability."
+  url: https://www.iherb.com/pr/nature-made-magnesium-250-mg-100-tablets/70862?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Nature+Made+Magnesium+250+mg+100&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nature-made-magnesium-250-mg-100-tablets/70862?rcode=RZK388
+
+- name: Nature Made Zinc, 30 mg, 100 Tablets
+  badge: USP-verified zinc
+  retailer: iHerb
+  image: /images/brands/nature-made/nature-made-zinc-30-mg-100-tablets.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 100 tablets (100 servings)
+    - ~$6.30 on iHerb (about $0.06 per serving)
+    - USP Verified, 30 mg elemental zinc per tablet
+  tip: "4.7 stars from 1,414 iHerb ratings; USP Verified, 30 mg per serving."
+  note: "30 mg is the RDA plus a modest buffer; 50 mg exceeds the 40 mg UL. USP Verified means potency is independently audited."
+  url: https://www.iherb.com/pr/nature-made-zinc-30-mg-100-tablets/70864?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Nature+Made+Zinc+30+mg+100&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nature-made-zinc-30-mg-100-tablets/70864?rcode=RZK388
+
+- name: Nature Made Calcium, 600 mg + Vitamin D3, 220 Tablets
+  badge: USP-verified budget calcium
+  retailer: Amazon
+  image: /images/brands/nature-made/nature-made-calcium-600-mg-vitamin-d3-220-tablets.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 220 tablets (110-220 days)
+    - ~$14.36 on Amazon (about $0.065 per tablet)
+    - USP Verified, 600 mg calcium + 200 IU D3 per tablet
+  tip: "#4 in Amazon Calcium Mineral Supplements; 28,193 ratings at 4.7."
+  note: "USP Verified, take one or two tablets daily with meals. Compare dose against other calcium sources in your diet."
+  url: https://www.amazon.com/dp/B002FH5I0I?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B002FH5I0I?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nature-made-calcium-600-mg-with-vitamin-d3-220-tablets/40408?rcode=RZK388
+
+- name: Nature Made Iron, 65 mg, 180 Tablets
+  badge: USP-verified iron
+  retailer: iHerb
+  image: /images/brands/nature-made/nature-made-iron-65-mg-180-tablets.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 180 tablets (180 servings)
+    - ~$11.40 on iHerb (about $0.06 per serving)
+    - USP Verified, 65 mg elemental iron (ferrous sulfate)
+  tip: "4.7 stars from 1,409 iHerb ratings; USP Verified ferrous sulfate."
+  note: "65 mg is the RDA for women of childbearing age; men and postmenopausal women do not typically need iron."
+  url: https://www.iherb.com/pr/nature-made-iron-65-mg-180-tablets/70863?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Nature+Made+Iron+65+mg+180&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nature-made-iron-65-mg-180-tablets/70863?rcode=RZK388
+
+- name: Nature Made Vitamin C, 1,000 mg Time Release, 60 Tablets
+  badge: USP-verified slow-release C
+  retailer: iHerb
+  image: /images/brands/nature-made/nature-made-vitamin-c-1000-mg-time-release-60-tablets.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 60 tablets (60 servings)
+    - ~$18.00 on iHerb (about $0.30 per serving)
+    - USP Verified, 1,000 mg vitamin C + rose hips, time release
+  tip: "4.7 stars from 264 iHerb ratings; slow-release for steadier blood levels."
+  note: "Time-release formula avoids the peak-and-crash of standard ascorbic acid. Price is higher than NOW/CGN because of the release technology."
+  url: https://www.iherb.com/pr/nature-made-vitamin-c-with-rose-hips-time-release-1-000-mg-60-tablets/40416?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Nature+Made+Vitamin+C+1000+Time+Release+60&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nature-made-vitamin-c-with-rose-hips-time-release-1-000-mg-60-tablets/40416?rcode=RZK388
+
+- name: Nature Made Fish Oil, 1,200 mg, 200 Softgels
+  badge: USP-verified fish oil
+  retailer: iHerb
+  image: /images/brands/nature-made/nature-made-fish-oil-1200-mg-200-softgels.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 200 softgels (100 servings)
+    - ~$37.49 on iHerb (about $0.37 per serving)
+    - USP Verified, 360 mg EPA + 240 mg DHA per 2 softgels
+  tip: "4.8 stars from 380 iHerb ratings; USP Verified fish oil, burp-less formula."
+  note: "USP Verified for potency and purity; burp-less formula uses natural citrus flavoring."
+  url: https://www.iherb.com/pr/nature-made-fish-oil-burp-less-1-200-mg-200-softgels/62761?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Nature+Made+Fish+Oil+1200+200&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nature-made-fish-oil-burp-less-1-200-mg-200-softgels/62761?rcode=RZK388
+
+- name: Nature Made CoQ10, 200 mg, 105 Softgels
+  badge: USP-verified high-dose CoQ10
+  retailer: Amazon
+  image: /images/brands/nature-made/nature-made-coq10-200-mg-105-softgels.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 105 softgels (105 servings)
+    - ~$28.00 on Amazon (about $0.27 per serving)
+    - USP Verified, 200 mg CoQ10 per softgel
+  tip: "5 stars for label trust: USP has verified potency and purity."
+  note: "USP Verified; single 200 mg softgel avoids taking two 100 mg capsules. NOTE: iHerb sells an 80-count at a higher price; use Amazon's 105-count bottle."
+  url: https://www.amazon.com/dp/B07CDXRBVJ?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B07CDXRBVJ?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nature-made-coq10-200-mg-80-softgels/76904?rcode=RZK388
+
+- name: Nature Made Melatonin, 3 mg, 240 Tablets
+  badge: USP-verified budget melatonin
+  retailer: iHerb
+  image: /images/brands/nature-made/nature-made-melatonin-3-mg-240-tablets.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 240 tablets (240 servings)
+    - ~$12.90 on iHerb (about $0.05 per serving)
+    - USP Verified, 3 mg melatonin per tablet
+  tip: "4.7 stars from 549 iHerb ratings; 240-day supply under $13."
+  note: "USP Verified means potency is guaranteed; 3 mg is near the physiological circadian dose."
+  url: https://www.iherb.com/pr/nature-made-melatonin-3-mg-240-tablets/76911?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Nature+Made+Melatonin+3+mg+240&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nature-made-melatonin-3-mg-240-tablets/76911?rcode=RZK388
+
+- name: Nature Made CholestOff Complete, 120 Softgels
+  badge: USP-verified cholesterol support
+  retailer: iHerb
+  image: /images/brands/nature-made/nature-made-cholestoff-complete-120-softgels.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 120 softgels (120 servings)
+    - ~$41.87 on iHerb (about $0.35 per serving)
+    - USP Verified, 400 mg plant sterols + stanols per softgel
+  tip: "4.7 stars from 286 iHerb ratings; USP Verified for cholesterol support."
+  note: "Plant sterols and stanols block cholesterol absorption; take with meals. FDA allows a cholesterol-lowering claim for this dose."
+  url: https://www.iherb.com/pr/nature-made-cholestoff-complete-120-softgels/70870?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Nature+Made+CholestOff+Complete+120&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nature-made-cholestoff-complete-120-softgels/70870?rcode=RZK388
+
+- name: Nature Made Turmeric Curcumin, 60 Capsules
+  badge: Budget beginner turmeric (NOT USP)
+  retailer: iHerb
+  image: /images/brands/nature-made/nature-made-turmeric-curcumin-60-capsules.jpg
+  stars: 4
+  rating: 4.5
+  meta:
+    - 60 veggie capsules (60 servings)
+    - ~$15.10 on iHerb (about $0.25 per serving)
+    - 500 mg turmeric root + 95% curcuminoid extract per capsule
+  tip: "4.5 stars from 1,130 iHerb ratings; budget turmeric for beginners."
+  note: "IMPORTANT: This is NOT USP Verified — turmeric is not on Nature Made's USP-certified product list. Compare to Doctor's Best Curcumin C3 for patented, USP-level quality."
+  url: https://www.iherb.com/pr/nature-made-turmeric-curcumin-60-veggie-capsules/70865?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Nature+Made+Turmeric+Curcumin+60&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nature-made-turmeric-curcumin-60-veggie-capsules/70865?rcode=RZK388

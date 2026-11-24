@@ -1,0 +1,287 @@
+# Doctor's Best brand page product cards (English).
+# Rendered by {{< product-grid data="doctor-s-best" item="N" >}}
+# Prices and ratings checked on iHerb US on 2026-11-22.
+- name: Doctor's Best High Absorption Magnesium Lysinate Glycinate Chelated, 240 Tablets
+  badge: Best chelated magnesium
+  retailer: Amazon
+  image: /images/brands/doctors-best/doctors-best-high-absorption-magnesium-lysinate-glycinate-chelated-240-tablets.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 240 tablets (120 servings)
+    - ~$23.99 on Amazon (about $0.20 per serving)
+    - 200 mg elemental magnesium per 2 tablets (Albion TRAACS)
+  tip: "#1 magnesium product on iHerb with 218,762 ratings at 4.6."
+  note: "Albion TRAACS chelate means better gut tolerance than magnesium oxide; large tablets."
+  url: https://www.amazon.com/dp/B000BD0RT0?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B000BD0RT0?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/doctor-s-best-high-absorption-magnesium-lysinate-glycinate-chelated-albion-traacs-240-tablets-100-mg-per-tablet/16567?rcode=RZK388
+
+- name: Doctor's Best High Absorption CoQ10 with BioPerine, 100 mg, 120 Veggie Capsules
+  badge: Best CoQ10 with black pepper
+  retailer: Amazon
+  image: /images/brands/doctors-best/doctors-best-high-absorption-coq10-with-bioperine-100-mg-120-veggie-capsules.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 120 veggie capsules (120 servings)
+    - ~$18.99 on Amazon (about $0.16 per serving)
+    - 100 mg CoQ10 + 5 mg BioPerine per capsule
+  tip: "5-star all-rounder: vegan capsules, black pepper for absorption, under $20."
+  note: "Naturally fermented CoQ10 with BioPerine (black pepper extract) for better absorption."
+  url: https://www.amazon.com/dp/B0019GW38G?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0019GW38G?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/doctor-s-best-high-absorption-coq10-with-bioperine-100-mg-120-veggie-capsules/15658?rcode=RZK388
+
+- name: Doctor's Best Ubiquinol (QH-Absorb), 100 mg, 60 Softgels
+  badge: Active ubiquinol for 40+ users
+  retailer: iHerb
+  image: /images/brands/doctors-best/doctors-best-ubiquinol-qh-absorb-100-mg-60-softgels.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 60 softgels (60 servings)
+    - ~$36.99 on iHerb (about $0.62 per serving)
+    - 100 mg ubiquinol (reduced, active CoQ10) per softgel
+  tip: "4.8 stars from 4,758 iHerb ratings; Kaneka-sourced ubiquinol."
+  note: "Ubiquinol is the form of CoQ10 that your body actually uses; absorption is better than ubiquinone, especially as you age."
+  url: https://www.iherb.com/pr/doctor-s-best-ubiquinol-qh-absorb-100-mg-60-softgels/17133?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Doctor%27s+Best+Ubiquinol+QH-Absorb+100+mg+60&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/doctor-s-best-ubiquinol-qh-absorb-100-mg-60-softgels/17133?rcode=RZK388
+
+- name: Doctor's Best Glucosamine Chondroitin MSM with OptiMSM, 240 Veggie Capsules
+  badge: Full clinical joint dose
+  retailer: Amazon
+  image: /images/brands/doctors-best/doctors-best-glucosamine-chondroitin-msm-with-optimsm-240-veggie-capsules.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 240 veggie capsules (60 servings)
+    - ~$32.99 on Amazon (about $0.55 per serving)
+    - 4 capsules: 1,500 mg glucosamine + 1,200 mg chondroitin + 1,000 mg OptiMSM
+  tip: "#6 in Amazon's Chondroitin & Glucosamine category; 95,497 iHerb ratings at 4.8."
+  note: "The full daily glucosamine and chondroitin doses used in major trials; contains shellfish."
+  url: https://www.amazon.com/dp/B000I4DFAK?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B000I4DFAK?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/doctor-s-best-glucosamine-chondroitin-msm-with-optimsm-240-veggie-capsules/23?rcode=RZK388
+
+- name: Doctor's Best MSM (OptiMSM), 1,500 mg, 120 Tablets
+  badge: Patented MSM source
+  retailer: iHerb
+  image: /images/brands/doctors-best/doctors-best-msm-optimsm-1500-mg-120-tablets.jpg
+  stars: 5
+  rating: 4.6
+  meta:
+    - 120 tablets (60 servings)
+    - ~$13.99 on iHerb (about $0.12 per serving)
+    - 1,500 mg OptiMSM per 2 tablets
+  tip: "4.6 stars from 31,277 iHerb ratings; the most studied MSM source."
+  note: "OptiMSM is the most widely tested MSM form; used in many joint health trials."
+  url: https://www.iherb.com/pr/doctor-s-best-msm-optimsm-1-500-mg-per-2-tablets-120-tablets/3?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Doctor%27s+Best+MSM+OptiMSM+120&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/doctor-s-best-msm-optimsm-1-500-mg-per-2-tablets-120-tablets/3?rcode=RZK388
+
+- name: Doctor's Best High Absorption Curcumin with Curcumin C3 Complex and BioPerine, 120 Veggie Capsules
+  badge: Best patented curcumin
+  retailer: iHerb
+  image: /images/brands/doctors-best/doctors-best-high-absorption-curcumin-with-curcumin-c3-complex-and-bioperine-120-veggie-capsules.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 120 veggie capsules (60 servings)
+    - ~$35.99 on iHerb (about $0.54 per serving)
+    - 500 mg Curcumin C3 (95% curcuminoids) + 5 mg BioPerine per 2 capsules
+  tip: "4.8 stars from 16,233 iHerb ratings; BioPerine boosts curcumin absorption 20x."
+  note: "Curcumin C3 Complex is the most studied curcumin source; BioPerine dramatically increases bioavailability."
+  url: https://www.iherb.com/pr/doctor-s-best-high-absorption-curcumin-with-curcumin-c3-complex-and-bioperine-120-veggie-capsules/13?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Doctor%27s+Best+Curcumin+C3+BioPerine+120&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/doctor-s-best-high-absorption-curcumin-with-curcumin-c3-complex-and-bioperine-120-veggie-capsules/13?rcode=RZK388
+
+- name: Doctor's Best PepZin GI, Zinc Carnosine Complex, 120 Veggie Capsules
+  badge: Stomach protection zinc
+  retailer: iHerb
+  image: /images/brands/doctors-best/doctors-best-pepzin-gi-zinc-carnosine-complex-120-veggie-capsules.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 120 veggie capsules (120 servings)
+    - ~$22.99 on iHerb (about $0.38 per serving)
+    - 37.5 mg PepZin GI zinc carnosine per capsule
+  tip: "4.8 stars from 25,866 iHerb ratings; the gold standard for gut lining support."
+  note: "PepZin GI is the patented zinc carnosine complex studied for gastrointestinal mucosal protection."
+  url: https://www.iherb.com/pr/doctor-s-best-pepzin-gi-zinc-carnosine-complex-120-veggie-capsules/2467?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Doctor%27s+Best+PepZin+GI+120&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/doctor-s-best-pepzin-gi-zinc-carnosine-complex-120-veggie-capsules/2467?rcode=RZK388
+
+- name: Doctor's Best Vitamin D3, 5,000 IU, 360 Fish Gelatin Softgels
+  badge: Budget high-dose D3
+  retailer: iHerb
+  image: /images/brands/doctors-best/doctors-best-vitamin-d3-5000-iu-360-fish-gelatin-softgels.jpg
+  stars: 5
+  rating: 4.9
+  meta:
+    - 360 softgels (360 servings)
+    - ~$13.99 on iHerb (about $0.04 per serving)
+    - 5,000 IU D3 per softgel
+  tip: "4.9 stars from 79,113 iHerb ratings; the highest-rated D3 on the site."
+  note: "360-day supply at the lowest per-serving price for a high-dose D3 bottle."
+  url: https://www.iherb.com/pr/doctor-s-best-vitamin-d3-5000-iu-360-fish-gelatin-softgels/36580?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Doctor%27s+Best+Vitamin+D3+5000+IU+360&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/doctor-s-best-vitamin-d3-5000-iu-360-fish-gelatin-softgels/36580?rcode=RZK388
+
+- name: Doctor's Best Natural Vitamin K2 (MK-7), 100 mcg, 60 Veggie Capsules
+  badge: Budget K2
+  retailer: iHerb
+  image: /images/brands/doctors-best/doctors-best-natural-vitamin-k2-mk-7-100-mcg-60-veggie-capsules.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 60 veggie capsules (60 servings)
+    - ~$13.99 on iHerb (about $0.23 per serving)
+    - 100 mcg natural K2 (MK-7) per capsule
+  tip: "4.8 stars from 19,768 iHerb ratings; pairs with D3 for calcium regulation."
+  note: "Natural-source MK-7 from fermented soy, vegan capsule."
+  url: https://www.iherb.com/pr/doctor-s-best-natural-vitamin-k2-mk-7-100-mcg-60-veggie-capsules/61585?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Doctor%27s+Best+Vitamin+K2+MK-7+100+mcg+60&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/doctor-s-best-natural-vitamin-k2-mk-7-100-mcg-60-veggie-capsules/61585?rcode=RZK388
+
+- name: Doctor's Best Fully Active B Complex, 60 Veggie Capsules
+  badge: Budget methylated Bs
+  retailer: iHerb
+  image: /images/brands/doctors-best/doctors-best-fully-active-b-complex-60-veggie-capsules.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 60 veggie capsules (60 servings)
+    - ~$17.99 on iHerb (about $0.30 per serving)
+    - Methylated B12 (methylcobalamin) and folate (5-methylfolate) per capsule
+  tip: "4.7 stars from 23,209 iHerb ratings; methylated Bs for better absorption."
+  note: "Methylated B vitamins are better absorbed by people with MTHFR mutations or poor methylation."
+  url: https://www.iherb.com/pr/doctor-s-best-fully-active-b-complex-60-veggie-capsules/87124?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Doctor%27s+Best+Fully+Active+B+Complex+60&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/doctor-s-best-fully-active-b-complex-60-veggie-capsules/87124?rcode=RZK388
+
+- name: Doctor's Best Lutein, Lutemax 2020, 20 mg, 60 Veggie Capsules
+  badge: Patented eye care
+  retailer: iHerb
+  image: /images/brands/doctors-best/doctors-best-lutein-lutemax-2020-20-mg-60-veggie-capsules.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 60 veggie capsules (60 servings)
+    - ~$16.47 on iHerb (about $0.27 per serving)
+    - 20 mg Lutemax 2020 lutein + 4 mg zeaxanthin per capsule
+  tip: "4.7 stars from 36,429 iHerb ratings; Lutemax 2020 is the most studied lutein source."
+  note: "Lutemax 2020 is the lutein form used in the AREDS 2 eye study."
+  url: https://www.iherb.com/pr/doctor-s-best-lutein-lutemax-2020-20-mg-60-veggie-capsules/63505?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Doctor%27s+Best+Lutein+Lutemax+2020+20+mg+60&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/doctor-s-best-lutein-lutemax-2020-20-mg-60-veggie-capsules/63505?rcode=RZK388
+
+- name: Doctor's Best Ginkgo Biloba Extract, 120 mg, 120 Veggie Capsules
+  badge: Budget cognition support
+  retailer: iHerb
+  image: /images/brands/doctors-best/doctors-best-ginkgo-biloba-extract-120-mg-120-veggie-capsules.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 120 veggie capsules (120 servings)
+    - ~$12.99 on iHerb (about $0.11 per serving)
+    - 120 mg ginkgo extract (24% ginkgolides, 6% bilobalide) per capsule
+  tip: "4.7 stars from 70,414 iHerb ratings; standardized extract."
+  note: "Ginkgo biloba extract is standardized to 24% ginkgolides and 6% bilobalide, the most studied form."
+  url: https://www.iherb.com/pr/doctor-s-best-ginkgo-biloba-extract-120-mg-120-veggie-capsules/26?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Doctor%27s+Best+Ginkgo+120+mg+120&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/doctor-s-best-ginkgo-biloba-extract-120-mg-120-veggie-capsules/26?rcode=RZK388
+
+- name: Doctor's Best Nattokinase, 2,000 FU, 270 Veggie Capsules
+  badge: Patented cardiovascular support
+  retailer: iHerb
+  image: /images/brands/doctors-best/doctors-best-nattokinase-2000-fu-270-veggie-capsules.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 270 veggie capsules (270 servings)
+    - ~$36.99 on iHerb (about $0.14 per serving)
+    - 2,000 FU nattokinase (NSK-SD) per capsule
+  tip: "4.8 stars from 18,612 iHerb ratings; 270-day supply."
+  note: "NSK-SD is the most studied nattokinase source; 2,000 FU is the standard clinical dose."
+  url: https://www.iherb.com/pr/doctor-s-best-nattokinase-2000-fu-270-veggie-capsules/36581?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Doctor%27s+Best+Nattokinase+2000+FU+270&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/doctor-s-best-nattokinase-2000-fu-270-veggie-capsules/36581?rcode=RZK388
+
+- name: Doctor's Best Alpha-Lipoic Acid, 600 mg, 60 Veggie Capsules
+  badge: Budget high-dose ALA
+  retailer: iHerb
+  image: /images/brands/doctors-best/doctors-best-alpha-lipoic-acid-600-mg-60-veggie-capsules.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 60 veggie capsules (60 servings)
+    - ~$16.99 on iHerb (about $0.28 per serving)
+    - 600 mg alpha-lipoic acid per capsule
+  tip: "4.8 stars from 42,114 iHerb ratings; 600 mg is the standard dose used in diabetic neuropathy studies."
+  note: "Single capsule a day for the full clinical dose; best taken on an empty stomach."
+  url: https://www.iherb.com/pr/doctor-s-best-alpha-lipoic-acid-600-mg-60-veggie-capsules/2475?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Doctor%27s+Best+Alpha-Lipoic+Acid+600+mg+60&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/doctor-s-best-alpha-lipoic-acid-600-mg-60-veggie-capsules/2475?rcode=RZK388
+
+- name: Doctor's Best Pure Fish Oil (1,000 mg), 120 Softgels
+  badge: Budget fish oil from Doctor's Best
+  retailer: iHerb
+  image: /images/brands/doctors-best/doctors-best-pure-fish-oil-1000-mg-120-softgels.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 120 softgels (120 servings)
+    - ~$25.99 on iHerb (about $0.43 per serving)
+    - 1,000 mg fish oil per softgel (300 mg EPA + 200 mg DHA)
+  tip: "4.8 stars from 4,625 iHerb ratings; one a day for basic omega-3 support."
+  note: "Simple entry-level fish oil; compare EPA + DHA per serving against higher-potency formulas."
+  url: https://www.iherb.com/pr/doctor-s-best-pure-fish-oil-120-fish-gelatin-softgels/81884?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Doctor%27s+Best+Pure+Fish+Oil+120&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/doctor-s-best-pure-fish-oil-120-fish-gelatin-softgels/81884?rcode=RZK388

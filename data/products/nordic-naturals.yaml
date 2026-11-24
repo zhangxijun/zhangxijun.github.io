@@ -1,0 +1,287 @@
+# Nordic Naturals brand page product cards (English).
+# Rendered by {{< product-grid data="nordic-naturals" item="N" >}}
+# Prices and ratings checked on Amazon US 2026-11-22.
+- name: Nordic Naturals Ultimate Omega, Lemon Flavor, 180 Softgels
+  badge: Best high-concentration omega-3
+  retailer: Amazon
+  image: /images/brands/nordic-naturals/nordic-naturals-ultimate-omega-lemon-flavor-180-softgels.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 180 softgels (180 servings)
+    - ~$59–65 on Amazon (about $0.68 per serving)
+    - 640 mg total omega-3 per softgel (rTG form), FOS-certified
+  tip: "Best-selling premium omega-3: IFOS purity, MSC source, natural lemon."
+  note: "Ultimate Omega is the flagship Nordic product; one softgel delivers the 640 mg omega-3 dose most experts recommend."
+  url: https://www.amazon.com/dp/B002CQU564?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B002CQU564?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nordic-naturals-ultimate-omega-great-lemon-180-soft-gels-640-mg-per-soft-gel/12949?rcode=RZK388
+
+- name: Nordic Naturals Children's DHA, Ages 1+, Strawberry, 4 fl oz (119 ml)
+  badge: #1 children's omega-3
+  retailer: iHerb
+  image: /images/brands/nordic-naturals/nordic-naturals-childrens-dha-ages-1-strawberry-4-fl-oz-119-ml.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 119 ml (about 59 servings at 2 ml)
+    - ~$18.98 on iHerb (about $0.32 per serving)
+    - 530 mg total omega-3 per 2 ml (DHA-dominant)
+  tip: "#1 children's omega-3 with 44,962 iHerb ratings at 4.8."
+  note: "Strawberry-flavored liquid for 1+ toddlers; DHA-dominant for brain and eye development; mixes into smoothies or yogurt."
+  url: https://www.iherb.com/pr/nordic-naturals-children-s-dha-ages-1-strawberry-4-fl-oz-119-ml/4193?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Nordic+Naturals+Children%27s+DHA+119+ml+Strawberry&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nordic-naturals-children-s-dha-ages-1-strawberry-4-fl-oz-119-ml/4193?rcode=RZK388
+
+- name: Nordic Naturals Prenatal DHA, 180 Softgels
+  badge: Best prenatal DHA
+  retailer: iHerb
+  image: /images/brands/nordic-naturals/nordic-naturals-prenatal-dha-180-softgels.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 180 softgels (180 servings)
+    - ~$49.53 on iHerb (about $0.28 per serving)
+    - 830 mg DHA per softgel, FOS-certified
+  tip: "4.8 stars from 16,330 iHerb ratings; DHA from FOS-certified fisheries."
+  note: "830 mg DHA is the dose specified in prenatal omega-3 research; FOS-certified for sustainable fish sourcing."
+  url: https://www.iherb.com/pr/nordic-naturals-prenatal-dha-180-softgels/43653?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Nordic+Naturals+Prenatal+DHA+180&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nordic-naturals-prenatal-dha-180-softgels/43653?rcode=RZK388
+
+- name: Nordic Naturals Ultimate Omega 2X, Lemon, 120 Softgels
+  badge: Highest single-pill omega-3 dose
+  retailer: iHerb
+  image: /images/brands/nordic-naturals/nordic-naturals-ultimate-omega-2x-lemon-120-softgels.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 120 softgels (120 servings)
+    - ~$89.45 on iHerb (about $0.75 per serving)
+    - 1,075 mg omega-3 per softgel (rTG form)
+  tip: "4.7 stars from 3,767 iHerb ratings; single-pill 1,075 mg for high-dose users."
+  note: "The highest omega-3 dose per single softgel we reviewed; for users who want maximum EPA + DHA in one pill."
+  url: https://www.iherb.com/pr/nordic-naturals-ultimate-omega-2x-lemon-120-soft-gels-1-075-mg-per-softgel/73701?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Nordic+Naturals+Ultimate+Omega+2X+120&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nordic-naturals-ultimate-omega-2x-lemon-120-soft-gels-1-075-mg-per-softgel/73701?rcode=RZK388
+
+- name: Nordic Naturals ProOmega 2000, 120 Softgels
+  badge: Practitioner-grade omega-3
+  retailer: iHerb
+  image: /images/brands/nordic-naturals/nordic-naturals-proomega-2000-120-softgels.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 120 softgels (120 servings)
+    - ~$104.94 on iHerb (about $0.87 per serving)
+    - 1,075 mg omega-3 per softgel (rTG, higher EPA ratio)
+  tip: "4.7 stars from 1,803 iHerb ratings; practitioner-grade formula."
+  note: "Higher EPA ratio for cardiovascular focus; the most expensive omega-3 product we reviewed at 87 cents per serving."
+  url: https://www.iherb.com/pr/nordic-naturals-proomega-2000-lemon-120-soft-gels-1-075-mg-per-softgel/79933?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Nordic+Naturals+ProOmega+2000+120&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nordic-naturals-proomega-2000-lemon-120-soft-gels-1-075-mg-per-softgel/79933?rcode=RZK388
+
+- name: Nordic Naturals Ultimate Omega + CoQ10, 120 Softgels
+  badge: Omega-3 + CoQ10 combo
+  retailer: iHerb
+  image: /images/brands/nordic-naturals/nordic-naturals-ultimate-omega-coq10-120-softgels.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 120 softgels (120 servings)
+    - ~$67.67 on iHerb (about $0.56 per serving)
+    - 640 mg omega-3 + 50 mg CoQ10 per softgel
+  tip: "4.7 stars from 2,465 iHerb ratings; two supplements in one pill."
+  note: "Combines Ultimate Omega's 640 mg EPA + DHA with 50 mg CoQ10 per softgel; good for shoppers trying to minimize pill count."
+  url: https://www.iherb.com/pr/nordic-naturals-ultimate-omega-coq10-lemon-120-soft-gels/70979?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Nordic+Naturals+Ultimate+Omega+CoQ10+120&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nordic-naturals-ultimate-omega-coq10-lemon-120-soft-gels/70979?rcode=RZK388
+
+- name: Nordic Naturals Ultimate Omega-D3, 120 Softgels
+  badge: Omega-3 + D3 combo
+  retailer: iHerb
+  image: /images/brands/nordic-naturals/nordic-naturals-ultimate-omega-d3-120-softgels.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 120 softgels (120 servings)
+    - ~$50.43 on iHerb (about $0.42 per serving)
+    - 640 mg omega-3 + 1,000 IU D3 per softgel
+  tip: "4.7 stars from 1,733 iHerb ratings; omega-3 + D3."
+  note: "Combines omega-3 with 1,000 IU D3; for regions where vitamin D deficiency is common (US Midwest, Northeast)."
+  url: https://www.iherb.com/pr/nordic-naturals-ultimate-omega-d3-lemon-120-soft-gels/16898?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Nordic+Naturals+Ultimate+Omega+D3+120&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nordic-naturals-ultimate-omega-d3-lemon-120-soft-gels/16898?rcode=RZK388
+
+- name: Nordic Naturals Omega-3, Lemon, 8 fl oz (237 ml)
+  badge: Omega-3 liquid
+  retailer: iHerb
+  image: /images/brands/nordic-naturals/nordic-naturals-omega-3-lemon-8-fl-oz-237-ml.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 237 ml (about 59 servings at 4 ml)
+    - ~$27.83 on iHerb (about $0.47 per serving)
+    - 1,560 mg omega-3 per 4 ml
+  tip: "4.8 stars from 16,146 iHerb ratings; liquid for people who hate softgels."
+  note: "1,560 mg omega-3 per 4 ml — much higher per serving than softgels; mix with cold food or drink to avoid oxidation."
+  url: https://www.iherb.com/pr/nordic-naturals-omega-3-lemon-1-560-mg-8-fl-oz-237-ml/4191?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Nordic+Naturals+Omega-3+Liquid+237+ml&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nordic-naturals-omega-3-lemon-1-560-mg-8-fl-oz-237-ml/4191?rcode=RZK388
+
+- name: Nordic Naturals Arctic Cod Liver Oil, Lemon, 180 Softgels
+  badge: Brand heritage product
+  retailer: iHerb
+  image: /images/brands/nordic-naturals/nordic-naturals-arctic-cod-liver-oil-lemon-180-softgels.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 180 softgels (180 servings)
+    - ~$46.40 on iHerb (about $0.26 per serving)
+    - 470 mg omega-3 + 420 mg natural A + 480 mg natural D3 per softgel
+  tip: "4.7 stars from 2,893 iHerb ratings; original cod liver oil form."
+  note: "The product that founded Nordic Naturals (Norwegian cod liver oil); includes natural vitamins A and D3 from the cod liver itself."
+  url: https://www.iherb.com/pr/nordic-naturals-arctic-cod-liver-oil-lemon-180-soft-gels/14007?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Nordic+Naturals+Arctic+Cod+Liver+Oil+180&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nordic-naturals-arctic-cod-liver-oil-lemon-180-soft-gels/14007?rcode=RZK388
+
+- name: Nordic Naturals Algae Omega, 120 Softgels
+  badge: Vegan algae omega-3
+  retailer: iHerb
+  image: /images/brands/nordic-naturals/nordic-naturals-algae-omega-120-softgels.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 120 softgels (120 servings)
+    - ~$47.73 on iHerb (about $0.40 per serving)
+    - 745 mg total omega-3 (375 mg EPA + 250 mg DHA) per 2 softgels
+  tip: "4.7 stars from 1,210 iHerb ratings; vegan omega-3 from algae."
+  note: "Algae-based, no fish, FOS-certified; two softgels per serving for 625 mg EPA + DHA."
+  url: https://www.iherb.com/pr/nordic-naturals-algae-omega-120-soft-gels-357-5-mg-per-softgel/106320?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Nordic+Naturals+Algae+Omega+120&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nordic-naturals-algae-omega-120-soft-gels-357-5-mg-per-softgel/106320?rcode=RZK388
+
+- name: Nordic Naturals ProDHA Xtra, Strawberry, 120 Softgels
+  badge: High-DHA softgels
+  retailer: iHerb
+  image: /images/brands/nordic-naturals/nordic-naturals-prodha-xtra-strawberry-120-softgels.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 120 softgels (120 servings)
+    - ~$64.64 on iHerb (about $0.54 per serving)
+    - 890 mg DHA + 250 mg EPA per 2 softgels
+  tip: "4.7 stars from 1,716 iHerb ratings; DHA-dominant for brain support."
+  note: "DHA-heavy formula (890 mg DHA vs 250 mg EPA per 2 softgels); for shoppers prioritizing brain and eye development."
+  url: https://www.iherb.com/pr/nordic-naturals-prodha-xtra-strawberry-120-soft-gels/70444?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Nordic+Naturals+ProDHA+Xtra+120&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nordic-naturals-prodha-xtra-strawberry-120-soft-gels/70444?rcode=RZK388
+
+- name: Nordic Naturals Children's DHA Gummy Chews, Ages 3+, Tropical Punch, 30 Gummies
+  badge: Children's omega-3 gummies
+  retailer: iHerb
+  image: /images/brands/nordic-naturals/nordic-naturals-childrens-dha-gummy-chews-ages-3-tropical-punch-30-gummies.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 30 gummies (30 servings)
+    - ~$19.78 on iHerb (about $0.66 per serving)
+    - 355 mg total omega-3 per gummy
+  tip: "4.7 stars from 14,494 iHerb ratings; gummy form for ages 3+."
+  note: "Gummies for kids who won't take liquid; DHA-dominant, less fishy aftertaste than softgels."
+  url: https://www.iherb.com/pr/nordic-naturals-children-s-dha-gummy-chews-ages-3-tropical-punch-30-gummies-355-mg-per-gummy/96460?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Nordic+Naturals+Children%27s+DHA+Gummies+30&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nordic-naturals-children-s-dha-gummy-chews-ages-3-tropical-punch-30-gummies-355-mg-per-gummy/96460?rcode=RZK388
+
+- name: Nordic Naturals Ultimate Omega Junior, Ages 6+, Strawberry, 90 Mini Softgels
+  badge: Children's omega-3 softgels
+  retailer: iHerb
+  image: /images/brands/nordic-naturals/nordic-naturals-ultimate-omega-junior-ages-6-strawberry-90-mini-softgels.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 90 mini softgels (90 servings)
+    - ~$28.80 on iHerb (about $0.32 per serving)
+    - 340 mg total omega-3 per mini softgel
+  tip: "4.7 stars from 10,613 iHerb ratings; mini softgels for ages 6+."
+  note: "Rice-grain size softgels; same rTG form and FOS-certified fish oil as adult formulas."
+  url: https://www.iherb.com/pr/nordic-naturals-ultimate-omega-junior-ages-6-strawberry-90-mini-soft-gels-340-mg-per-soft-gel/33656?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Nordic+Naturals+Ultimate+Omega+Junior+90&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nordic-naturals-ultimate-omega-junior-ages-6-strawberry-90-mini-soft-gels-340-mg-per-soft-gel/33656?rcode=RZK388
+
+- name: Nordic Naturals Vitamin D3, 1,000 IU, 120 Mini Softgels (Orange)
+  badge: Nordic's non-omega product
+  retailer: iHerb
+  image: /images/brands/nordic-naturals/nordic-naturals-vitamin-d3-1000-iu-120-mini-softgels-orange.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 120 mini softgels (120 servings)
+    - ~$16.17 on iHerb (about $0.13 per serving)
+    - 1,000 IU D3 per mini softgel
+  tip: "4.7 stars from 1,338 iHerb ratings; mini softgel D3."
+  note: "Nordic's flagship non-fish-oil product; lanolin-sourced D3 in mini softgels."
+  url: https://www.iherb.com/pr/nordic-naturals-vitamin-d3-1000-orange-25-mcg-1-000-iu-120-mini-soft-gels/23079?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Nordic+Naturals+Vitamin+D3+1000+120&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nordic-naturals-vitamin-d3-1000-orange-25-mcg-1-000-iu-120-mini-soft-gels/23079?rcode=RZK388
+
+- name: Nordic Naturals Magnesium Complex, 90 Capsules
+  badge: Nordic's specialty line
+  retailer: iHerb
+  image: /images/brands/nordic-naturals/nordic-naturals-magnesium-complex-90-capsules.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 90 capsules (90 servings)
+    - ~$19.78 on iHerb (about $0.22 per serving)
+    - 200 mg magnesium (oxide + citrate + aspartate blend) per capsule
+  tip: "4.7 stars from 1,695 iHerb ratings; blend of three magnesium forms."
+  note: "Nordic's specialty product to supplement omega-3 line; mixed magnesium forms for better tolerance than pure oxide."
+  url: https://www.iherb.com/pr/nordic-naturals-magnesium-complex-90-capsules/100772?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Nordic+Naturals+Magnesium+Complex+90&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/nordic-naturals-magnesium-complex-90-capsules/100772?rcode=RZK388

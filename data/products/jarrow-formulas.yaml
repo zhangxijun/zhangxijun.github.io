@@ -1,0 +1,287 @@
+# Jarrow Formulas brand page product cards (English).
+# Rendered by {{< product-grid data="jarrow-formulas" item="N" >}}
+# Prices and ratings checked on Amazon US 2026-11-22 (verified in prior content).
+- name: Jarrow Jarro-Dophilus EPS, 5 Billion CFU per Cap, 120 Veggie Capsules
+  badge: #1 clinically studied probiotic
+  retailer: Amazon
+  image: /images/brands/jarrow-formulas/jarrow-jarro-dophilus-eps-5-billion-cfu-per-cap-120-veggie-capsules.jpg
+  stars: 4
+  rating: 4.6
+  meta:
+    - 120 veggie capsules (60 servings)
+    - ~$34–35 on Amazon (about $0.59 per serving)
+    - 5 billion CFU per capsule, 8 clinically studied strains
+  tip: "#1 on iHerb's top 10 probiotic rankings; 19,783 iHerb ratings."
+  note: "The flagship Jarro-Dophilus line, with full clinical trial data on strains; take two per day for 10 billion CFU."
+  url: https://www.amazon.com/dp/B0043ERL4C?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0043ERL4C?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/jarrow-formulas-jarro-dophilus-eps-120-veggie-caps-5-billion-cfu-per-capsule/7006?rcode=RZK388
+
+- name: Jarrow Methyl Folate, 400 mcg, 60 Veggie Capsules
+  badge: Bioactive folate
+  retailer: iHerb
+  image: /images/brands/jarrow-formulas/jarrow-methyl-folate-400-mcg-60-veggie-capsules.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 60 veggie capsules (60 servings)
+    - ~$10 on iHerb (about $0.17 per serving)
+    - 400 mcg 5-methylfolate (bioactive form) per capsule
+  tip: "4.8 stars from 51,276 iHerb ratings; #1 folate product on iHerb."
+  note: "5-methylfolate (Quatrefolic) bypasses the MTHFR enzyme, making it suitable for anyone with methylation issues."
+  url: https://www.iherb.com/pr/jarrow-formulas-vegan-methyl-folate-400-mcg-60-veggie-capsules/42778?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Jarrow+Methyl+Folate+400+mcg+60&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/jarrow-formulas-vegan-methyl-folate-400-mcg-60-veggie-capsules/42778?rcode=RZK388
+
+- name: Jarrow Ubiquinol QH-Absorb, 100 mg, 120 Softgels
+  badge: Premium ubiquinol
+  retailer: Amazon
+  image: /images/brands/jarrow-formulas/jarrow-ubiquinol-qh-absorb-100-mg-120-softgels.jpg
+  stars: 4
+  rating: 4.6
+  meta:
+    - 120 softgels (120 servings)
+    - ~$63 on Amazon (about $0.53 per serving)
+    - 100 mg ubiquinol (reduced CoQ10) per softgel
+  tip: "4.6 stars from 3,995 iHerb ratings; Kaneka QH-Absorb branded ubiquinol."
+  note: "Kaneka QH-Absorb is the most studied ubiquinol; expensive, but absorption is significantly better than ubiquinone."
+  url: https://www.amazon.com/dp/B004VCOOUU?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B004VCOOUU?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/jarrow-formulas-ubiquinol-qh-absorb-max-absorption-100-mg-120-softgels/36529?rcode=RZK388
+
+- name: Jarrow MagMind (Magtein Magnesium L-Threonate), 90 Veggie Capsules
+  badge: Magnesium for cognition
+  retailer: Amazon
+  image: /images/brands/jarrow-formulas/jarrow-magmind-magtein-magnesium-l-threonate-90-veggie-capsules.jpg
+  stars: 4
+  rating: 4.6
+  meta:
+    - 90 veggie capsules (45 servings)
+    - ~$41.88 on iHerb (about $0.93 per serving)
+    - 48 mg elemental magnesium (Magtein) per capsule, 2 capsules per serving
+  tip: "30-day supply; Magtein crosses the blood-brain barrier, the only magnesium form shown to do this."
+  note: "Magtein (magnesium L-threonate) is the only magnesium form with evidence of crossing the blood-brain barrier; the most expensive magnesium in our review."
+  url: https://www.amazon.com/dp/B007LEO4Y6?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B007LEO4Y6?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/jarrow-formulas-magmind-brain-health-90-veggie-capsules-48-mg-per-capsule/42780?rcode=RZK388
+
+- name: Jarrow Zinc Balance, 100 Veggie Capsules
+  badge: Copper-chelated zinc
+  retailer: iHerb
+  image: /images/brands/jarrow-formulas/jarrow-zinc-balance-100-veggie-capsules.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 100 veggie capsules (50 servings)
+    - ~$12.73 on iHerb (about $0.25 per serving)
+    - 15 mg zinc + 1 mg copper per 2 capsules
+  tip: "4.7 stars from 38,244 iHerb ratings; zinc + copper chelated."
+  note: "Most supplement zinc lacks copper, which zinc supplementation can deplete; this formula adds copper to balance that risk."
+  url: https://www.iherb.com/pr/jarrow-formulas-vegan-zinc-balance-100-veggie-capsules/278?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Jarrow+Zinc+Balance+100&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/jarrow-formulas-vegan-zinc-balance-100-veggie-capsules/278?rcode=RZK388
+
+- name: Jarrow Methyl B-12, 1,000 mcg, 100 Chewable Lemon Tablets
+  badge: Budget methyl B12
+  retailer: iHerb
+  image: /images/brands/jarrow-formulas/jarrow-methyl-b-12-1000-mcg-100-chewable-lemon-tablets.jpg
+  stars: 5
+  rating: 4.8
+  meta:
+    - 100 chewable tablets (100 servings)
+    - ~$11.82 on iHerb (about $0.12 per serving)
+    - 1,000 mcg methylcobalamin per tablet (sublingual/chewable)
+  tip: "4.8 stars from 12,695 iHerb ratings; chewable methyl B12 at an entry-level price."
+  note: "Chewable form for people who struggle with swallowing tablets; methylcobalamin is the most bioavailable B12 form."
+  url: https://www.iherb.com/pr/jarrow-formulas-methyl-b-12-lemon-1-000-mcg-100-chewable-tablets/129?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Jarrow+Methyl+B-12+1000+mcg+100&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/jarrow-formulas-methyl-b-12-lemon-1-000-mcg-100-chewable-tablets/129?rcode=RZK388
+
+- name: Jarrow KSM-66 Ashwagandha, 300 mg, 120 Veggie Capsules
+  badge: Clinically studied ashwagandha
+  retailer: Amazon
+  image: /images/brands/jarrow-formulas/jarrow-ksm-66-ashwagandha-300-mg-120-veggie-capsules.jpg
+  stars: 4
+  rating: 4.8
+  meta:
+    - 120 veggie capsules (120 servings)
+    - ~$22.93 on Amazon (about $0.19 per serving)
+    - 300 mg KSM-66 ashwagandha (5% withanolides) per capsule
+  tip: "4.5 stars from 1,997 Amazon ratings; take two caps for 600 mg clinical dose."
+  note: "KSM-66 is the most studied ashwagandha source; 300 mg per capsule vs. NOW's 600 mg per capsule. For the clinical dose you'd take two Jarrow or one NOW."
+  url: https://www.amazon.com/dp/B0013OQEO8?tag=ibetterlife-20
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/dp/B0013OQEO8?tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/jarrow-formulas-ashwagandha-300-mg-120-veggie-capsules/3302?rcode=RZK388
+
+- name: Jarrow Bone-Up, 1,000 mg, 360 Capsules
+  badge: Osteoporosis-friendly calcium blend
+  retailer: iHerb
+  image: /images/brands/jarrow-formulas/jarrow-bone-up-1000-mg-360-capsules.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 360 capsules (90 servings)
+    - ~$40.17 on iHerb (about $0.45 per serving)
+    - 1,000 mg elemental calcium per 4 capsules, plus vitamin D, K and magnesium
+  tip: "4.7 stars from 4,963 iHerb ratings; multi-source calcium, not just carbonate."
+  note: "Uses multiple calcium forms (citrate, malate, carbonate, hydroxyapatite) for better tolerance than single-source calcium. Six-time Vitamin Retailer Vity Award winner (specific years not published by the brand)."
+  url: https://www.iherb.com/pr/jarrow-formulas-bone-up-1-000-mg-360-capsules/24589?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Jarrow+Bone-Up+1000+mg+360&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/jarrow-formulas-bone-up-1-000-mg-360-capsules/24589?rcode=RZK388
+
+- name: Jarrow Curcumin Phytosome (Meriva), 500 mg, 120 Veggie Capsules
+  badge: Meriva branded curcumin phytosome
+  retailer: iHerb
+  image: /images/brands/jarrow-formulas/jarrow-curcumin-phytosome-meriva-500-mg-120-veggie-capsules.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 120 veggie capsules (60 servings)
+    - ~$45.53 on iHerb (about $0.76 per serving)
+    - 500 mg Meriva curcumin phytosome per 2 capsules
+  tip: "4.7 stars from 9,363 iHerb ratings; Meriva is the most bioavailable curcumin form."
+  note: "Meriva is the phospholipid curcumin complex with significantly better bioavailability than standard 95% curcuminoids. The most expensive curcumin option we reviewed."
+  url: https://www.iherb.com/pr/jarrow-formulas-curcumin-phytosome-500-mg-120-veggie-capsules/70839?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Jarrow+Curcumin+Phytosome+Meriva+120&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/jarrow-formulas-curcumin-phytosome-500-mg-120-veggie-capsules/70839?rcode=RZK388
+
+- name: Jarrow Saccharomyces boulardii + MOS, 5 Billion CFU, 90 Veggie Capsules
+  badge: Anti-biotic associated diarrhea probiotic
+  retailer: iHerb
+  image: /images/brands/jarrow-formulas/jarrow-saccharomyces-boulardii-mos-5-billion-cfu-90-veggie-capsules.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 90 veggie capsules (90 servings)
+    - ~$28.22 on iHerb (about $0.31 per serving)
+    - 5 billion CFU S. boulardii + 200 mg MOS (mannan oligosaccharide) per capsule
+  tip: "4.7 stars from 28,988 iHerb ratings; yeast probiotic, survives antibiotics."
+  note: "S. boulardii is a yeast probiotic that survives antibiotic treatment (unlike lactobacillus); used for antibiotic-associated diarrhea."
+  url: https://www.iherb.com/pr/jarrow-formulas-vegan-saccharomyces-boulardii-mos-90-veggie-capsules/372?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Jarrow+Saccharomyces+boulardii+MOS+90&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/jarrow-formulas-vegan-saccharomyces-boulardii-mos-90-veggie-capsules/372?rcode=RZK388
+
+- name: Jarrow Fem-Dophilus, 1 Billion CFU, 60 Veggie Capsules
+  badge: Women-specific probiotic
+  retailer: iHerb
+  image: /images/brands/jarrow-formulas/jarrow-fem-dophilus-1-billion-cfu-60-veggie-capsules.jpg
+  stars: 4
+  rating: 4.6
+  meta:
+    - 60 veggie capsules (60 servings)
+    - ~$36.42 on iHerb (about $0.61 per serving)
+    - 1 billion CFU GR-1 + RC-14 (Urex) per capsule
+  tip: "4.6 stars from 16,295 iHerb ratings; Urex strains for urogenital balance."
+  note: "GR-1 and RC-14 are two of the most studied lactobacillus strains for women's urogenital tract health."
+  url: https://www.iherb.com/pr/jarrow-formulas-fem-dophilus-1-billion-cfu-60-veggie-capsules/68259?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Jarrow+Fem-Dophilus+60&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/jarrow-formulas-fem-dophilus-1-billion-cfu-60-veggie-capsules/68259?rcode=RZK388
+
+- name: Jarrow Type II Collagen Complex, 500 mg, 60 Veggie Capsules
+  badge: Undenatured UC-II joint support
+  retailer: iHerb
+  image: /images/brands/jarrow-formulas/jarrow-type-ii-collagen-complex-500-mg-60-veggie-capsules.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 60 veggie capsules (60 servings)
+    - ~$20.02 on iHerb (about $0.33 per serving)
+    - 40 mg undenatured Type II collagen (UC-II) + hyaluronic acid per capsule
+  tip: "4.7 stars from 5,513 iHerb ratings; UC-II is the most studied collagen for joint health."
+  note: "UC-II undenatured Type II collagen works through oral tolerance — a different mechanism than glucosamine/chondroitin; 40 mg per capsule is the clinical dose."
+  url: https://www.iherb.com/pr/jarrow-formulas-type-ii-collagen-complex-60-capsules-500-mg-per-capsule/15926?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Jarrow+Type+II+Collagen+UC-II+60&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/jarrow-formulas-type-ii-collagen-complex-60-capsules-500-mg-per-capsule/15926?rcode=RZK388
+
+- name: Jarrow Lactoferrin, 250 mg, 60 Veggie Capsules
+  badge: Immune and iron support
+  retailer: iHerb
+  image: /images/brands/jarrow-formulas/jarrow-lactoferrin-250-mg-60-veggie-capsules.jpg
+  stars: 4
+  rating: 4.7
+  meta:
+    - 60 veggie capsules (60 servings)
+    - ~$52.81 on iHerb (about $0.88 per serving)
+    - 250 mg freeze-dried lactoferrin per capsule
+  tip: "4.7 stars from 11,984 iHerb ratings; freeze-dried lactoferrin for better retention."
+  note: "Lactoferrin is an immune-supporting iron-binding protein; Jarrow uses freeze-dried bovine lactoferrin."
+  url: https://www.iherb.com/pr/jarrow-formulas-lactoferrin-freeze-dried-250-mg-60-capsules/134?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Jarrow+Lactoferrin+250+mg+60&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/jarrow-formulas-lactoferrin-freeze-dried-250-mg-60-capsules/134?rcode=RZK388
+
+- name: Jarrow CoQ10, 200 mg, 60 Veggie Capsules
+  badge: High-dose CoQ10 without BioPerine
+  retailer: iHerb
+  image: /images/brands/jarrow-formulas/jarrow-coq10-200-mg-60-veggie-capsules.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 60 veggie capsules (60 servings)
+    - ~$31.86 on iHerb (about $0.53 per serving)
+    - 200 mg CoQ10 per veggie capsule
+  tip: "4.7 stars from 2,905 iHerb ratings; single 200 mg capsule."
+  note: "Higher dose than standard 100 mg CoQ10; vegan capsule (soy-free). Unlike Doctor's Best, it does not include BioPerine."
+  url: https://www.iherb.com/pr/jarrow-formulas-co-q10-200-mg-60-veggie-capsules/224?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Jarrow+CoQ10+200+mg+60&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/jarrow-formulas-co-q10-200-mg-60-veggie-capsules/224?rcode=RZK388
+
+- name: Jarrow Ideal Bowel Support, 299v (L. plantarum), 10 Billion CFU, 30 Veggie Capsules
+  badge: IBS-focused probiotic
+  retailer: iHerb
+  image: /images/brands/jarrow-formulas/jarrow-ideal-bowel-support-299v-l-plantarum-10-billion-cfu-30-veggie-capsules.jpg
+  stars: 5
+  rating: 4.7
+  meta:
+    - 30 veggie capsules (30 servings)
+    - ~$22.75 on iHerb (about $0.76 per serving)
+    - 10 billion CFU L. plantarum 299v per capsule
+  tip: "4.7 stars from 4,063 iHerb ratings; the most studied probiotic for IBS."
+  note: "L. plantarum 299v has 30+ clinical trials specifically for IBS symptoms; one strain, one purpose."
+  url: https://www.iherb.com/pr/jarrow-formulas-ideal-bowel-support-10-billion-cfu-30-veggie-capsules/23209?rcode=RZK388
+  links:
+    - store: Amazon
+      url: https://www.amazon.com/s?k=Jarrow+Ideal+Bowel+Support+299v+30&i=hpc&tag=ibetterlife-20
+    - store: iHerb
+      url: https://www.iherb.com/pr/jarrow-formulas-ideal-bowel-support-10-billion-cfu-30-veggie-capsules/23209?rcode=RZK388
